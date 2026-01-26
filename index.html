@@ -1,11 +1,103 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Entre la Razón y la Fe</title>
-  <style>body{font-family:sans-serif;max-width:800px;margin:2rem auto;padding:0 1rem;}</style>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #2c3e50;
+      --secondary: #e67e22;
+      --light: #f9f9f9;
+      --dark: #34495e;
+    }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Merriweather', serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #fff;
+      padding: 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding: 40px 0;
+      border-bottom: 3px solid var(--secondary);
+      margin-bottom: 30px;
+    }
+    h1 {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 2.5rem;
+      color: var(--primary);
+      margin-bottom: 10px;
+    }
+    .subtitle {
+      font-size: 1.2rem;
+      color: var(--dark);
+      font-style: italic;
+    }
+    ul {
+      list-style: none;
+    }
+    li {
+      margin: 15px 0;
+      padding: 15px;
+      border-radius: 8px;
+      background: var(--light);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    li:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    a {
+      text-decoration: none;
+      color: var(--primary);
+      font-weight: 600;
+      font-size: 1.1rem;
+      display: block;
+    }
+    a:hover {
+      color: var(--secondary);
+    }
+    .date {
+      font-size: 0.9rem;
+      color: #777;
+      margin-top: 5px;
+      font-family: 'Open Sans', sans-serif;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #eee;
+      color: #777;
+      font-family: 'Open Sans', sans-serif;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 15px;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <h1>Entre la Razón y la Fe</h1>
+    <div class="subtitle">Reflexiones sobre la vida, la mente y el espíritu</div>
+  </header>
+
+ <body>
   <h1>Entre la Razón y la Fe</h1>
   <ul>
     <li><a href="10-paradigmas-de-liderazgo/">10 Paradigmas De Liderazgo &#8211; Entre La Razón Y La Fe</a></li>
@@ -230,6 +322,17 @@
     <li><a href="vivir-el-bautismo-un-llamado-a-no-olvidar-quienes-somos/">Vivir el Bautismo: un llamado a no olvidar quiénes somos &#8211; Entre La Razón Y La Fe</a></li>
     <li><a href="wp-json/">wp-json</a></li>
   </ul>
-  <p><em>Archivo estático generado el dom 25 ene 2026 23:43:27 -05</em></p>
+   <footer>
+    <p>Archivo estático actualizado el <span id="current-date"></span></p>
+  </footer>
+
+  <script>
+    // Rellena automáticamente la fecha actual
+    document.getElementById('current-date').textContent = new Date().toLocaleDateString('es-ES', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    });
+  </script>
 </body>
 </html>
