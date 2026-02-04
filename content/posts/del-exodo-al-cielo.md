@@ -1,0 +1,32 @@
+--- 
+title: "Del Éxodo al Cielo"
+date: 2025-04-07
+draft: false
+cover:
+    image: "/images/2025/mar-rojo.png"
+    relative: false
+
+---
+
+<h2><strong>Vivimos en el desierto, pero no sin esperanza</strong></h2>
+<blockquote>
+<p><strong>&quot;Esta vida es el desierto entre el bautismo y la eternidad; no estamos perdidos, estamos en camino.&quot;</strong></p>
+</blockquote>
+<p>Hace poco, mientras rezaba las Vísperas del domingo, algo muy sencillo despertó en mí una profunda reflexión. La antífona del salmo segundo decía: <em>&quot;Nos ha sacado del dominio de las tinieblas y nos ha trasladado al Reino de su Hijo amado&quot;</em>. Al leer esas palabras, sentí que algo en mi interior se encendía. Era como si el Señor me hablara directamente al corazón, recordándome de dónde me ha sacado y hacia dónde me está llevando.</p>
+<p>Recordé entonces el Éxodo, esa gran historia de salvación que marcó a Israel y que sigue siendo figura de nuestra vida cristiana. Dios sacó a su pueblo de la esclavitud de Egipto, lo condujo por el desierto durante cuarenta años, y finalmente lo introdujo en la Tierra Prometida. Esta historia no es sólo un recuerdo del pasado, sino una clave para interpretar el presente que vivimos como creyentes.</p>
+<p>En mi oración, comprendí con más claridad que esta vida que llevamos no es todavía la Tierra Prometida. Estamos en el desierto. Hemos salido de Egipto, es decir, del pecado y de la esclavitud, gracias al bautismo que nos ha incorporado a Cristo. Hemos sido liberados, pero aún no hemos llegado a la plenitud. Todavía caminamos, todavía luchamos, todavía confiamos en la nube y en el maná, esperando el día en que crucemos el Jordán y entremos en la vida eterna.</p>
+<p>Esta vida, entonces, es un desierto. Pero no un desierto vacío o sin sentido. Es un tiempo de purificación, de prueba, de fidelidad. Es en este desierto donde se forma nuestro corazón, donde se acrisola nuestra fe, donde aprendemos a depender verdaderamente de Dios. El desierto, aunque duro, es también lugar de encuentro, de intimidad con Dios. Así lo experimentó Israel, y así lo podemos experimentar nosotros.</p>
+<p>El mismo Jesús, antes de comenzar su misión pública, fue llevado al desierto por el Espíritu para ser probado. Allí ayunó, oró, venció las tentaciones del enemigo. Nosotros, unidos a Él, también atravesamos nuestro propio desierto, con sus sequedades, sus pruebas, sus noches oscuras… pero también con la certeza de que no estamos solos.</p>
+<p>San Pablo lo dice con claridad en la primera carta a los Corintios (cf. 1 Cor 10,1-13): el pueblo de Israel fue bautizado al pasar el mar, comió un pan espiritual, bebió una bebida espiritual, pero muchos no llegaron porque no permanecieron fieles. Esta advertencia no es para asustarnos, sino para animarnos a perseverar. Nuestro caminar no es fácil, pero es seguro si nos mantenemos en Cristo.</p>
+<p>San Agustín, en uno de sus sermones, decía: <em>“Toda nuestra vida es un tiempo de Pascua, mientras vamos del Egipto de este mundo hacia la tierra de promisión”</em>. Qué hermoso es ver la vida desde esta perspectiva: un viaje pascual, una travesía desde la esclavitud hacia la libertad definitiva. El Jordán, entonces, es símbolo de nuestra muerte, ese último paso que nos abre las puertas a la plenitud del Reino, donde ya no habrá llanto ni dolor, y donde Cristo será todo en todos.</p>
+
+<p><strong>Nota personal:</strong> </p>
+<blockquote>Hace un tiempo, cuando asistía a una comunidad no católica, escuché que relacionaban el cruce del Jordán con una vía de prosperidad terrena, como si la Tierra Prometida fuese sinónimo de abundancia material. Con todo respeto, esa interpretación queda corta frente a la riqueza de nuestra fe. La Iglesia nos enseña que el verdadero paso del Jordán es la entrada en la vida eterna, fruto de la Pascua de Cristo, donde la prosperidad última es la comunión perfecta con Dios. No niego que Dios bendice también con bienes temporales, pero el Evangelio nos llama a buscar primero el Reino de los cielos y su justicia (Mt 6,33). El desierto de este mundo no se supera con fórmulas de riqueza, sino con la confianza en la gracia de Dios y la participación en el misterio pascual de Jesús.</blockquote>
+<p></p>
+
+<p>Volver a esta imagen del desierto me ayuda a no desanimarme cuando la vida se vuelve árida, cuando las pruebas parecen interminables o cuando la esperanza flaquea. Me recuerda que no camino solo, que Dios me alimenta con su Palabra y con su Cuerpo, que me guía con su Espíritu, y que el fin del camino vale todo el esfuerzo: el encuentro cara a cara con Él.</p>
+
+<p>La antífona de las Vísperas me hizo recordar también que ya hemos sido <em>&quot;trasladados al Reino del Hijo&quot;</em>. Es decir, aunque aún no hemos llegado al cielo, ya participamos de ese Reino por la fe, por los sacramentos, por la comunión con Cristo. El Reino ya está presente en nosotros, aunque todavía no en su plenitud. Vivimos en el &quot;ya, pero todavía no&quot;. Esta tensión entre lo que hemos recibido y lo que esperamos no es frustrante, sino profundamente esperanzadora. Nos impulsa a vivir con los ojos puestos en la meta, pero con los pies firmes en el presente.</p>
+<p>Comparto esta experiencia porque creo que muchos, como yo, pueden estar atravesando su propio desierto. Y quizás, también como yo, necesiten recordar que este tiempo de prueba es un tiempo sagrado. Que hay sentido en cada paso. Que Cristo nos precede y nos acompaña. Y que un día, si permanecemos fieles, entraremos con gozo en la Tierra Prometida.</p>
+<p>Durante la Cuaresma, el Señor nos invita a atravesar el desierto interior para vencer, con su gracia, los ídolos que nos esclavizan: el materialismo, la vanagloria, el ansia de poder. Todo eso que el mundo nos presenta como meta, pero que en realidad nos vacía. Porque nunca lo efímero podrá llenar un alma creada para la eternidad. Solo Dios basta. En el silencio del desierto, Él nos reordena el corazón, nos purifica las intenciones y nos recuerda que estamos hechos para más: para la plenitud del Reino, para la comunión eterna con Él.</p>
+<p><em>Todo esto me vino al corazón mientras rezaba las Vísperas. Quise compartirlo, porque sé que no camino solo en este desierto.</em></p>

@@ -1,0 +1,81 @@
+--- 
+title: "Una Corrección A La Presunción"
+date: 2025-04-20
+draft: false
+cover:
+    image: "/images/2025/yatodavia.jpg"
+    relative: false
+
+---
+
+<h2>La salvación: una corrección a la presunción protestante</h2>
+<p>Durante mis estudios de antropología cristiana, al revisar uno de los módulos, me llamó mucho la atención que un fenómeno que se ve en teología: el &quot;ya, pero todavía no&quot;. El término en español que describe esta realidad es: Incoar. Al respecto, en el   <a href="https://entrelarazonylafe.com/la-nueva-creacion/">post anterior</a>  explico el significado más ampliamente.</p>
+<p>En muchas corrientes del protestantismo moderno, especialmente en algunas ramas evangélicas y pentecostales, se afirma con fuerza la idea de que una persona puede decir: <em>“Yo ya soy salvo”</em>. Esta declaración suele ir acompañada de una interpretación de la justificación como un evento puntual, definitivo e irreversible, que ocurre en el momento en que uno “acepta a Cristo como su Salvador”. Desde la perspectiva católica, sin embargo, esto incurre en una <strong>presunción</strong> que no toma en cuenta un aspecto fundamental de la revelación: <strong>la salvación como una realidad incoada</strong>, ya presente, pero aún no consumada.</p>
+<h2>Salvación: el ya y el todavía no</h2>
+<p>En el Nuevo Testamento, la tensión entre el “ya” y el “todavía no” es constante. San Pablo afirma:</p>
+<blockquote>
+<p>&quot;Porque en esperanza fuimos salvados. Pero una esperanza que ya se ve no es esperanza. ¿Quién espera lo que ya ve?&quot; (Romanos 8,24).</p>
+</blockquote>
+<p>La redención traída por Cristo es real, transformadora, eficaz. Ya hemos sido regenerados en el bautismo, justificados por la fe, incorporados a Cristo. Y sin embargo, la plena participación en la gloria divina está pendiente. Todavía luchamos contra el pecado, contra la carne, contra la tentación. Todavía esperamos la redención plena de nuestro cuerpo y la manifestación definitiva del Reino.</p>
+<p>Por eso Pablo también dice:</p>
+<blockquote>
+<p>&quot;Ocupáos en vuestra salvación con temor y temblor&quot; (Filipenses 2,12).</p>
+</blockquote>
+<p>La salvación, pues, no es un cheque ya cobrado, sino un <strong>camino que hay que recorrer con perseverancia</strong>. La esperanza es firme, porque está fundada en la gracia de Dios, pero la certeza absoluta sin condiciones no forma parte de la enseñanza católica.</p>
+<h2>El peligro de la presunción</h2>
+<p>La <strong>presunción</strong> es, según la teología moral católica, uno de los pecados contra el Espíritu Santo. Se manifiesta cuando una persona da por seguro un don de Dios como si ya fuera suyo por derecho propio, sin cooperar con él o sin aceptar sus condiciones.</p>
+<p>El Concilio de Trento fue muy claro al condenar esta actitud:</p>
+<blockquote>
+<p>&quot;Nadie, por mucho que se justifique, debe considerarse libre de observar los mandamientos, ni decir con presunción que está cierto absolutamente de su salvación&quot; (DS 1533).</p>
+</blockquote>
+<p>La fe no nos dispensa de la lucha, de la vigilancia, del esfuerzo. Al contrario, nos fortalece para continuar ese camino.</p>
+<h3>Entre la presunción y la desesperación: otro error protestante</h3>
+<p>Así como algunos sectores del protestantismo presumen de una salvación ya asegurada e irreversible, otros caen en el error opuesto: creen haberla perdido definitivamente al haber pecado o “fallado” de alguna manera en su vida cristiana. En ambos casos, subyace una comprensión errada de la salvación, vista como un evento ya cerrado, en vez de una realidad viva, dinámica y aún incoada.</p>
+<p>La Escritura enseña con claridad que la redención ya ha comenzado, pero que todavía está en proceso de plenitud. San Pablo dice:</p>
+<blockquote>
+<p>&quot;Ya que habéis obedecido siempre, no sólo en mi presencia, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación con temor y temblor&quot; (Filipenses 2,12).</p>
+</blockquote>
+<p>Este mandato no expresa una angustia desesperada, sino una actitud de vigilancia activa, que reconoce que la salvación es un don gratuito, pero que exige nuestra colaboración libre y perseverante.</p>
+<p>Cuando alguien afirma: &quot;he perdido mi salvación&quot;, muchas veces lo hace desde una lógica de evento único, como si la redención fuera un título legal que uno extravía por un descuido. Sin embargo, el lenguaje bíblico habla de un camino, de una carrera que hay que terminar, de frutos que hay que dar. Por eso Jesús dice:</p>
+<blockquote>
+<p>“El que persevere hasta el fin, ése se salvará” (Mateo 24,13).</p>
+</blockquote>
+<p>El Catecismo de la Iglesia Católica nos recuerda esta tensión:</p>
+<blockquote>
+<p>&quot;La gracia del Espíritu Santo tiene el poder de justificarnos, es decir, de limpiarnos de nuestros pecados y de comunicarnos la justicia de Dios por la fe en Jesucristo y por el Bautismo. [...] La justificación establece la colaboración entre la gracia de Dios y la libertad del hombre&quot; (CEC 1987, 1993).</p>
+</blockquote>
+<p>Y por eso también nos exhorta San Pedro:</p>
+<blockquote>
+<p>&quot;Esforzaos por hacer firme vuestra vocación y elección, porque, obrando así, no caeréis jamás&quot; (2 Pedro 1,10).</p>
+</blockquote>
+<h2>El llamado a la perseverancia</h2>
+<p>Quienes creen haber perdido la salvación olvidan que la salvación es “ya” pero también “todavía no”. <strong>No se pierde como un objeto, porque no se posee como un premio definitivo, sino que se vive como una promesa que se va cumpliendo en el camino de la fe.</strong></p>
+<p>La frase paulina &quot;en esperanza fuimos salvados&quot; (Rom 8,24) vuelve a iluminar esta realidad. No hemos sido abandonados por Dios cuando caemos; al contrario, Él nos ofrece la posibilidad de reconciliarnos continuamente mediante la conversión sincera. El hecho de que todavía estemos en camino no significa que la salvación esté ausente, sino que aún no ha sido consumada.</p>
+<p>La advertencia de Pablo se mantiene vigente:</p>
+<blockquote>
+<p>“Así pues, hermanos, no nos cansemos de hacer el bien, porque a su tiempo cosecharemos, si no desfallecemos” (Gálatas 6,9).</p>
+</blockquote>
+<h2>Una mirada patrística: la salvación como proceso</h2>
+<p>Los Padres de la Iglesia siempre vieron la salvación como una <strong>transformación progresiva</strong> del ser humano por la gracia de Dios. San Ireneo, en el siglo II, hablaba de la <strong>divinización</strong> como la finalidad de la salvación: &quot;El Verbo de Dios se hizo hombre para que el hombre se hiciera Dios&quot;. Esta divinización no es instantánea, sino un proceso que implica la colaboración libre del hombre.</p>
+<p>San Gregorio de Nisa, por su parte, desarrolló el concepto de <strong>epektasis</strong>, una tensión constante hacia Dios, una ascensión interminable hacia su infinitud. Nunca dejamos de crecer, de avanzar, de dejarnos transformar.</p>
+<p>Y San Agustín advertía contra los peligros de la presunción cuando decía:</p>
+<blockquote>
+<p>&quot;No digas que ya has alcanzado lo que debes buscar mientras dure la vida&quot; (Sermón 169, 18).</p>
+</blockquote>
+<p>Esta visión es coherente con la misma Escritura, que presenta la vida cristiana como una carrera, una lucha, un combate espiritual (cf. 1 Cor 9,24-27; 2 Tim 4,7).</p>
+<h2>Romanos 2: los que sin ley obraron</h2>
+<blockquote>
+<p>&quot;Porque cuando los gentiles, que no tienen la Ley, cumplen naturalmente lo que la Ley manda, ellos, sin tener la Ley, son ley para sí mismos. Muestran que llevan escrita en su corazón la acción de la Ley, siendo testigos su conciencia y sus pensamientos, ya para acusarlos, ya para defenderlos, en el día en que Dios juzgará lo escondido de los hombres, según mi Evangelio, por Cristo Jesús&quot; (Romanos 2,14-16).</p>
+</blockquote>
+<p>Esto refuerza la idea de que la <strong>salvación es un proceso personal</strong>, en el que la gracia de Dios actúa incluso más allá de las fronteras visibles de la Iglesia, pero siempre con la perspectiva del juicio, del discernimiento último de Dios.</p>
+<h2>La nueva creación: realidad incoada</h2>
+<p>El Domingo de Resurrección nos recuerda que Cristo ha inaugurado una <strong>nueva creación</strong>. La resurrección no es sólo un milagro, sino el comienzo de una realidad transformada que ya se manifiesta en la vida de la Iglesia, en los sacramentos, en la santidad de los fieles, en la misión.</p>
+<p>Esa nueva creación está <strong>incoada</strong>: comenzada, pero no finalizada. Aún esperamos cielos nuevos y tierra nueva (cf. Ap 21,1). Aún vivimos en tensión escatológica, preparando la <strong>segunda venida del Señor</strong>, así como los patriarcas y profetas prepararon la primera.</p>
+<h2>Conclusión</h2>
+<p>Afirmar que ya somos salvos de manera definitiva es, en el mejor de los casos, una simplificación, y en el peor, una presunción peligrosa. Vivimos en una etapa donde la salvación es real pero incoada, donde el Reino está presente pero no consumado, donde la gracia opera pero requiere nuestra libre colaboración.</p>
+<p><strong>Por eso el llamado es a perseverar, a vivir en fe, esperanza y caridad, confiados pero humildes</strong>, siempre abiertos a la acción transformadora del Espíritu Santo.</p>
+<p>Como decía San Pablo:</p>
+<blockquote>
+<p>&quot;Ahora vemos como en un espejo, oscuramente; entonces veremos cara a cara. Ahora conozco en parte; entonces conoceré plenamente, como he sido conocido&quot; (1 Corintios 13,12).</p>
+</blockquote>
+<p>Que esta esperanza nos impulse a vivir el Evangelio con fidelidad y a preparar con obras de justicia la manifestación gloriosa de nuestro Salvador.</p>

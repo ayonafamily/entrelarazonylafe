@@ -1,0 +1,29 @@
+--- 
+title: "Los Procesos"
+date: 2025-02-28
+draft: false
+cover:
+    image: "/images/2014/258bf-bambu.jpg"
+    relative: false
+
+---
+
+<p> </p>
+<p style="text-align: left;" align="center"><span style="font-family: Arial; font-size: medium;">Dice el refrán: "se quema el pan en la puerta del horno". Es decir, perdemos cosas por no seguir insistiendo; por darnos por vencidos antes de tiempo.</span></p>
+<p style="text-align: left;" align="center"><span style="font-family: Arial; font-size: medium;">Hoy en día, no tenemos en cuenta los procesos. La misma naturaleza nos habla de procesos: la gestación, la siembra y cosecha, el aprendizaje. La naturaleza misma del proceso implica gradualidad, tiempo, esfuerzo.</span></p>
+<p style="text-align: left;" align="center"><span style="font-family: Arial; font-size: medium;">Si así es en lo natural, la Sagrada Escritura enseña que también se aplica a lo espiritual:</span></p>
+<p><span style="font-family: Arial; font-size: medium;">Marcos 4,26-29 </span><br /><span style="font-family: Arial; font-size: medium;">Jesús dijo además: «Escuchen esta comparación del Reino de Dios. Un hombre esparce la semilla en la tierra, </span> y ya duerma o esté despierto, sea de noche o de día, la semilla brota y crece, sin que él sepa cómo. La tierra da fruto por sí misma: primero la hierba, luego la espiga, y por último la espiga se llena de granos. Y cuando el grano está maduro, se le mete la hoz, pues ha llegado el tiempo de la cosecha.»</p>
+<p><span style="font-family: Arial; font-size: medium;">Para que se entienda mejor:</span><br /><span style="font-family: Arial; font-size: medium;">Si quiero cosechar - conseguir resultados, </span><br /><span style="font-family: Arial;">- <b>Debo de entrar al proceso.</b></span><br /><span style="font-family: Arial; font-size: medium;">- <b>Debo de hacer lo que me toca</b>: sembrar, regar... y llegado el momento cosechar. Yo no puedo hacer lo que Dios hace, y tampoco Dios hará lo que a mí me toca. En cualquier caso, debemos pedir sabiduría para distinguir ambas.</span><br /><span style="font-family: Arial; font-size: medium;">-<b> Debo de ejercer paciencia y confianza</b>. En no acelerar los procesos, ni desesperarme por no ver resultados rápido.</span><br /><span style="font-family: Arial; font-size: medium;">-<b> Debo reconocer</b> que existen etapas. Cosechar hierba, aborta el proceso... respetar las etapas.</span><br /><span style="font-family: Arial; font-size: medium;">- <b>Debo cosechar</b>. Parece obvio, sin embargo el fruto no se cosecha solo, la venta que no se cierra no es venta.</span><br /><span style="font-family: Arial; font-size: medium;">Aplica eso a desarrollar un nuevo hábito, iniciar un curso, abordar un cliente, etc.</span><br />Para ilustrar esto, te dejo esta historia:</p>
+<p align="center"><span style="font-family: Arial; font-size: medium;"><strong>EL BAMBÚ JAPONÉS</strong></span></p>
+<p align="center"> </p>
+<p align="left"><span style="font-family: Arial; font-size: medium;">No hay que ser agricultor para saber que una buena cosecha requiere de buena semilla, buen abono y riego constante. También es obvio que quien cultiva la tierra no se para impaciente frente a la semilla sembrada y grita con todas sus fuerzas: "¡Crece, maldita seas!"<br />Hay algo muy curioso que sucede con el bambú japonés y que lo trasforma en no apto para impacientes: Siembras la semilla, la abonas, y te ocupas de regarla constantemente. Durante los primeros meses no sucede nada apreciable. En realidad no pasa nada con la semilla durante los primeros siete años, a tal punto, que un cultivador inexperto estaría convencido de haber comprado semillas infértiles. Sin embargo, durante el séptimo año, en un periodo de sólo seis semanas la planta de bambú crece más de 30 metros! ¿Tardó sólo seis semanas en crecer?</span></p>
+<p align="left"><span style="font-family: Arial; font-size: medium;">No. La verdad es que se tomó siete años y seis semanas en desarrollarse. Durante los primeros siete años de aparente inactividad, este bambú estaba generando un complejo sistema de raíces que le permitirían sostener el crecimiento que iba a tener después de siete años. Sin embargo, en la vida cotidiana muchas personas tratan de encontrar soluciones rápidas, triunfos apresurados, sin entender que el éxito es simplemente resultado del crecimiento interno y que este requiere tiempo. Quizás por la misma impaciencia, muchos de aquellos que aspiran a resultados en corto plazo, abandonan súbitamente justo cuando ya estaban a punto de conquistar la meta. Es tarea difícil convencer al impaciente que sólo llegan al éxito aquellos que luchan en forma perseverante y saben esperar el momento adecuado. De igual manera, es necesario entender que en muchas ocasiones estaremos frente a situaciones en las que creeremos que nada está sucediendo. Y esto puede ser extremadamente frustrante. En esos momentos (que todos tenemos), recordar el ciclo de maduración del bambú japonés, y aceptar que en tanto no bajemos los brazos, ni abandonemos por no "ver" el resultado que esperamos, si está sucediendo algo dentro nuestro: estamos creciendo, madurando. Quienes no se dan por vencidos, van gradual e imperceptiblemente creando los hábitos y el temple que les permitirá sostener el éxito cuando este al fin se materialice.</span></p>
+<p>El triunfo no es más que un proceso que lleva tiempo y dedicación. Un proceso que exige aprender nuevos hábitos y nos obliga a descartar otros. Un proceso que exige cambios, acción y formidables dotes de paciencia.</p>
+<div> </div>
+<p><span style="font-family: Arial;">Dios te bendiga!!</span></p>
+<div> </div>
+<div><span style="font-family: Arial; font-size: medium;">Jorge Ayona<br /></span></div>
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

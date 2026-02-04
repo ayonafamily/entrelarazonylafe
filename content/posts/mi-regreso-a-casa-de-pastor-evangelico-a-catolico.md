@@ -1,0 +1,74 @@
+--- 
+title: "Mi regreso a casa: de pastor evangélico a católico"
+date: 2025-06-05
+draft: false
+cover:
+    image: "/images/2025/ecuentrDios.jpg"
+    relative: false
+
+---
+
+Después de 32 años como cristiano evangélico, y casi una década ejerciendo como pastor, he regresado a la Iglesia Católica.
+
+Durante ese tiempo, obtuve títulos académicos en Misiología y una Maestría en Teología Pastoral. Fui secretario de la Fraternidad de Pastores en una ciudad del Perú. Me desempeñé como conferencista, evangelista y profesor en un seminario teológico.
+
+Mi camino comenzó el 22 de abril de 1978, durante un retiro escolar en el colegio. Allí viví un encuentro profundo, real y personal con Jesús. En ese tiempo participaba en la Renovación Carismática Católica. Sin embargo, por ciertas discrepancias —y sí, al ver cosas que, en mi juicio, no estaban alineadas con el Evangelio— terminé alejándome de la Iglesia Católica y uniéndome a una comunidad evangélica.
+
+Muchos años después, como parte de mis responsabilidades académicas como profesor de teología, comencé a estudiar los escritos de los llamados “Padres de la Iglesia”. Entre ellos, hubo uno que me impactó profundamente: San Justino Mártir, apologista cristiano del siglo II, considerado parte de la primera generación de cristianos después de los apóstoles. El apóstol Juan, según la tradición, fue el último apóstol vivo y murió hacia el año 90 d.C.; Justino vivió entre el 100 y el 165 d.C., por lo que conoció a discípulos de los apóstoles.
+
+Leer estos testimonios tiene un valor incalculable, pues permiten descubrir qué creían y cómo vivían realmente los primeros cristianos. Un fragmento en particular de su Primera Apología, dirigida al emperador Antonino Pío alrededor del año 155 d.C., me conmovió profundamente. Describe la Eucaristía no como un simple símbolo o recordatorio, sino como una participación real en el Cuerpo y la Sangre de Cristo. He aquí el pasaje que tocó mi corazón:
+
+>“Luego se lleva al que preside a los hermanos pan y una copa de vino mezclado con agua. Él lo toma, da gloria y alabanza al Padre del universo por el nombre del Hijo y del Espíritu Santo, y ofrece una acción de gracias prolongada... Cuando ha terminado las oraciones y la acción de gracias, todo el pueblo presente responde con un ‘Amén’. Luego los diáconos distribuyen a cada uno de los presentes el pan y el vino ‘eucaristizados’... No recibimos esto como alimento o bebida comunes. Del mismo modo que Jesucristo nuestro Salvador se encarnó por la Palabra de Dios para nuestra salvación, así también se nos ha enseñado que este alimento consagrado por la oración contiene la carne y sangre del mismo Jesús encarnado.”
+
+Leer esto desmoronó muchos de mis esquemas. Fue el hilo que comenzó a desenredar el nudo teológico y espiritual que llevaba dentro.
+
+Siguieron casi cuatro años de búsqueda, de estudio, de resistencias internas, y sobre todo, de aprender a perdonar a quienes me habían herido en el pasado. Porque debo confesar que me fui de la Iglesia Católica con resentimiento. Ese resentimiento me predisponía a juzgarla, incluso a condenarla. Tristemente, muchos ex católicos que pasan a comunidades evangélicas llevan consigo esas heridas, y con frecuencia terminan predicando en contra de la Iglesia, repitiendo medias verdades y relatos históricos poco confiables.
+
+Durante mucho tiempo, el miedo me impidió tomar una decisión definitiva: miedo a lo desconocido, a cómo cambiaría mi futuro. Hasta que, una noche, encontré un libro en línea: “Volver a casa” del padre Ángel Peña, O.A.R. Lo leí de un tirón. Al terminar, busqué la parroquia donde el padre ejercía su ministerio y descubrí, sorprendido, que estaba en mi propio distrito, muy cerca de mi casa.
+
+Al día siguiente fui a misa allí. Luego pregunté por el sacerdote. Estaba rodeado de personas, pero me armé de valor, me acerqué y le dije:
+
+>“Padre, soy pastor evangélico. Leí su libro en internet. Quiero regresar a la Iglesia Católica.”
+
+El padre detuvo lo que hacía, me invitó a una sala contigua, y con mucha amabilidad despidió al resto. Hablamos durante casi tres horas. Hubo lágrimas de ambos lados.
+
+Lo más asombroso fue que, sin haberlo conversado previamente, mi esposa también había ido a misa ese mismo día, en otro lugar, movida por el deseo de volver a recibir a Jesús en la Eucaristía.
+
+Para mí, el punto de quiebre fue, sin duda, la Eucaristía. También el Rosario, pero esa es una historia aparte.
+
+Doy gracias a Dios, porque aquella herida que se abrió en mi alma desde los tiempos de la Renovación Carismática, comenzó por fin a cerrarse. Irme de la Iglesia había creado una ruptura, un vacío espiritual que sólo empezó a sanar al encontrarme nuevamente con Jesús en los sacramentos.
+
+Comencé a redescubrir la liturgia, la Sagrada Escritura —no solo proclamada en la Misa, sino también meditada a través de la lectio divina y la Liturgia de las Horas—.
+
+Conocí la riqueza de las vidas de los santos, del Magisterio, del Catecismo, de la teología moral. Regresar no fue fácil. Supuso un cambio radical en mi ministerio, mi profesión y mi entorno. Pero me di cuenta de que ya no era necesario “reinventar la rueda”. La Iglesia tiene siglos de catequesis, de sabiduría, de respuestas al mundo moderno.
+
+Descubrí que el cristianismo no es un rompecabezas de interpretaciones personales, sino una tradición viva y continua, guiada por el Espíritu Santo. Entendí de un modo nuevo el profundo anhelo de Jesús en Juan 17, cuando ora por la unidad de sus discípulos. Una unidad real, visible y concreta.
+
+Estoy agradecido por mis hermanos separados. Valoro todo el bien que recibí fuera de la Iglesia, que me ayudó a no perder la fe, a no caer en el agnosticismo o la indiferencia.
+
+Pero ahora doy gracias por haber hallado la plenitud de la fe: los sacramentos, el Magisterio, la Eucaristía y mucho más.
+
+Como dice la Escritura:
+>“Confía en el Señor con todo tu corazón, y no te apoyes en tu propia prudencia” (Proverbios 3,5).
+
+Sí, sus caminos no son nuestros caminos. Por eso, cada día camino confiando en Él.
+
+Como declara san Pablo: “El justo vivirá por la fe”. Y así es para mí. La conversión no es un hecho puntual, sino un proceso continuo: implica alinear toda nuestra vida con la voluntad de Dios, entregar nuestros pensamientos, costumbres y prejuicios, y llevar cautivo todo pensamiento a la obediencia a Cristo (2 Corintios 10,5).
+
+La fe es una respuesta permanente a la llamada eterna de Dios. Vivir por la fe es creer una y otra vez, como creyeron Abraham, los patriarcas, los profetas, los apóstoles y los discípulos.
+
+Hoy mi actitud ante la vida se resume en estas palabras:
+
+>“Olvidando lo que queda atrás y lanzándome hacia lo que está por delante, corro hacia la meta para alcanzar el premio de la llamada celestial de Dios en Cristo Jesús” (Filipenses 3,13–14).
+
+El Catecismo de la Iglesia Católica enseña:
+
+>“Aunque el hombre puede olvidar a Dios o rechazarlo, Él no cesa de llamar a todo hombre para que lo busque, y al encontrarlo, viva y alcance la felicidad. Pero esta búsqueda exige al hombre todo el esfuerzo de su inteligencia, la rectitud de su voluntad, ‘un corazón recto’, y también el testimonio de los demás que lo enseñen a buscar a Dios” (CIC 30).
+
+Eso es, en el fondo, volver a casa: responder a la llamada persistente de Dios, que desea nada menos que la realización plena de su obra en nosotros. Exige nuestra inteligencia, nuestra voluntad, nuestro corazón… y también el testimonio de quienes ya lo han encontrado.
+
+ El precio de seguir a Cristo en su Iglesia ha implicado que muchos seres queridos se hayan alejado de mí. He enfrentado muchas dificultades, como cuidar a mi madre que padece Alzheimer, lo cual demanda gran tiempo y esfuerzo. También he perdido amistades y oportunidades de trabajo por mantenerme fiel a mi fe y a mi conciencia.
+
+Mi servicio en la parroquia es limitado, ya que debo atender a mi madre, pero aun así trato de cumplir con mi vocación pastoral de otras formas. Actualmente estoy estudiando Teología en una universidad católica y acabo de terminar un diplomado en Antropología Cristiana, lo cual me ha dado nuevas herramientas para servir y comprender mejor la fe.
+
+A pesar de todo, no he dejado de servir. Mi ministerio se desarrolla principalmente a través de las redes sociales, donde comparto reflexiones espirituales, testimonios y palabras de aliento para quienes buscan esperanza y fe en medio de sus propias luchas. Este espacio me permite acompañar y fortalecer a otros, aun cuando no puedo hacerlo en persona. Mi compromiso es seguir siendo fiel al Evangelio y a la misión que Dios me ha dado, aun en medio de mis pruebas y limitaciones.

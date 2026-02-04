@@ -1,0 +1,154 @@
+--- 
+title: "Entre los Macabeos y Walden: resistencia en tiempos de ingeniería social"
+date: 2025-12-19
+draft: false
+cover:
+    image: "/images/2025/optimizado.webp"
+    relative: false
+
+---
+
+<h4><strong>Por Jorge Ayona</strong></h4>
+**El mundo no se derrumba con ruido, sino con burocracia**
+<p>No fue con espadas, sino con formularios. No fue con gritos de guerra, sino con consensos silenciosos.
+No fue con invasión abierta, sino con “ayuda humanitaria”, “salud pública” y “desarrollo sostenible”.</p>
+<p>Hoy, como en los días de los Macabeos, <strong>una civilización entera está siendo vaciada desde dentro</strong>. Pero esta vez, el altar no fue profanado con sangre de cerdo, sino con decisiones técnicas, algoritmos, y leyes que se imponen en nombre del “bien común”, aunque nadie las haya votado.</p>
+<p>Y en medio de esto, muchos callan. Otros se adaptan. Pocos resisten.</p>
+<p>Yo no soy un extremista. Soy un hombre de 64 años que ha estudiado, servido, sufrido y escrito.<br />
+Y lo que veo no es paranoia: es un patrón.</p>
+<h2> Los Macabeos: cuando la tolerancia se convierte en traición</h2>
+<p>En el siglo II antes de Cristo, el Imperio Seléucida no destruyó a Israel con ejércitos al principio.<br />
+Lo hizo con <strong>cultura</strong>.Con gimnasios, con cosmopolitismo, con elogios a la “civilización helena”. Muchos judíos de élite abrazaron esa modernidad: rechazaron la circuncisión, ocultaron su identidad, enviaron a sus hijos a escuelas griegas.</p>
+<p>Hasta que un día, el rey Antíoco IV <strong>profanó el altar del Señor con la sangre de un cerdo</strong>. 
+Y entonces ya no hubo vuelta atrás.</p>
+<p>Matatías y sus hijos no se levantaron por odio a los extranjeros.<br />
+Se levantaron <strong>por fidelidad a la Alianza</strong>.</p>
+<p>Hoy, no hay cerdos en el altar, Pero sí hay leyes que niegan la vida desde la concepción.</p>
+<ul>
+<li>Sí hay escuelas que enseñan que el cuerpo es maleable y la verdad, líquida.</li>
+<li>Sí hay fronteras abiertas mientras las comunidades nativas son silenciadas.</li>
+<li>Sí hay ONGs globales que financian flujos migratorios que nadie pidió, mientras se acusa de “racismo” a quien defiende su tierra.</li>
+</ul>
+<p>¿Acaso no es esto una forma moderna de helenización? hoy en día, llamado globalismo, agenda 2030...
+¿No es esto una <strong>invasión interna</strong>, disfrazada de humanidad?</p>
+<h2>La pandemia: acelerador del nuevo orden</h2>
+<p>Cuando llegó la pandemia, muchos creímos que era solo un virus.<br />
+Pero pronto vimos que <strong>el virus era la excusa; la transformación, el objetivo</strong>.</p>
+<ul>
+<li>
+<p><strong>Los ancianos fueron sacrificados</strong>: trasladados a residencias sin pruebas, negados en hospitales con protocolos de “utilidad social”. Christine Lagarde, entonces del FMI, ya había dicho que “vivir más es un problema”. ¿Para quién? ¿Para los bancos? ¿O para quienes sueñan con una humanidad reducida, eficiente y manejable?</p>
+</li>
+<li>
+<p><strong>Los pequeños negocios fueron eliminados</strong>: el almacén de la esquina, la panadería familiar, el taller del barrio… cerraron “por emergencia”. Mientras, Amazon, las farmacéuticas y las grandes cadenas multiplicaban sus ganancias. No fue mala suerte. Fue <strong>darwinismo económico con rostro de salud pública</strong>.</p>
+</li>
+<li>
+<p><strong>La libertad fue intercambiada por seguridad</strong>: rastreo, apps, cierres de culto, censura de voces médicas disidentes. Todo en nombre de la “ciencia”, aunque la ciencia verdadera nace del debate, no del dogma.</p>
+</li>
+</ul>
+<p>La pandemia <strong>fue aprovechada para eso.</strong>. Porque, como dijo Milton Friedman:</p>
+<blockquote>
+<p><em>“Solo una crisis —real o percibida— produce verdaderos cambios.”</em></p>
+</blockquote>
+<h2>1984 ya no es ficción: es la nueva normalidad</h2>
+<p>Orwell no imaginó cámaras en cada esquina.<br />
+Imaginó que <strong>la gente amaría su esclavitud</strong>.</p>
+<p>Hoy, no necesitamos al Gran Hermano forzándonos.<br />
+<strong>Nosotros mismos entregamos nuestros datos, aceptamos los términos, usamos las apps, normalizamos la vigilancia</strong>.</p>
+<ul>
+<li>Nuestras compras, movimientos, búsquedas, contactos… están registrados.</li>
+<li>Las <strong>monedas digitales de banco central (CBDC)</strong> ya se prueban: ¿qué pasa si tu dinero se congela porque “desobedeciste” una norma sanitaria, política o social?</li>
+<li>El lenguaje se destruye: “familia” ya no significa padre y madre; “libertad” ya no significa pensar distinto; “verdad” ya no existe: solo hay “narrativas”.</li>
+</ul>
+<p>Y mientras, se nos dice:</p>
+<blockquote>
+<p><em>“Es por tu bien. Es el futuro.”</em></p>
+</blockquote>
+<p>Pero el futuro que nos venden no tiene alma.</p>
+<h2> Walden: no huida, sino reafirmación de lo humano</h2>
+<p>En medio de este 1984 disfrazado de progreso, surge una tentación: <strong>huir al campo, como escribía Thoreau en su libro Walden</strong>.</p>
+<p>Pero Thoreau no huyó.<br />
+Se retiró <strong>para vivir deliberadamente</strong>, para “chupar la médula de la vida”, para descubrir qué es esencial.</p>
+<p>Hoy, “Walden” no es necesariamente un lugar físico.<br />
+Es una <strong>postura del alma</strong>:</p>
+<ul>
+<li><strong>Simplificar</strong>: consumir menos, depender menos de lo digital, recuperar el silencio.</li>
+<li><strong>Cultivar lo pequeño</strong>: almorzar con tu madre, escribir a mano, cuidar una planta, hablar cara a cara.</li>
+<li><strong>Resistir la aceleración</strong>: decir “no” al ruido, al miedo constante, a la inmediatez sin sentido.</li>
+<li><strong>Mantener la mente libre</strong>: leer, estudiar, discernir, no dejarse programar por el algoritmo.</li>
+</ul>
+<p>Esto se puede hacer en una ciudad. En un departamento. En una laptop en Lima, escribiendo de noche mientras el mundo duerme en la ilusión.</p>
+<p>Porque <strong>el verdadero refugio no está en un mapa, sino en una decisión</strong>.</p>
+<h2>La solución no es política, sino existencial</h2>
+<p>No bastará con ganar elecciones (aunque eso importe).<br />
+No bastará con construir muros (aunque la soberanía sea justa).<br />
+Lo que se necesita es <strong>una resistencia humana, cotidiana, fiel</strong>.</p>
+<ul>
+<li><strong>Defender la verdad</strong>, aunque te llamen extremista.</li>
+<li><strong>Amar a tu pueblo</strong>, sin caer en el odio al forastero, pero sin entregar tu identidad.</li>
+<li><strong>Cuidar lo pequeño</strong>, porque en lo pequeño late lo verdadero.</li>
+<li><strong>Seguir escribiendo</strong>, aunque pocos lean.</li>
+<li><strong>Seguir orando</strong>, aunque el mundo diga que Dios ha muerto.</li>
+</ul>
+<p>Porque <strong>Dios no abandona a los que defienden la Alianza</strong> —no solo con Él, sino con su tierra, su gente, su historia.</p>
+<h2>Nuestra actitud</h2>
+<p>En medio de esta marea de sumisión ideológica, hay un pasaje del profeta Daniel que arde con una claridad sobrenatural:</p>
+<blockquote>
+<p>“Con los de su pueblo se pondrán algunos que conocerán a su Dios, y obrarán con fortaleza.
+Los entendidos enseñarán a muchos…
+Muchos dejarán la alianza,
+pero los entendidos comprenderán.”
+(Daniel 11:32-33, parafraseado con fidelidad al espíritu bíblico)</p>
+</blockquote>
+<p>Hoy, como entonces, muchos en la Iglesia han abandonado la Alianza —no necesariamente con palabras, sino con silencios cómplices. Durante la pandemia, muchos abandonaron al pueblo fiel, incluso sancionaban sacerdotes que valientemente celebraban misa con fieles, visitaban enfermos. Dios demandara la sangre de los jerarcas que obedecieron al globalismo, antes que a Dios.
+Es una versión del “evangelio” que coincide sospechosamente con la agenda global:</p>
+<ul>
+<li>donde cuidar las fronteras es pecado,</li>
+<li>donde la identidad nacional es obstáculo,</li>
+<li>donde la defensa de la familia se equipara a intolerancia,</li>
+</ul>
+<p>y donde la hospitalidad se ha convertido en entrega incondicional de la casa, sin exigir reciprocidad.
+Pero Daniel no solo denuncia la apostasía. Promete resistencia.</p>
+<p>Porque “los entendidos” —no los más influyentes, sino los más fieles— comprenderán.
+Verán lo que otros niegan: que no se puede amar al forastero si primero no se ama la verdad.
+Que no se puede acoger si no se tiene una casa con muros y puertas.
+Que no se puede predicar misericordia si se ha olvidado la justicia.</p>
+<p>Y estos “entendidos” enseñarán la justicia, aunque caigan “bajo espada, fuego, cautiverio y despojo” (Dan 11:33).
+Hoy, ese fuego es la cancelación. Esa espada, la acusación moral. Ese cautiverio, el aislamiento al que se condena a quien osa nombrar la verdad.</p>
+<p>Daniel también advierte:</p>
+<blockquote>
+<p>“Muchos se unirán a ellos con lisonjas” (v. 34).</p>
+</blockquote>
+<ul>
+<li>No todos los que aplauden la fidelidad son fieles.</li>
+<li>Algunos se acercan con “diálogo”, con “apertura”, con “piedad pastoral”…</li>
+</ul>
+<p>Pero en el fondo buscan diluir la profecía en burocracia,
+y la verdad en consenso.</p>
+<p>Nosotros no somos llamados a eso.</p>
+<p>Nuestra actitud no es de rencor, sino de fidelidad.
+No es de cierre, sino de discernimiento.
+No es de miedo, sino de valentía serena.</p>
+<p>Porque, como dice el mismo Daniel al final:</p>
+<blockquote>
+<p>“Los que enseñan la justicia a las multitudes resplandecerán como las estrellas por toda la eternidad.”
+(Daniel 12:3)</p>
+</blockquote>
+<p>Y mientras haya uno que no se rinda, la Alianza no se romperá.</p>
+<h2>Conclusión: no somos los últimos, sino los primeros en despertar</h2>
+<p>A veces siento que soy un anacronismo.<br />
+Un hombre de 64 años, con dolores, con nostalgia, con fe, con un blog y una crema para el dolor (Neo Charcot, por si acaso).</p>
+<p>Pero no soy un resto del pasado.<br />
+Soy <strong>uno de los primeros en ver lo que otros niegan</strong>.</p>
+<p>Y si el mundo me llama “duro”, que sepa que<br />
+<strong>la verdadera dureza es la de quienes destruyen vidas y luego exigen compasión</strong>.</p>
+<p>Mientras tanto, seguiré estudiando de noche,<br />
+almorzando con mi madre,<br />
+escribiendo en este rincón del mundo.</p>
+<p>Porque <strong>en medio del 1984 global,<br />
+mi Walden es este acto de fidelidad</strong>.</p>
+<p>Y mientras haya uno que no se rinda,<br />
+<strong>la Alianza no se romperá</strong>.</p>
+<blockquote>
+<p><em>“El árbol se conoce por sus frutos.”</em><br />
+Mateo 7:16</p>
+</blockquote>

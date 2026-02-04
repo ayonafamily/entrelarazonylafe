@@ -1,0 +1,42 @@
+---
+title: "Actualización..."
+date: 2025-02-28
+draft: false
+---
+
+<p align="left"><img style="margin:5px;float:left;" alt="" src="http://red.altonivelinternational.org/wp-content/uploads/2013/02/dfdn54g_7gxtbwxfz_b.jpeg" width="268" height="199" />A los que han seguido este blog, desde el 2009, después de varios cambios de dominio y hosting, les quiero compartir los últimos acontecimientos: Luego de 32 años como evangélico, y casi 10 como Pastor, he vuelto a la Iglesia Católica.
+Llegué a tener títulos en Misionología y Mag. en Teología Pastoral. Fui secretario de la Fraternidad de Pastores de una ciudad del Perú. Fui conferencista, evangelista y profesor de Seminario.</p>
+Todo comenzó para mí en un retiro del colegio el 22 de abril de 1978, en donde tuve un encuentro muy real y genuino con Jesús. Fui parte de la renovación carismática católica. Por discrepancias, y sí, por ver cosas que para mí no caminaban,salí de allí y me fui a una iglesia evangélica.
+<p align="left">Luego de varios años, como parte de la tarea de ser profesor de teología en un seminario, leí los escritos de los llamados "Padres de la iglesia", específicamente a San Justino Mártir. Este es prácticamente la primera generación despues de los apóstoles (siglo II) - el último Apóstol, San Juan, autor de el evangelio que lleva su nombre, murió el año 90. San Justino Mártir vivió entre el año 100 -165, es decir, conoció gente contemporánea, al menos del Apóstol Juan.
+¿Cuál es el valor de esto? <em>Que testimonios como el suyo, nos indican lo que creían realmente los primeros cristianos.</em>
+Este es fragmento que me impacto:</p>
+
+<blockquote>Luego se lleva al que preside el pan y una copa con vino y agua mezclados. El que preside los toma y eleva alabanzas y gloria al Padre del universo, por el nombre del Hijo y del Espíritu Santo, y da gracias largamente porque hayamos sido juzgados dignos de estos dones.
+"Cuando el que preside ha hecho la acción de gracias y el pueblo ha respondido “amén”, los que entre nosotros se llaman diáconos distribuyen a todos los que están presentes el pan y el vino “eucaristizados”. (SAN JUSTINO, Carta a Antonino Pío, Emperador, año 155) “A nadie le es lícito participar en la Eucaristía, si no cree que son verdad las cosas que enseñamos y no se ha purificado en aquel baño que da la remisión de los pecados y la regeneración, y no vive como Cristo nos enseñó. Porque no tomamos estos alimentos como si fueran un pan común o una bebida ordinaria, sino que así como Cristo, nuestro salvador, se hizo carne y sangre a causa de nuestra salvación, de la misma manera hemos aprendido que el alimento sobre el que fue recitada la acción de gracias, que contiene las palabras de Jesús y con que se alimenta y transforma nuestra sangre y nuestra carne, es precisamente la carne y la sangre de aquel mismo Jesús que se encarnó.
+"Los apóstoles, en efecto, en sus tratados llamados Evangelios, nos cuentan que así les fue mandado, cuando Jesús, tomando pan y dando gracias dijo: “Haced esto en conmemoración mía. Esto es mi cuerpo”. Y luego, tomando del mismo modo en sus manos el cáliz, dio gracias y dijo: “Esta es mi sangre”, dándoselo a ellos solos. Desde entonces seguimos recordándonos unos a otros estas cosas. Y los que tenemos bienes acudimos en ayuda de otros que no los tienen y permanecemos unidos. Y siempre que presentamos nuestras ofrendas alabamos al Creador de todo por medio de su Hijo Jesucristo y del Espíritu Santo”. (SAN JUSTINO, Carta a Antonino Pío, Emperador, año 155)</blockquote>
+Este fue el hilo que desenredaba la madeja. Luego de casi 4 años de estudio, vencer prejuicios perdonar realmente a los que me habían dañado - ya que reconozco que salí de y estaba resentido con la Iglesia Católica, y por ende, predispuesto a juzgarla y condenarla, viviendo así por largos años. Por experiencia, puedo decir que muchos evangélicos que salen del catolicismo, tienen este rencor. De allí las prédicas y enseñanzas anticatólicas, enseñando medias verdades y presentando como hechos históricos asuntos cuyas fuentes históricas no son confiables.
+
+Tan sólo el miedo a lo que iba de ser de mí y de mi futuro me retenía de decidirme. Hasta que un día, leí un libro por internet, "Regresando A Casa", del Padre Ángel Peña OAR. Al terminarlo esa misma noche, encontré la dirección de la Parroquia donde estaba. ¡Resultó estar en mi mismo distrito, no muy lejos de mi casa.
+
+El día siguiente fui a misa a esa parroquia. Al acabar, pregunto por él. Estaba rodeado de personas. Cobrando valor, me acerco y le digo: "Padre, soy pastor evangélico. Leí por internet su libro. Quiero volver a la Iglesia Católica."
+Inmediatamente dejó lo que estaba haciendo, me hizo pasar a una salita, despidió a la gente y conversamos casi como 3 horas, entre lágrimas.
+Mi esposa, sin mediar acuerdo alguno conmigo, ya había ido a misa a otro lugar, con inmensa necesidad de recibir a Jesús en la Eucaristía.
+El punto clave para mí retorno fue... la Eucaristía y el rosario. Pero esto último desde ya justifica un relato aparte.
+Doy gracias a Dios, porque la brecha que había en mi vida desde mis tiempos en la Renovación Carismática fue eliminada finalmente. El salir de la Iglesia Católica supuso una ruptura, interrupción en mi vida, un vacío que finalmente fue superado al encontrarme con Jesús en los sacramentos.
+Vino a mí un nuevo entendimiento, un aprecio por la liturgia y la misma Biblia; que es leída en la misa, el servicio de lectura en la liturgia de las horas, y es usada en la misma. Es meditada en la lectio divina.
+Se abrió el tesoro de la vida de los santos, el Magisterio de la Iglesia, el Catecismo y la Teología Moral.
+No estoy exento de problemas. Fue un giro radical, en el servicio a Dios, lo laboral, lo social. No tengo que "inventar la pólvora". Hay siglos de catequesis, Magisterio, etc. con respuestas a los problemas de hoy.
+Aprendí que la cristiandad es un continuo histórico, estable. Aprendí lo que significa Juan 17:21, una oración que Jesús sí respondió plenamente, no de una manera "invisible", sino real y visible para todos.
+Aprecio profundamente a mis hermanos separados. Agradezco todo lo bueno, toda oportunidad de servir a Dios de la manera como lo concebía entonces. Gracias a eso, no caí en ateísmo, agnosticismo ni indiferentismo.
+Más ahora gozo de la plenitud de lo que Dios tiene: Sus sacramentos, el Magisterio... La Eucaristía, y muchas cosas más.
+La Biblia dice: Fíate del Señor de todo tu corazón, y no te apoyes en tu propia prudencia. Mis caminos no son sus caminos. Por lo cual, confío día a día en Él.
+Como dice San Pablo "El justo vivirá por la fe", así me pasa. Y si se vive por fe, entonces la conversíon, el arrepentimiento es a cada momento, ajustando nuestros caminos a los suyos, confiando en Él y no en nuestros propios criterios, paradigmas e incluso prejuicios, "sometiendo nuestros pensamientos a la obediencia de Cristo". La fe es la respuesta continua a la invitación que nos da la Palabra de Dios de seguirlo. Vivir por fe es creer continuamente, tal como Abraham, los patriarcas, los profetas, apóstoles y discípulos hicieron..
+Hoy, mi actitud ante la vida es:
+<blockquote>Ciertamente olvidando lo que queda atrás, me extiendo hacia lo que está adelante, al premio del supremo llamamiento de Dios en Cristo Jesús, Señor nuestro.</blockquote>
+El Catecismo De La Iglesia Católica dice:
+<blockquote>"Si el hombre puede olvidar o rechazar a Dios, Dios no cesa de llamar a todo hombre a buscarle para que viva y encuentre la dicha. Pero esta búsqueda exige del hombre todo el esfuerzo de su inteligencia, la rectitud de su voluntad, "un corazón recto", y también el testimonio de otros que le enseñen a buscar a Dios." CIC 30</blockquote>
+Precisamente, eso es lo que implica volver a casa; responder al llamado incesante de Dios - quien no quiere menos que la plenitud de la obra de Cristo en nosotros. Implica en esfuerzo de la inteligencia, voluntad y corazón recto, y el testimonio de quienes lo hemos hallado.
+Debido a esto, procederé a editar mucho de lo que he escrito aquí. ¡Es todo un trabajo!. Por ahora iré publicando varias reflexiones en la categoría de espiritualidad, que reflejan mi viaje personal en esta nueva vida. . Pueden visitar asimismo mi página de <a target="_blank" href="http://red.altonivelinternational.org" rel="noopener">apologética y testimonios</a> 
+Pueden visitar mi página de
+<em>Pax et bonum</em>
+Jorge Ayona

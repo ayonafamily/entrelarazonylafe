@@ -1,0 +1,29 @@
+--- 
+title: "Do you love me?"
+date: 2026-01-06
+draft: false
+cover:
+    image: "/images/2026/fiddler_optimizado.webp"
+    relative: false
+
+---
+
+<h3><strong>“I suppose I do”: Amor, tradición y la sabiduría del deber callado</strong></h3>
+<p>Hace años que no veía <em>Fiddler on the Roof</em> - "El violinista en el tejado", pero la volví a mirar hace poco. No fue nostalgia, sino necesidad. En una época en la que todo se declara, se exhibe, se valida o se descarta según el estado emocional del momento, esta película —rodada en 1971, pero que respira con la antigüedad de los proverbios— sigue siendo un antídoto contra la superficialidad del amor moderno.</p>
+<p>Para quien no la conozca: <em>Fiddler on the Roof</em> sigue a Tevye, un lechero judío en la Rusia zarista, mientras intenta sostener a su familia en medio del antisemitismo, la pobreza y el colapso de las costumbres. Pero no es una historia de heroísmo épico. Es una meditación sobre lo frágil: sobre lo que se sostiene no por fuerza, sino por costumbre, fe y, sobre todo, por la repetición fiel de lo pequeño. La banda sonora es memorable, sí, pero lo que permanece es su mirada sin concesiones sobre el precio del cambio… y sobre lo que se pierde cuando abandonamos lo que no sabíamos que nos sostenía.</p>
+<p><strong>Te la recomiendo</strong> —no como entretenimiento, sino como ejercicio de discernimiento. Especialmente si, como yo, has transitado entre mundos: el de la comunidad que exigía lealtad sin preguntas, y el de la soledad que exige autenticidad sin máscaras. Verla hoy, en plena madurez —con los huesos más pesados y el alma más escéptica—, es como releer Eclesiastés con música de violín.</p>
+<h3><strong>La pregunta que nadie se hacía… hasta que empezó a hacerse</strong></h3>
+<p>La escena que me deja sin palabras —cada vez— ocurre en medio de la cocina. Tevye, con una mezcla de curiosidad y angustia moderna, le pregunta a su esposa Golde: <em>“Do you love me?”</em> (¿me amas?).</p>
+<p>Ella lo mira como si le hubiera preguntado si cree en los unicornios. <em>“For twenty-five years I’ve washed your clothes, cooked your meals, cleaned your house, given you children, milked your cow…”</em> («Durante veinticinco años he lavado tu ropa, cocinado tus comidas, limpiado tu casa, te di hijos, ordeñado tu vaca…»). Su respuesta no es poética. Es contable. Y sin embargo, <em>en esa enumeración de lo cotidiano, está toda una teología del amor</em>.</p>
+<p>Pero Tevye insiste. Porque ahora, en este mundo que se quiebra, hasta los viejos sienten la necesidad de oír lo que antes se daba por hecho. Entonces Golde hace una pausa. Y dice, con una voz que no es de certeza, sino de descubrimiento: <em>“I suppose I do.”</em> &quot;supongo que si (te amo)&quot;</p>
+<p>Esa frase —tan breve, tan frágil— es una bomba silenciosa contra la lógica del afecto como fundamento único del vínculo. Hoy, el amor se exige como sentimiento previo: “No me comprometo si no siento que me amas”. “No sigo si ya no hay chispa”. Pero en el mundo de Golde —y en buena parte de la historia humana—, el amor no era lo que uno <em>sentía</em>, sino lo que uno <em>hacía</em>. Y al hacerlo, día tras día, en silencio, sin testigos, sin recompensa, <em>se convertía en amor</em>, incluso si nunca se nombraba.</p>
+<p>Contrasta esto con Hodel, la segunda hija, quien al aceptar a Perchik le exige que diga <em>“I love you”</em> antes del compromiso. Es la lógica moderna en su pureza: el sentimiento como condición, no como fruto. Y no es malvada, ni superficial. Pero es vulnerable. Porque los afectos cambian. Las ideologías se agrietan. Y cuando la emoción se apaga —como inevitablemente ocurre en toda relación duradera—, ¿qué sostiene el vínculo?</p>
+<p>La tradición —esa palabra tan maltratada hoy— no era perfecta. Encerraba, sí. Oprimía, a veces. Pero también sabía algo que hemos olvidado: que el amor no es solo un fuego inicial, sino un fuego que se alimenta con leña cotidiana. Y que muchas veces, el afecto <em>nace del deber</em>, no al revés.</p>
+<p>No defiendo un retorno ingenuo a lo antiguo. He vivido demasiado dentro de estructuras que confundían obediencia con fidelidad. Pero sí reconozco esto: en un mundo que ha convertido el sentimiento en único criterio de verdad, hemos perdido la capacidad de amar <em>más allá del estado de ánimo</em>. Y eso tiene un costo.</p>
+<h3><strong>Una confesión tardía</strong></h3>
+<p>Que llore al ver esa escena no es por nostalgia romántica. Es por reconocimiento. Porque en la voz de Golde escucho a tantas personas —hombres y mujeres— que amaron sin palabras, que sostuvieron hogares con las manos agrietadas y el corazón callado, y que nunca fueron “vistos” porque su amor no era espectacular.</p>
+<p>Hoy, en esta etapa de mi vida —con 64 años, con dolores que no se nombran en las redes, con una soledad que no pide compañía, sino sentido—, entiendo mejor esa pausa antes del “I suppose I do”. No es una afirmación triunfal. Es una rendición humilde ante una verdad que solo el tiempo revela: que amar no es tanto sentir, sino <em>permanecer</em>. Y que a veces, el mayor acto de fe no es declarar un sentimiento, sino seguir lavando la ropa, cocinando la sopa, orando en silencio… aunque ya no haya nadie que lo note.</p>
+<p>Eso no es romanticismo. Es resistencia. Y en un mundo que descarta lo que no produce emoción inmediata, esa resistencia es más revolucionaria que cualquier grito.</p>
+<blockquote>
+<p><em>¿Te ha hecho pensar esta escena? ¿Has amado —o sido amado— de esa forma callada, que no necesita testigos? tal vez hoy sea un buen día para decirlo, aunque sea en voz baja: “I suppose I do.”</em></p>
+</blockquote>

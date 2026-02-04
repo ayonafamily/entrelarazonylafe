@@ -1,0 +1,22 @@
+---
+title: "Sacúdete Y Sube"
+date: 2025-02-28
+draft: false
+---
+
+<p class="western" lang="es-ES" align="left"><span style="font-size:medium;font-family:Arial;"><img alt="" src="http://api.ning.com/files/ovt*YessJyFmibeNk9xZNiR6Ff-MOzQN9-6eLPMtY6mekfMM3SeWae09iXEROyf7Z*joa0qAesjaTPNnQO8TeQne1FSkOxAO/donkeyez5.jpg" width="300" height="169" align="right" /></span></p>
+<p class="western" lang="es-ES" align="left"><span style="font-size:medium;font-family:Arial;"><span style="font-size:medium;">Dice la Escritura:</span></span></p>
+<p class="western" lang="es-ES" align="left"><b>Aunque vosotros pensasteis hacerme daño, Dios lo pensó para bien, para hacer sobrevivir, como hoy ocurre, a un pueblo numeroso. Génesis 50,20</b></p>
+&nbsp;
+<p class="western" lang="es-ES" align="left">Esto es el corolario de la historia de José, quién fue vendido como esclavo, calumniado, encarcelado y olvidado. Al enfrentarse a sus hermanos que lo vendieron, José les respondió con esta visión de la vida, que ojala todos tengamos.</p>
+<p class="western" lang="es-ES" align="left">En el misterio de Dios, aún lo malo es para bien; la cruz de sufrimiento e injusticias da paso a la salvación y a la resurrección.</p>
+<p class="western" lang="es-ES" align="left">Esta historia te puede ayudar.</p>
+<p class="western" lang="es-ES" align="left"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;"><b>¡SACÚDETE Y SUBE!.</b></span></span></p>
+<p class="western" lang="es-ES" style="font-weight:normal;" align="JUSTIFY"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Se cuenta de cierto campesino que tenía una mula ya vieja. En un lamentable descuido, la mula cayó en un pozo que había en la finca. El campesino oyó los bramidos del animal , y corrió para ver lo que ocurría. Le dio pena ver a su fiel servidora en esa condición, pero después de analizar cuidadosamente la situación creyó que no había modo de salvar al pobre animal, y que mas valía sepultarla en el mismo pozo.</span></span></p>
+<p class="western" lang="es-ES" style="font-weight:normal;"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">El campesino llamó a sus vecinos y les contó lo que estaba ocurriendo y los enlistó para que le ayudaran a enterrar la mula en el pozo para que no continuara sufriendo.</span></span></p>
+<p class="western" lang="es-ES" style="font-weight:normal;" align="JUSTIFY"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Al principio, la mula se puso histérica, pero a medida que el campesino y sus vecinos continuaban paleando tierra sobre sus lomos, una idea vino a su mente. A la mula se le ocurrió que cada vez que una pala de tierra cayera sobre su lomo. ¡<b>ELLA DEBÍA SACUDIRSE Y SUBIR SOBRE LA TIERRA!. </b>Esto hizo la mula palazo tras palazo. ¡¡<b>SACÚDETE Y SUBE, </b>sacúdete y sube, sacúdete y sube!!. Repetía la mula para alentarse a sí misma.</span></span></p>
+<p class="western" lang="es-ES" style="margin-left:.74cm;text-indent:-.64cm;font-weight:normal;" align="JUSTIFY"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">No importa cuan dolorosos fueran los golpes de la tierra y las piedras sobre su lomo, o lo tormentoso de la situación, la mula luchó contra el pánico, y continuó<b> SACUDIÉNDOSE Y SUBIENDO. </b>A sus pies se fue elevandode nivel el piso. Los hombres sorprendidos captaron la estrategia de la mula, y eso los alentó a continuar paleando. Poco a poco se pudo llegar hasta el punto en que la mula cansada y abatida pudo salir de un brinco de las paredes de aquel pozo. <span style="text-decoration:underline;">La tierra que parecía que la enterraría, se convirtió en su bendición, todo por la manera en la que ella enfrentó la adversidad.</span></span></span></p>
+<p class="western" lang="es-ES" style="font-weight:normal;" align="JUSTIFY"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;"><b>ASÍ ES LA VIDA!</b></span></span></p>
+<span style="font-family:Arial, sans-serif;"><span style="font-size:medium;"><b>¡</b>Si enfrentamos nuestros problemas y respondemos positivamente, y rehusamos dar lugar al pánico, a la amargura, y las lamentaciones de nuestra baja autoestima, las adversidades, que vienen a nuestra vida a tratar de enfermarnos, nos darán el potencial para poder salir beneficiados y bendecidos!.</span></span>
+Dios Te bendiga!!!
+Jorge Ayona

@@ -1,0 +1,33 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-es"
+title = "Entre La Razón Y La Fe"
+theme = "hugo-PaperMod"
+
+[pagination]
+  pagerSize = 15
+
+[params]
+  description = "Blog de Jorge Ayona"
+  # Colores simples
+  highlightColor = "#e22d30"
+  mainSections = ["posts"]
+[params.cover]
+      linkFullImages = true
+      responsiveImages = false # Prueba poniéndolo en false primero
+      hidden = false          # Si esto está en true, oculta todas las fotos
+      hiddenInList = false      # Muestra la foto en el inicio
+      hiddenInSingle = false    # Muestra la foto dentro del pos
+
+
+
+
+[params.sidebar]
+  home = "right"
+  widgets = ["search", "recent", "categories"]
+
+[params.thumbnail]
+  visibility = ["list", "post"] # Esto hace que se vean en la lista y dentro del post
+
+
+    [markup.goldmark.renderer]
+    unsafe = true

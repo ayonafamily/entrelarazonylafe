@@ -1,0 +1,37 @@
+---
+title: "La Lectura de las Escrituras: Una Comparación entre el Acceso Protestante y el Sentido Original de la Escritura"
+date: 2025-03-30
+draft: false
+cover:
+    image: "/images/sentido-original.png"
+    relative: false
+---
+
+<p><strong></strong></p>
+<p>La lectura de las Sagradas Escrituras ha sido un pilar fundamental en la vida espiritual de los cristianos desde los primeros tiempos del cristianismo. Sin embargo, a lo largo de la historia, el enfoque sobre cómo debemos leer la Biblia ha evolucionado y, en muchos casos, ha sido motivo de debate. En particular, podemos observar una diferencia entre el enfoque católico y el protestante, especialmente en cuanto al acceso y la interpretación de las Escrituras. Además, es crucial recordar el sentido original para el cual fueron escritas, un sentido que no solo abogaba por la lectura individual, sino también por una interpretación comunitaria en la que la Escritura cobraba vida en el corazón de los creyentes.</p>
+<h3>El Acceso Protestante a las Escrituras</h3>
+<p>Con la Reforma Protestante, se produjo un cambio significativo en la práctica de la lectura bíblica. Martín Lutero, uno de los principales reformadores, propugnó el &quot;libre examen&quot; de las Escrituras, un concepto que alentaba a cada cristiano a leer y estudiar la Biblia por sí mismo, sin la mediación de la Iglesia o su Magisterio. El principio del <em>sola scriptura</em> (solo la Escritura) convirtió a la Biblia en la única fuente de autoridad espiritual, y la interpretación personal del texto se hizo un elemento esencial de la práctica cristiana protestante.</p>
+<p>El enfoque protestante sobre la exégesis marcó un contraste significativo con la visión católica, que sostiene que la interpretación de la Escritura debe estar guiada por el Magisterio de la Iglesia. Para los protestantes, la Biblia se convirtió en un libro accesible para todos, donde cualquier individuo, por medio del estudio personal, podría llegar a conocer la voluntad de Dios. No obstante, este enfoque ha sido criticado porque, sin una autoridad que lo oriente, ha conducido a interpretaciones diversas y, en muchos casos, contradictorias del mismo texto bíblico.</p>
+<p>Lutero mismo, en sus escritos, llegó a reconocer el caos que su reforma había generado. A pesar de su intento de devolver la autoridad de la Biblia al pueblo, pronto se dio cuenta de que la falta de una interpretación uniforme y la ausencia de una autoridad magisterial habían producido fragmentaciones dentro del protestantismo. En su obra <em>Sobre la cautividad babilónica de la Iglesia</em>, Lutero expresó su preocupación por la multiplicidad de interpretaciones que surgieron de su reforma:</p>
+<blockquote>
+<p>&quot;Si la Escritura no se interpreta de manera correcta, el entendimiento de la Iglesia se convierte en un caos. Nadie se pondrá de acuerdo y cada uno interpretará según su propio juicio.&quot;</p>
+</blockquote>
+<h3>Lutero y la Guerra de los Campesinos</h3>
+<p>Un ejemplo concreto de la dificultad que Lutero experimentó con la interpretación libre de las Escrituras se encuentra en su relación con la <em>Guerra de los Campesinos</em> (1524-1525). Durante este conflicto, grupos de campesinos, inspirados por las ideas reformistas, comenzaron a luchar contra las autoridades en nombre de la &quot;libertad cristiana&quot;. Estos campesinos apelaron a la Biblia como justificación para sus actos de rebelión, argumentando que el libre examen les daba derecho a interpretar las Escrituras a su manera.</p>
+<p>Lutero, quien inicialmente había abogado por el &quot;libre examen&quot;, se vio enfrentado a una situación en la que la interpretación personal de las Escrituras se convirtió en una fuente de división y caos. En <em>Contra las hordas ladronas y asesinas de los campesinos</em>, Lutero escribió:</p>
+<blockquote>
+<p>&quot;El libre examen de la Escritura ha producido una multiplicidad de sectas y rebeliones, y ahora muchos de estos campesinos, sin tener la verdadera comprensión, se alzan como si fueran los portavoces de Dios. Ellos se han confundido con las Escrituras y las han usado para justificar su rebelión.&quot;</p>
+</blockquote>
+<p>Lutero comenzó a reconocer que la interpretación libre de las Escrituras, sin una autoridad para guiarla, llevó a la formación de sectas y a la distorsión del mensaje cristiano. A pesar de su énfasis inicial en la &quot;libertad cristiana&quot; y el acceso directo a las Escrituras, pronto comprendió que este enfoque no solo había generado confusión y caos, sino también una multiplicación de interpretaciones contradictorias de la Biblia que alejaban a la comunidad cristiana de la unidad que él deseaba.</p>
+<p>Uno de los pasajes más contundentes contra la interpretación privada de las Escrituras se encuentra en 2 Pedro 1:20-21: </p>
+<blockquote>
+<p>&quot;Entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada; porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo.&quot; </p>
+</blockquote>
+
+<p>Este pasaje deja en claro que la interpretación de la Escritura no puede ser un asunto individual, sino que debe estar enraizada en la comunidad de fe guiada por el Espíritu Santo.</p>
+<h3>El Sentido Original de la Escritura: La Interpretación Comunitaria</h3>
+<p>Sin embargo, este enfoque de &quot;libre examen&quot; no fue el sentido con el que las Escrituras fueron originalmente escritas. San Justino Mártir, uno de los primeros apologistas cristianos, describe en sus escritos cómo los primeros cristianos leían las Escrituras en un contexto comunitario, especialmente durante la celebración de la Eucaristía. En las primeras comunidades cristianas, la Biblia se leía durante las reuniones litúrgicas, y el sentido de las Escrituras no se limitaba a la interpretación individual, sino que se vivía en la comunidad de los fieles.</p>
+<p>Este sentido comunitario de la lectura de la Escritura se remonta a las raíces del cristianismo. En el judaísmo, como señalan los estudiosos, los rabinos también eran responsables de la interpretación de las Escrituras, y los textos sagrados se leían en la sinagoga en voz alta, no solo para la enseñanza individual, sino para la reflexión colectiva. La comprensión de la Escritura era guiada por una autoridad interpretativa que aseguraba que el mensaje de la Palabra de Dios fuera entendido correctamente dentro de la tradición y la comunidad.</p>
+<p>La Escritura, en este sentido, fue escrita para ser leída, pero no solo de manera aislada. El sentido original de las Escrituras implica que estas fueran vividas en el contexto de la comunidad de fe, en la que los miembros compartían el entendimiento de la Palabra, guiados por la autoridad de los líderes espirituales y la tradición.</p>
+<h3>Conclusión</h3>
+<p>La lectura de las Escrituras es un acto sagrado, tanto individual como comunitario, que debe realizarse en el contexto de la fe viva. El enfoque protestante de una exégesis libre y personal ha sido una respuesta a las preocupaciones sobre el poder de la Iglesia, pero al mismo tiempo, es importante recordar que las Escrituras fueron pensadas para ser leídas y vividas en comunidad. En el cristianismo primitivo, y en la tradición católica, la interpretación de la Biblia ha sido siempre una actividad guiada por la autoridad de la Iglesia, asegurando la fidelidad al mensaje divino.</p>

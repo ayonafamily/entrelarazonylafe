@@ -1,0 +1,15 @@
+---
+title: "De Vuelta Al Propósito Original"
+date: 2024-09-12
+draft: false
+cover:
+    image: "/images/cropped-WhatsApp-Image-2024-10-13-at-13.02.56.jpeg"
+    relative: false
+---
+
+<p>«Puesto que el fundamento existencial del orden sobrenatural es Cristo, se sigue de allí que la Creación, desde el primer instante de su devenir, está a la espera de la filiación divina prometida en su primogénito. El proyecto creacional de Dios es cristocéntrico… La naturaleza elevada sobrenaturalmente era, en el plano de Dios, la primera cosa querida, mientras que la naturaleza en sí era la segunda cosa querida. Dios creó el mundo por amor a Cristo, y no la naturaleza de Cristo por amor al mundo. Puesto que Cristo resucitado y glorificado es el fin último de toda acción divina y el modelo para la figura definitiva de los hombres y del mundo, el “cielo nuevo” y la “tierra nueva”, cuyo centro es el Cristo glorioso, son el primum volitum en el proyecto creacional de Dios […] Dios ha creado la naturaleza para tener, por así decirlo, un lugar donde poder hacer refluir la propia vida… ella es querida como un presupuesto del sobrenatural» (M. Schmaus, Katholische Dogmatik ii, Múnich 1949, 185-186).</p>
+<p>Al afirmar que &quot;el fundamento existencial del orden sobrenatural es Cristo&quot;, se establece que todo lo creado tiene a Cristo como su centro y fin último. La creación no es un fin en sí misma, sino que existe en función del plan divino que culmina en Cristo, quien es el primogénito y modelo de toda la creación.</p>
+<p>La naturaleza, según el texto, fue elevada sobrenaturalmente desde su origen, lo que significa que su propósito más profundo y su plenitud se encuentran en la relación con Cristo. Dios no creó el mundo para que este existiera por sí mismo, sino por amor a Cristo, quien es el centro del &quot;cielo nuevo&quot; y la &quot;tierra nueva&quot;. De este modo, la creación adquiere su pleno significado en la medida en que participa en la vida divina, la cual se refleja en Cristo glorificado.</p>
+<p>El proyecto original de la creación, consideraba la gracia como factor indispensable. Al perderla el hombre, pervirtió todo. La frase del Génesis “todo era bueno y bueno en gran manera“ solo se entiende por la presencia de la gracia de Dios en lo  creado.</p>
+<p>De suerte que la caída, y toda la historia de la salvación, tan sólo conlleva un retraso - no un fracaso- en el proyecto original de Dios. ya que al final, como dice en N.T., “Cristo será todo en todos”.</p>
+<p>De esto se deriva, que la labor de la Iglesia es comunicar la gracia, mediante el kerigma, los sacramentos, la práctica de la moral cristiana (y con ella practicar una moral en la familia, sociedad, las artes, ciencias, ecología y toda actividad humana), y mantener una relación con Dios mediante la oración. De esta manera, por obra de los hombres por los cuales se perdió la gracia y el propósito de Dios, por su libre participación en Cristo, viviendo la vida de gracia, la creación vuelve al propósito original de Dios.</p>
