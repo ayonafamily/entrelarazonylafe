@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
-theme = "hugo-PaperMod"
+theme = "hugo-PaperMod" #tema
 
 [pagination]
   pagerSize = 15
