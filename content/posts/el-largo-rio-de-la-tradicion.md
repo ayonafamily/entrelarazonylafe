@@ -1,5 +1,6 @@
 ---
 title: "El Largo Rio De La Tradicion"
+author: "Jorge Ayona"
 date: 2026-02-04T11:47:00-05:00
 description: "Escribe aquí una frase que enganche para Facebook."
 cover:

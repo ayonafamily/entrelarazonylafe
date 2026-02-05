@@ -1,6 +1,7 @@
 ---
 
 title: "Generacion De Sobrevivientes"
+author: "Jorge Ayona"
 date: 2026-02-03T23:26:03-05:00
 draft: false
 cover:
