@@ -10,6 +10,7 @@ theme = "hugo-PaperMod" #tema
   description = "Blog de Jorge Ayona"
   highlightColor = "#e22d30"
   mainSections = ["posts"]
+  ShowPostNavLinks = true
 
 # Configuración del Favicon
 [params.assets]
@@ -48,3 +49,21 @@ theme = "hugo-PaperMod" #tema
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Artículos"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Etiquetas"
+    url = "/tags/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "archives"
+    name = "Archivo"
+    url = "/archives/"
+    weight = 30
