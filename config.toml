@@ -8,31 +8,39 @@ theme = "hugo-PaperMod" #tema
 
 [params]
   description = "Blog de Jorge Ayona"
-  # Colores simples
   highlightColor = "#e22d30"
   mainSections = ["posts"]
 
-# --- SECCIÓN DEL FAVICON AÑADIDA ---
+# Configuración del Favicon (Mantenemos lo que ya funciona)
 [params.assets]
     favicon = "/favicon.ico"
     favicon16x16 = "/favicon.ico"
     favicon32x32 = "/favicon.ico"
     apple_touch_icon = "/favicon.ico"
-# -----------------------------------
+
+# --- NUEVA SECCIÓN: IMAGEN DE CABECERA (BANNER) ---
+[params.profileMode]
+    enabled = true
+    title = "Entre La Razón Y La Fe"
+    subtitle = "Blog de Jorge Ayona"
+    imageUrl = "/cabecera.jpg" # Tu imagen de la carpeta static
+    imageWidth = 1000          # Ancho para que se vea como banner
+    imageHeight = 300          # Ajusta la altura a tu gusto
+# --------------------------------------------------
 
 [params.cover]
       linkFullImages = true
-      responsiveImages = false # Prueba poniéndolo en false primero
-      hidden = false          # Si esto está en true, oculta todas las fotos
-      hiddenInList = false      # Muestra la foto en el inicio
-      hiddenInSingle = false    # Muestra la foto dentro del pos
+      responsiveImages = false
+      hidden = false
+      hiddenInList = false
+      hiddenInSingle = false
 
 [params.sidebar]
   home = "right"
   widgets = ["search", "recent", "categories"]
 
 [params.thumbnail]
-  visibility = ["list", "post"] # Esto hace que se vean en la lista y dentro del post
+  visibility = ["list", "post"]
 
 [markup.goldmark.renderer]
   unsafe = true
