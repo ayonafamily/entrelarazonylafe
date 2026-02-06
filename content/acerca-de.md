@@ -3,6 +3,7 @@ title: "Acerca de mí"
 date: 2026-02-06
 author: "Jorge Ayona"
 layout: "page"
+images: ["/jorge.jpg"]
 description: "Trayectoria, fe y propósito de Jorge Ayona."
 ---
 
