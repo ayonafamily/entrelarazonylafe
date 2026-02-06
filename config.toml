@@ -11,22 +11,26 @@ theme = "hugo-PaperMod" #tema
   highlightColor = "#e22d30"
   mainSections = ["posts"]
 
-# Configuración del Favicon (Mantenemos lo que ya funciona)
+# Configuración del Favicon
 [params.assets]
     favicon = "/favicon.ico"
     favicon16x16 = "/favicon.ico"
     favicon32x32 = "/favicon.ico"
     apple_touch_icon = "/favicon.ico"
 
-# --- NUEVA SECCIÓN: IMAGEN DE CABECERA (BANNER) ---
+# --- SECCIÓN: IMAGEN DE CABECERA Y BOTÓN ---
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    imageUrl = "/cabecera.jpg" # Tu imagen de la carpeta static
-    imageWidth = 1000          # Ancho para que se vea como banner
-    imageHeight = 300          # Ajusta la altura a tu gusto
-# --------------------------------------------------
+    imageUrl = "/cabecera.jpg"
+    imageWidth = 1000
+    imageHeight = 300
+
+    [[params.profileMode.buttons]]
+        name = "Entrar al Blog"
+        url = "/posts"
+# -------------------------------------------
 
 [params.cover]
       linkFullImages = true
