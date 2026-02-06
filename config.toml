@@ -52,19 +52,21 @@ theme = "hugo-PaperMod" #tema
   unsafe = true
 
 [[menu.main]]
-    identifier = "posts"
     name = "Artículos"
     url = "/posts/"
     weight = 10
 
 [[menu.main]]
-    identifier = "tags"
     name = "Etiquetas"
     url = "/tags/"
     weight = 20
 
 [[menu.main]]
-    identifier = "archives"
+    name = "Acerca de"
+    url = "/acerca-de/"
+    weight = 30
+
+[[menu.main]]
     name = "Archivo"
     url = "/archives/"
-    weight = 30
+    weight = 40

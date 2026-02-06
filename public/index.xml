@@ -23,6 +23,13 @@
       <description>Respuesta al supuesto estado de necesidad lefebvrista</description>
     </item>
     <item>
+      <title>Acerca de mí</title>
+      <link>//localhost:1313/acerca-de/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/acerca-de/</guid>
+      <description>Trayectoria, fe y propósito de Jorge Ayona.</description>
+    </item>
+    <item>
       <title>Falsas Imagenes</title>
       <link>//localhost:1313/posts/falsas-imagenes/</link>
       <pubDate>Wed, 04 Feb 2026 21:34:47 -0500</pubDate>
