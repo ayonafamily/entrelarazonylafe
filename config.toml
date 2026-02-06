@@ -11,6 +11,7 @@ theme = "hugo-PaperMod" #tema
   highlightColor = "#e22d30"
   mainSections = ["posts"]
   ShowPostNavLinks = true
+  comments = true
 
 # Configuración del Favicon
 [params.assets]

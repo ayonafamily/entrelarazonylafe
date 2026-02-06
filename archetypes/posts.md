@@ -4,7 +4,7 @@ date: {{ .Date }}
 author: "Jorge Ayona"
 draft: true
 description: ""
-tags: ["Espiritualidad", "Reflexión"]
+tags: ["Espiritualidad", "Reflexión", "Filosofia", "Teologia", "Sociedad"]
 categories: ["Ensayo"]
 cover:
   image: ""
