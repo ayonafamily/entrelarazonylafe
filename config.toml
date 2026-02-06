@@ -11,15 +11,21 @@ theme = "hugo-PaperMod" #tema
   # Colores simples
   highlightColor = "#e22d30"
   mainSections = ["posts"]
+
+# --- SECCIÓN DEL FAVICON AÑADIDA ---
+[params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon.ico"
+    favicon32x32 = "/favicon.ico"
+    apple_touch_icon = "/favicon.ico"
+# -----------------------------------
+
 [params.cover]
       linkFullImages = true
       responsiveImages = false # Prueba poniéndolo en false primero
       hidden = false          # Si esto está en true, oculta todas las fotos
       hiddenInList = false      # Muestra la foto en el inicio
       hiddenInSingle = false    # Muestra la foto dentro del pos
-
-
-
 
 [params.sidebar]
   home = "right"
@@ -28,6 +34,5 @@ theme = "hugo-PaperMod" #tema
 [params.thumbnail]
   visibility = ["list", "post"] # Esto hace que se vean en la lista y dentro del post
 
-
-    [markup.goldmark.renderer]
-    unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true
