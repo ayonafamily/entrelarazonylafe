@@ -12,6 +12,7 @@ description: "Trayectoria, fe y propósito de Jorge Ayona."
 Soy un apasionado del aprendizaje y el crecimiento personal, con un enfoque en la **teología, la filosofía y la literatura**.
 
 <br>
+
 ### Mi Formación y Fe
 Tengo estudios de **Antropología Cristiana** en la Universidad Católica San Pablo de Arequipa. Actualmente, curso el Diplomado en Teología en la **Facultad de Teología Pontificia y Civil de Lima**, profundizando en la fe, la moral y la trascendencia. Como catequista católico, mi misión es acompañar espiritualmente y transmitir fielmente los valores de la fe.
 
