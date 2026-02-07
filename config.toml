@@ -22,17 +22,22 @@ theme = "hugo-PaperMod"
         url = "/posts"
 
 [[menu.main]]
-    name = "Artículos"
-    url = "/posts/"
-    weight = 10
-
-[[menu.main]]
     name = "Acerca de"
     url = "/acerca-de/"
     weight = 40
 
 [[menu.main]]
+    name = "Artículos"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    name = "Etiquetas"
+    url = "/tags/"
+    weight = 20
+
+[[menu.main]]
     name = "Archivo"
     url = "/archives/"
-    weight = 20
+    weight = 30
 
