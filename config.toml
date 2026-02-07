@@ -5,26 +5,29 @@ theme = "hugo-PaperMod"
 
 [params]
     description = "Blog de Jorge Ayona"
-    # Ruta absoluta para que WhatsApp no se pierda
-    images = ["https://entrelarazonylafe.vercel.app/cabecera.webp"]
+    author = "Jorge Ayona"
+    # Imagen para redes sociales
+    images = ["https://entrelarazonylafe.vercel.app/images/cabecera.webp"]
 
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    # Ruta absoluta para que la web cargue la imagen sí o sí
-    imageUrl = "https://entrelarazonylafe.vercel.app/cabecera.webp"
-    imageWidth = 1000
-    imageHeight = 300
+    # ESTA ES SU FOTO PERSONAL QUE YO HABÍA BORRADO
+    imageUrl = "/images/Jorge.webp"
+    imageWidth = 150
+    imageHeight = 150
+    imageTitle = "Jorge Ayona"
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
         url = "/posts"
 
-[[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
-    weight = 40
+[params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon.ico"
+    favicon32x32 = "/favicon.ico"
+    apple_touch_icon = "/favicon.ico"
 
 [[menu.main]]
     name = "Artículos"
@@ -41,3 +44,10 @@ theme = "hugo-PaperMod"
     url = "/archives/"
     weight = 30
 
+[[menu.main]]
+    name = "Acerca de"
+    url = "/acerca-de/"
+    weight = 40
+
+[markup.goldmark.renderer]
+    unsafe = true
