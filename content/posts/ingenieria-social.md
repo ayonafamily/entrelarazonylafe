@@ -2,7 +2,6 @@
 title: "Ingenieria Social"
 date: 2026-02-06T20:33:29-05:00
 author: "Jorge Ayona"
-draft: false
 description: ""
 tags: ["Espiritualidad", "Reflexión", "Filosofia", "Teologia", "Sociedad"]
 categories: ["Ensayo"]
