@@ -3,49 +3,23 @@ languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod"
 
-[pagination]
-  pagerSize = 15
-
 [params]
-  description = "Blog de Jorge Ayona"
-  highlightColor = "#e22d30"
-  mainSections = ["posts"]
-  ShowPostNavLinks = true
-  comments = true
-  # WhatsApp lee esta línea. Al tener el baseURL correcto arriba, encontrará la imagen.
-  images = ["/cabecera.webp"]
+    description = "Blog de Jorge Ayona"
+    # Ruta absoluta para que WhatsApp no se pierda
+    images = ["https://entrelarazonylafe.vercel.app/cabecera.webp"]
 
-# Configuración del Favicon
-[params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon.ico"
-    favicon32x32 = "/favicon.ico"
-    apple_touch_icon = "/favicon.ico"
-
-# --- SECCIÓN: IMAGEN DE CABECERA Y BOTÓN ---
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    # Volvemos a tu ruta original que sí cargaba en la web
-    imageUrl = "/cabecera.webp"
+    # Ruta absoluta para que la web cargue la imagen sí o sí
+    imageUrl = "https://entrelarazonylafe.vercel.app/cabecera.webp"
     imageWidth = 1000
     imageHeight = 300
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
         url = "/posts"
-# -------------------------------------------
-
-[params.cover]
-      linkFullImages = true
-      responsiveImages = false
-      hidden = false
-      hiddenInList = false
-      hiddenInSingle = false
-
-[markup.goldmark.renderer]
-  unsafe = true
 
 [[menu.main]]
     name = "Artículos"
@@ -53,16 +27,6 @@ theme = "hugo-PaperMod"
     weight = 10
 
 [[menu.main]]
-    name = "Etiquetas"
-    url = "/tags/"
-    weight = 20
-
-[[menu.main]]
     name = "Archivo"
     url = "/archives/"
-    weight = 30
-
-[[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
-    weight = 40
+    weight = 20
