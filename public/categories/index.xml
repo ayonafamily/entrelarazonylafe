@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Entre La Razón Y La Fe</title>
-    <link>//localhost:1313/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>https://entrelarazonylafe.vercel.app/images/cabecera.webp</url>
+      <link>https://entrelarazonylafe.vercel.app/images/cabecera.webp</link>
+    </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 06 Feb 2026 20:33:29 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ensayo</title>
-      <link>//localhost:1313/categories/ensayo/</link>
-      <pubDate>Fri, 06 Feb 2026 20:33:29 -0500</pubDate>
-      <guid>//localhost:1313/categories/ensayo/</guid>
+      <link>http://localhost:1313/categories/ensayo/</link>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/ensayo/</guid>
       <description></description>
     </item>
   </channel>

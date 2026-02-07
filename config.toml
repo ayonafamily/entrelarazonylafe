@@ -13,7 +13,7 @@ theme = "hugo-PaperMod"
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
     # CABECERA COMO HERO
-    imageUrl = "https://entrelarazonylafe.vercel.app/images/cabecera.webp"
+    imageUrl = "cabecera.webp"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"

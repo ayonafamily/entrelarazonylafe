@@ -2,40 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reflexión on Entre La Razón Y La Fe</title>
-    <link>//localhost:1313/tags/reflexi%C3%B3n/</link>
+    <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
     <description>Recent content in Reflexión on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>https://entrelarazonylafe.vercel.app/images/cabecera.webp</url>
+      <link>https://entrelarazonylafe.vercel.app/images/cabecera.webp</link>
+    </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 06 Feb 2026 20:33:29 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/reflexi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflexi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ingenieria Social</title>
-      <link>//localhost:1313/posts/ingenieria-social/</link>
-      <pubDate>Fri, 06 Feb 2026 20:33:29 -0500</pubDate>
-      <guid>//localhost:1313/posts/ingenieria-social/</guid>
-      <description>&lt;h1 id=&#34;la-ingeniería-social-vs-la-dignidad-humana&#34;&gt;La Ingeniería Social vs. La Dignidad Humana&lt;/h1&gt;
-&lt;h2 id=&#34;el-costo-de-los-mundos-ideales&#34;&gt;El Costo de los &amp;ldquo;Mundos Ideales&amp;rdquo;&lt;/h2&gt;
-&lt;p&gt;El ser humano, por su dignidad, no debe ser sujeto de experimentos sociales. Sin embargo, a lo largo de siglos hemos sido testigos de diversos intentos de cambiar al hombre y a la sociedad, buscando una utopía, una sociedad ideal. Sin embargo, al abandonar la &lt;em&gt;philosophia perennis&lt;/em&gt;, al abandonar a Dios, su antropología está errada, y por ende, proclive a errores.&lt;/p&gt;</description>
+      <title>Ingeniería Social</title>
+      <link>http://localhost:1313/posts/ingenieria-social/</link>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/ingenieria-social/</guid>
+      <description>Un análisis sobre el constructivismo radical y la defensa de la dignidad humana frente a los experimentos sociales.</description>
     </item>
     <item>
       <title>Fe Teologal Donatismo</title>
-      <link>//localhost:1313/posts/fe-teologal-donatismo/</link>
+      <link>http://localhost:1313/posts/fe-teologal-donatismo/</link>
       <pubDate>Fri, 06 Feb 2026 10:32:51 -0500</pubDate>
-      <guid>//localhost:1313/posts/fe-teologal-donatismo/</guid>
+      <guid>http://localhost:1313/posts/fe-teologal-donatismo/</guid>
       <description>Un análisis teológico sobre la autoridad y la fe frente a la controversia sedevacantista. Explora la relación entre la indefectibilidad de la Iglesia y el error histórico del donatismo, analizando figuras bíblicas y el pensamiento de San Agustín y San Roberto Belarmino.</description>
     </item>
     <item>
       <title>Estado De Necesidad O Rebelión</title>
-      <link>//localhost:1313/posts/estado-de-necesidad-o-rebeli%C3%B3n/</link>
+      <link>http://localhost:1313/posts/estado-de-necesidad-o-rebeli%C3%B3n/</link>
       <pubDate>Thu, 05 Feb 2026 20:12:35 -0500</pubDate>
-      <guid>//localhost:1313/posts/estado-de-necesidad-o-rebeli%C3%B3n/</guid>
+      <guid>http://localhost:1313/posts/estado-de-necesidad-o-rebeli%C3%B3n/</guid>
       <description>Respuesta al supuesto estado de necesidad lefebvrista</description>
     </item>
     <item>
       <title>Falsas Imagenes</title>
-      <link>//localhost:1313/posts/falsas-imagenes/</link>
+      <link>http://localhost:1313/posts/falsas-imagenes/</link>
       <pubDate>Wed, 04 Feb 2026 21:34:47 -0500</pubDate>
-      <guid>//localhost:1313/posts/falsas-imagenes/</guid>
+      <guid>http://localhost:1313/posts/falsas-imagenes/</guid>
       <description>Las falsas imagenes que tenemos de Dios</description>
     </item>
   </channel>
