@@ -1,18 +1,16 @@
 ---
-title: "Ingenieria Social"
-date: 2026-02-06T20:33:29-05:00
+title: "Ingeniería Social"
+date: 2026-02-06T12:00:00-05:00
 author: "Jorge Ayona"
-description: ""
-tags: ["Espiritualidad", "Reflexión", "Filosofia", "Teologia", "Sociedad"]
+description: "Un análisis sobre el constructivismo radical y la defensa de la dignidad humana frente a los experimentos sociales."
+tags: ["Espiritualidad", "Reflexión", "Filosofía", "Teología", "Sociedad"]
 categories: ["Ensayo"]
 cover:
-  image: "/images/2026/ingenieria.webp"
-  alt: ""
-  relative: false
-images: [""]
+    image: "/images/2026/ingenieria.webp"
+    alt: "Ingeniería Social y Dignidad Humana"
+    relative: false
 draft: false
 ---
-
 # La Ingeniería Social vs. La Dignidad Humana
 ## El Costo de los "Mundos Ideales"
 
