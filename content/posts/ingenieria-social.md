@@ -10,7 +10,7 @@ cover:
   alt: ""
   relative: false
 images: [""]
-draft: true
+draft: false
 ---
 
 # La Ingeniería Social vs. La Dignidad Humana
