@@ -2,7 +2,7 @@
 title: "Lo Absurdo"
 date: 2026-02-07T01:28:23-05:00
 author: "Jorge Ayona"
-draft: false
+draft: true
 description: "Crítica social actual basada en la novela Peste de Camus"
 tags: ["Espiritualidad", "Reflexión", "Filosofia", "Teologia", "Sociedad"]
 categories: ["Ensayo"]
