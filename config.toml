@@ -27,6 +27,12 @@ theme = "hugo-PaperMod"
     weight = 10
 
 [[menu.main]]
+    name = "Acerca de"
+    url = "/acerca-de/"
+    weight = 40
+
+[[menu.main]]
     name = "Archivo"
     url = "/archives/"
     weight = 20
+
