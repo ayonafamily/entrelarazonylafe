@@ -29,6 +29,11 @@ theme = "hugo-PaperMod"
     apple_touch_icon = "/favicon.ico"
 
 [[menu.main]]
+    name = "Acerca de"
+    url = "/acerca-de/"
+    weight = 40
+
+[[menu.main]]
     name = "Artículos"
     url = "/posts/"
     weight = 10
@@ -43,10 +48,7 @@ theme = "hugo-PaperMod"
     url = "/archives/"
     weight = 30
 
-[[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
-    weight = 40
+
 
 [markup.goldmark.renderer]
     unsafe = true
