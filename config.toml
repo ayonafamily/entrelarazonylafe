@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://entrelarazonylafe.vercel.app/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod" #tema
@@ -25,10 +25,11 @@ theme = "hugo-PaperMod" #tema
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    imageUrl = "images/cabecera.webp"
+    enabled = true
+    imageUrl = "/images/cabecera.webp"  # Con la barra inicial
     imageWidth = 1000
     imageHeight = 300
-    images = ["/images/cabecera.webp"] # Ruta desde la carpeta static
+    images = ["https://entrelarazonylafe.vercel.app/images/cabecera.webp"]
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
