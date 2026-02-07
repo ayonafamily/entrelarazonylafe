@@ -1,7 +1,7 @@
-baseURL = "/"
+baseURL = "https://entrelarazonylafe.vercel.app/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
-theme = "hugo-PaperMod" #tema
+theme = "hugo-PaperMod"
 
 [pagination]
   pagerSize = 15
@@ -12,6 +12,8 @@ theme = "hugo-PaperMod" #tema
   mainSections = ["posts"]
   ShowPostNavLinks = true
   comments = true
+  # WhatsApp lee esta línea. Al tener el baseURL correcto arriba, encontrará la imagen.
+  images = ["/cabecera.webp"]
 
 # Configuración del Favicon
 [params.assets]
@@ -25,10 +27,10 @@ theme = "hugo-PaperMod" #tema
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    imageUrl = "images/cabecera.webp"
+    # Volvemos a tu ruta original que sí cargaba en la web
+    imageUrl = "/cabecera.webp"
     imageWidth = 1000
     imageHeight = 300
-    images = ["/images/cabecera.webp"] # Ruta desde la carpeta static
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
@@ -41,13 +43,6 @@ theme = "hugo-PaperMod" #tema
       hidden = false
       hiddenInList = false
       hiddenInSingle = false
-
-[params.sidebar]
-  home = "right"
-  widgets = ["search", "recent", "categories"]
-
-[params.thumbnail]
-  visibility = ["list", "post"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -63,11 +58,11 @@ theme = "hugo-PaperMod" #tema
     weight = 20
 
 [[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
+    name = "Archivo"
+    url = "/archives/"
     weight = 30
 
 [[menu.main]]
-    name = "Archivo"
-    url = "/archives/"
+    name = "Acerca de"
+    url = "/acerca-de/"
     weight = 40
