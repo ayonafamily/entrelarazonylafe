@@ -8,6 +8,14 @@ theme = "hugo-PaperMod"
     author = "Jorge Ayona"
     images = ["https://entrelarazonylafe.vercel.app/images/cabecera.webp"]
 
+
+
+
+
+
+
+
+
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
