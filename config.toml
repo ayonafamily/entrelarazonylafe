@@ -6,18 +6,17 @@ theme = "hugo-PaperMod"
 [params]
     description = "Blog de Jorge Ayona"
     author = "Jorge Ayona"
-    # Imagen para redes sociales
     images = ["https://entrelarazonylafe.vercel.app/images/cabecera.webp"]
 
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    # ESTA ES SU FOTO PERSONAL QUE YO HABÍA BORRADO
-    imageUrl = "/images/Jorge.webp"
-    imageWidth = 150
-    imageHeight = 150
-    imageTitle = "Jorge Ayona"
+    # CABECERA COMO HERO
+    imageUrl = "https://entrelarazonylafe.vercel.app/images/cabecera.webp"
+    imageWidth = 1000
+    imageHeight = 350
+    imageTitle = "Entre La Razón Y La Fe"
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
