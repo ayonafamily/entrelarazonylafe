@@ -1,7 +1,7 @@
 baseURL = "https://entrelarazonylafe.vercel.app/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
-theme = "hugo-PaperMod" #tema
+theme = "hugo-PaperMod"
 
 [pagination]
   pagerSize = 15
@@ -12,24 +12,25 @@ theme = "hugo-PaperMod" #tema
   mainSections = ["posts"]
   ShowPostNavLinks = true
   comments = true
+  # ESTA es la línea que lee WhatsApp y redes sociales (va aquí, en params)
+  images = ["images/cabecera.webp"]
 
 # Configuración del Favicon
 [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon.ico"
-    favicon32x32 = "/favicon.ico"
-    apple_touch_icon = "/favicon.ico"
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon.ico"
+    favicon32x32 = "favicon.ico"
+    apple_touch_icon = "favicon.ico"
 
 # --- SECCIÓN: IMAGEN DE CABECERA Y BOTÓN ---
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    enabled = true
-    imageUrl = "/images/cabecera.webp"  # Con la barra inicial
+    imageUrl = "images/cabecera.webp"  # Ruta corregida para que cargue en la web
     imageWidth = 1000
     imageHeight = 300
-    images = ["https://entrelarazonylafe.vercel.app/images/cabecera.webp"]
+    imageTitle = "Cabecera"
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
@@ -42,13 +43,6 @@ theme = "hugo-PaperMod" #tema
       hidden = false
       hiddenInList = false
       hiddenInSingle = false
-
-[params.sidebar]
-  home = "right"
-  widgets = ["search", "recent", "categories"]
-
-[params.thumbnail]
-  visibility = ["list", "post"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -64,11 +58,11 @@ theme = "hugo-PaperMod" #tema
     weight = 20
 
 [[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
+    name = "Archivo"
+    url = "/archives/"
     weight = 30
 
 [[menu.main]]
-    name = "Archivo"
-    url = "/archives/"
+    name = "Acerca de"
+    url = "/acerca-de/"
     weight = 40
