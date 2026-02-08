@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 07 Feb 2026 23:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 10:24:46 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eclesiologia</title>
+      <link>http://localhost:1313/tags/eclesiologia/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/eclesiologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espiritualidad</title>
+      <link>http://localhost:1313/tags/espiritualidad/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/espiritualidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>http://localhost:1313/tags/filosofia/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/filosofia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexión</title>
+      <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/reflexi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociedad</title>
+      <link>http://localhost:1313/tags/sociedad/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/sociedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teologia</title>
+      <link>http://localhost:1313/tags/teologia/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/tags/teologia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Educación</title>
       <link>http://localhost:1313/tags/educaci%C3%B3n/</link>
@@ -39,41 +81,6 @@
       <link>http://localhost:1313/tags/metodolog%C3%ADa/</link>
       <pubDate>Sat, 07 Feb 2026 23:45:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/metodolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Espiritualidad</title>
-      <link>http://localhost:1313/tags/espiritualidad/</link>
-      <pubDate>Sat, 07 Feb 2026 22:44:38 -0500</pubDate>
-      <guid>http://localhost:1313/tags/espiritualidad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>http://localhost:1313/tags/filosofia/</link>
-      <pubDate>Sat, 07 Feb 2026 22:44:38 -0500</pubDate>
-      <guid>http://localhost:1313/tags/filosofia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflexión</title>
-      <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
-      <pubDate>Sat, 07 Feb 2026 22:44:38 -0500</pubDate>
-      <guid>http://localhost:1313/tags/reflexi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sociedad</title>
-      <link>http://localhost:1313/tags/sociedad/</link>
-      <pubDate>Sat, 07 Feb 2026 22:44:38 -0500</pubDate>
-      <guid>http://localhost:1313/tags/sociedad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teologia</title>
-      <link>http://localhost:1313/tags/teologia/</link>
-      <pubDate>Sat, 07 Feb 2026 22:44:38 -0500</pubDate>
-      <guid>http://localhost:1313/tags/teologia/</guid>
       <description></description>
     </item>
     <item>
