@@ -31,7 +31,7 @@ theme = "hugo-PaperMod"
 [[menu.main]]
     name = "Acerca de"
     url = "/acerca-de/"
-    weight = 40
+    weight = 20
 
 [[menu.main]]
     name = "Artículos"
@@ -41,17 +41,17 @@ theme = "hugo-PaperMod"
 [[menu.main]]
     name = "Etiquetas"
     url = "/tags/"
-    weight = 20
+    weight = 40
 
 [[menu.main]]
     name = "Archivo"
     url = "/archives/"
-    weight = 30
+    weight = 50
 
 [[menu.main]]
     name = "Manifiesto"
     url = "/manifiesto/"
-    weight = 10
+    weight = 30
 
 [markup.goldmark.renderer]
     unsafe = true
