@@ -11,40 +11,68 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 08 Feb 2026 14:04:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 12:07:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animalismo</title>
+      <link>http://localhost:1313/tags/animalismo/</link>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
+      <guid>http://localhost:1313/tags/animalismo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Espiritualidad</title>
       <link>http://localhost:1313/tags/espiritualidad/</link>
-      <pubDate>Sun, 08 Feb 2026 14:04:27 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
       <guid>http://localhost:1313/tags/espiritualidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Filosofia</title>
       <link>http://localhost:1313/tags/filosofia/</link>
-      <pubDate>Sun, 08 Feb 2026 14:04:27 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
       <guid>http://localhost:1313/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflexión</title>
       <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
-      <pubDate>Sun, 08 Feb 2026 14:04:27 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
       <guid>http://localhost:1313/tags/reflexi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>San Antonio De Padua</title>
+      <link>http://localhost:1313/tags/san-antonio-de-padua/</link>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
+      <guid>http://localhost:1313/tags/san-antonio-de-padua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>San Francisco</title>
+      <link>http://localhost:1313/tags/san-francisco/</link>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
+      <guid>http://localhost:1313/tags/san-francisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santo Tomas</title>
+      <link>http://localhost:1313/tags/santo-tomas/</link>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
+      <guid>http://localhost:1313/tags/santo-tomas/</guid>
       <description></description>
     </item>
     <item>
       <title>Sociedad</title>
       <link>http://localhost:1313/tags/sociedad/</link>
-      <pubDate>Sun, 08 Feb 2026 14:04:27 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
       <guid>http://localhost:1313/tags/sociedad/</guid>
       <description></description>
     </item>
     <item>
       <title>Teologia</title>
       <link>http://localhost:1313/tags/teologia/</link>
-      <pubDate>Sun, 08 Feb 2026 14:04:27 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
       <guid>http://localhost:1313/tags/teologia/</guid>
       <description></description>
     </item>
