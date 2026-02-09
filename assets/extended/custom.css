@@ -1,7 +1,7 @@
-.profile_inner img {
-    width: auto !important;
-    height: auto !important;
-    max-width: 100% !important;
-    object-fit: contain !important;
-    border-radius: 0 !important; /* Por si el tema intenta redondear tu cabecera */
+/* Ajuste para que la foto sea responsiva y centrada en móviles */
+.post-single .cover img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
 }

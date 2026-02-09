@@ -1,14 +1,19 @@
----
-title: "Acerca de mí"
-date: 2026-02-06
-author: "Jorge Ayona"
-layout: "page"
-images: ["/jorge.jpg"]
-description: "Trayectoria, fe y propósito de Jorge Ayona."
----
++++
+title = "Acerca de mí"
+date = 2026-02-06
+author = "Jorge Ayona"
+layout = "page"
+images = ["/jorge.jpg"]
+description = "Trayectoria, fe y propósito de Jorge Ayona."
 
+[cover]
+    image = "/jorge.jpg"
+    alt = "Mi Fotografía"
+    caption = ""
+    relative = false
+    hidden = false
++++
 
-<img src="/jorge.jpg" alt="Jorge Ayona" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 300px; border-radius: 10px;"></div>
 
 Soy un apasionado del aprendizaje y el crecimiento personal, con un enfoque en la **teología, la filosofía y la literatura**.
 
