@@ -17,6 +17,7 @@ images: [""]
 ### Cuando el desajuste se convierte en testimonio
 
 **Escribo estas líneas no para hablar de mí, sino para que quienes viven años de sufrimiento sin poder aceptarse a si mismos,descubran que su modo de ser no es un error, que puede ser don, y que no están solos: la Cruz de Cristo es un lugar real al que se puede recurrir y en el que incluso el desajuste encuentra sentido.**
+
 ---
 Hoy escribo, a pesar de que, créanme, no tengo ganas. Hasta hace unos meses, esto me hubiera causado mucha tensión, pero mientras estudiaba en la UCSM confirmaron lo que sospechaba: soy neurodivergente. No, no es que esté loco, sino que mi cerebro está configurado de manera diferente; por tanto, tengo fortalezas, debilidades y un estilo de pensar y procesar información distinto al de la mayoría de las personas.
 
