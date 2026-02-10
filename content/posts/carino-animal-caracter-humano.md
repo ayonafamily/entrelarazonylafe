@@ -1,5 +1,5 @@
 ---
-title: "Carino Animal Caracter Humano"
+title: "Cariño Animal Caracter Humano"
 date: 2026-02-09T12:07:49-05:00
 author: "Jorge Ayona"
 draft: false
