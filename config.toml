@@ -6,14 +6,14 @@ theme = "hugo-PaperMod"
 [params]
     description = "Blog de Jorge Ayona"
     author = "Jorge Ayona"
-    images = ["https://entrelarazonylafe.com/images/cabecera.webp"]
+    images = ["https://www.entrelarazonylafe.com/images/cabecera.webp"]
 
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
     # CABECERA COMO HERO
-    imageUrl = "cabecera.webp"
+    imageUrl = "/cabecera.webp"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
