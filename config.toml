@@ -13,9 +13,8 @@ theme = "hugo-PaperMod"
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    # CABECERA COMO HERO
-    # Se mantiene la barra inicial para asegurar que cargue en todas las secciones
-    imageUrl = "/cabecera.webp"
+    # PRUEBA SIN LA BARRA INICIAL
+    imageUrl = "cabecera.webp"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
