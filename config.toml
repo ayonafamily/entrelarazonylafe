@@ -14,7 +14,7 @@ theme = "hugo-PaperMod"
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
     # PRUEBA SIN LA BARRA INICIAL
-    imageUrl = "cabecera.webp"
+    imageUrl = "/cabecera.webp"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
