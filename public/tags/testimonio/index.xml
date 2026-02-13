@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Testimonio on Entre La Razón Y La Fe</title><link>https://www.entrelarazonylafe.com/tags/testimonio/</link><description>Recent content in Testimonio on Entre La Razón Y La Fe</description><image><title>Entre La Razón Y La Fe</title><url>https://entrelarazonylafe.vercel.app/images/cabecera.webp</url><link>https://entrelarazonylafe.vercel.app/images/cabecera.webp</link></image><generator>Hugo -- 0.146.0</generator><language>es-es</language><lastBuildDate>Tue, 10 Feb 2026 13:54:52 -0500</lastBuildDate><atom:link href="https://www.entrelarazonylafe.com/tags/testimonio/index.xml" rel="self" type="application/rss+xml"/><item><title>No Encajar</title><link>https://www.entrelarazonylafe.com/posts/no-encajar/</link><pubDate>Tue, 10 Feb 2026 13:54:52 -0500</pubDate><guid>https://www.entrelarazonylafe.com/posts/no-encajar/</guid><description>Un análisis sobre las fricciones psicológicas y sociales que surgen del desajuste entre un procesamiento mental profundo y un entorno diseñado para la media, redactado desde la perspectiva de las debilidades personales.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Testimonio on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/testimonio/</link>
+    <description>Recent content in Testimonio on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>https://entrelarazonylafe.vercel.app/images/cabecera.webp</url>
+      <link>https://entrelarazonylafe.vercel.app/images/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 12 Feb 2026 20:29:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testimonio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dulzura Al Evangelizar</title>
+      <link>http://localhost:1313/posts/dulzura-evangelizar/</link>
+      <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dulzura-evangelizar/</guid>
+      <description>Desde la Escritura, la patrística y el Vaticano II, una defensa de la evangelización con dulzura y respeto, mostrando que la caridad en el anuncio del Evangelio no es relativismo, sino fidelidad a Cristo.</description>
+    </item>
+    <item>
+      <title>No Encajar</title>
+      <link>http://localhost:1313/posts/no-encajar/</link>
+      <pubDate>Tue, 10 Feb 2026 13:54:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/no-encajar/</guid>
+      <description>Un análisis sobre las fricciones psicológicas y sociales que surgen del desajuste entre un procesamiento mental profundo y un entorno diseñado para la media, redactado desde la perspectiva de las debilidades personales.</description>
+    </item>
+  </channel>
+</rss>
