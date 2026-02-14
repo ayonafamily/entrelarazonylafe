@@ -13,7 +13,6 @@ theme = "hugo-PaperMod"
     enabled = true
     title = "Entre La Razón Y La Fe"
     subtitle = "Blog de Jorge Ayona"
-    # PRUEBA SIN LA BARRA INICIAL
     imageUrl = "/cabecera.webp"
     imageWidth = 1000
     imageHeight = 350
@@ -22,6 +21,10 @@ theme = "hugo-PaperMod"
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
         url = "/posts"
+
+        name = "Currículum Vitae"
+        url = "https://cv.entrelarazonylafe.com"
+
 
 [params.assets]
     favicon = "/favicon.ico"
