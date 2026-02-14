@@ -22,6 +22,7 @@ theme = "hugo-PaperMod"
         name = "Entrar al Blog"
         url = "/posts"
 
+    [[params.profileMode.buttons]]
         name = "Currículum Vitae"
         url = "https://cv.entrelarazonylafe.com"
 
