@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vaticano II on Entre La Razón Y La Fe</title>
-    <link>https://www.entrelarazonylafe.com/tags/vaticano-ii/</link>
+    <link>http://localhost:1313/tags/vaticano-ii/</link>
     <description>Recent content in Vaticano II on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 12 Feb 2026 20:29:55 -0500</lastBuildDate>
-    <atom:link href="https://www.entrelarazonylafe.com/tags/vaticano-ii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vaticano-ii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dulzura Al Evangelizar</title>
-      <link>https://www.entrelarazonylafe.com/posts/dulzura-evangelizar/</link>
+      <link>http://localhost:1313/posts/dulzura-evangelizar/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
-      <guid>https://www.entrelarazonylafe.com/posts/dulzura-evangelizar/</guid>
+      <guid>http://localhost:1313/posts/dulzura-evangelizar/</guid>
       <description>Desde la Escritura, la patrística y el Vaticano II, una defensa de la evangelización con dulzura y respeto, mostrando que la caridad en el anuncio del Evangelio no es relativismo, sino fidelidad a Cristo.</description>
     </item>
   </channel>
