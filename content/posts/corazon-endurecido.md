@@ -13,7 +13,6 @@ cover:
 images: ["https://entrelarazonylafe.vercel.app/images/2026/corazon-carne.webp"]
 ---
 
-
 # Del corazón endurecido al corazón de carne
 
 ### Cuando ya no espero que cambie la circunstancia, sino yo
@@ -47,7 +46,7 @@ Y cada vez que comulgamos, ese único sacrificio se hace presente.
 No recibimos una idea ni un símbolo vacío:
 recibimos una vida entregada, hecha pan para nosotros.
 
-La queja, el salmo y la ceguera del corazón
+### La queja, el salmo y la ceguera del corazón
 
 Al leer el salmo del día, me descubrí quejándome:
 de las personas, de las injusticias, de mi propia historia.
@@ -62,7 +61,7 @@ Y sin embargo, yo estaba más atento a lo que me faltaba que a lo que aún me so
 Me di cuenta de algo doloroso y verdadero:
 la misericordia de Dios no me ha faltado, aun cuando yo he sido incapaz de verla.
 
-El pecado reconocido sin excusas
+### El pecado reconocido sin excusas
 
 He gritado.He herido. He dejado que la frustración y el rencor hablen por mí.
 
@@ -138,18 +137,16 @@ ni la promesa que Dios hace por medio de los profetas.
 
 La Escritura no habla solo de perdón legal, sino de renovación real.
 Por eso Ezequiel no dice que Dios “ignore” el pecado,
-
-sino que purifica, lava y cambia el corazón:
-“Os daré un corazón nuevo, y pondré espíritu nuevo dentro de vosotros;
-
-y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.”
+sino que purifica, lava y cambia el corazón. Vale la pena que cite este pasaje una vez mas:
+> “Os daré un corazón nuevo, y pondré espíritu nuevo dentro de vosotros;
+> y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.”
 (Ezequiel 36,26)
 
 Aquí no hay ficción jurídica.
 
-Hay realidad ontológica.
+**Hay realidad ontológica.
 La gracia no solo tapa el pecado:
-lo sana.
+lo sana.**
 
 No solo declara justo al pecador:
 lo va haciendo justo.
@@ -173,7 +170,7 @@ Por eso hoy mi oración no es de desesperación, sino de súplica confiada:
 
 no “cúbreme”, sino “cámbiame”.
 
-No “declárame justo”, sino “hazme nuevo”.
+*No “declárame justo”, sino “hazme nuevo”.*
 Y eso —aunque lento, aunque doloroso—
 
 es lo que la gracia realmente promete.
@@ -183,7 +180,7 @@ es lo que la gracia realmente promete.
 La diferencia profunda entre el Antiguo Testamento y el Nuevo Testamento no está en que uno sea falso y el otro verdadero, sino en lo que cada uno puede realizar en el ser humano.
 
 La Ley mosaica cumple una función esencial:
-revela el pecado y señala al Redentor, pero no tiene la capacidad de transformar interiormente al hombre. No comunica la gracia santificante. Muestra el camino, pero no da la fuerza para recorrerlo.
+**revela el pecado y señala al Redentor**, pero no tiene la capacidad de transformar interiormente al hombre. No comunica la gracia santificante. Muestra el camino, pero no da la fuerza para recorrerlo.
 
 Por eso se puede comprender, aunque no compartir, la mentalidad de Lutero:
 
@@ -205,16 +202,8 @@ participamos realmente de su muerte, pero también de su resurrección,
 que es vida nueva, vida de gracia.
 San Pablo lo expresa con claridad:
 
-“¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús,
-
-hemos sido bautizados en su muerte?
-
-Porque somos sepultados juntamente con él para muerte por el bautismo,
-
-a fin de que como Cristo resucitó de los muertos por la gloria del Padre,
-
-así también nosotros andemos en vida nueva.”
-(Romanos 6,3–4)
+> “¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su muerte? 
+Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva.” (Romanos 6,3–4)
 
 Aquí se cumple verdaderamente lo que el profeta Ezequiel había anunciado:
 
@@ -223,12 +212,8 @@ no una justicia declarada desde fuera,
 sino un corazón nuevo, una transformación real del ser.
 Por eso puede decir San Pablo:
 
-“Por tanto, nosotros todos, mirando a cara descubierta como en un espejo la gloria del Señor,
-
-somos transformados de gloria en gloria en la misma imagen,
-
-como por el Espíritu del Señor.”
-(2 Corintios 3,18)
+> “Por tanto, nosotros todos, mirando a cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma imagen, 
+como por el Espíritu del Señor.” (2 Corintios 3,18)
 
 No se trata de una simple declaración jurídica.
 
