@@ -7,8 +7,8 @@ description: "Breve resumen del contenido"
 tags: ["Espiritualidad", "Reflexión", "Fe y Razón"]
 categories: ["Ensayo"]
 cover:
-  image: "images/posts/default-cover.jpg"
+  image: ""
   alt: "Imagen ilustrativa del artículo"
   relative: true
-images: ["images/posts/default-cover.jpg"]
+images: ["/images/posts/default-cover.jpg"]
 ---
