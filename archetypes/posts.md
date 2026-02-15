@@ -10,5 +10,5 @@ cover:
   image: ""
   alt: "Imagen ilustrativa del artículo"
   relative: true
-images: ["/images/posts/default-cover.jpg"]
+images: ["/images/default-cover.jpg"]
 ---
