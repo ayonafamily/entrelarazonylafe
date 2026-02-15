@@ -6,11 +6,12 @@ draft: false
 description: "Exploración del existencialismo de Albert Camus a través de 'El Extranjero', contrastando la soledad del hombre frente al absurdo con la redención y compañía de la fe cristiana."
 tags: ["Espiritualidad", "Reflexión", "Fe y Razón", "Existencialismo", "Literatura"]
 categories: ["Ensayo"]
+---
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"
+  image: "/images/2026/elproceso.webp"
   alt: "Imagen ilustrativa del artículo"
-  relative: false
-images: ["https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"]
+  relative: true
+images: ["/images/2026/elproceso.webp"]
 ---
 
 
