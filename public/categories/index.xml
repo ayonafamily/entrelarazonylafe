@@ -11,20 +11,20 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 12 Feb 2026 20:29:55 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 19:06:32 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensayo</title>
+      <link>http://localhost:1313/categories/ensayo/</link>
+      <pubDate>Sat, 14 Feb 2026 19:06:32 -0500</pubDate>
+      <guid>http://localhost:1313/categories/ensayo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ensayo Teológico</title>
       <link>http://localhost:1313/categories/ensayo-teol%C3%B3gico/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
       <guid>http://localhost:1313/categories/ensayo-teol%C3%B3gico/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ensayo</title>
-      <link>http://localhost:1313/categories/ensayo/</link>
-      <pubDate>Tue, 10 Feb 2026 23:01:28 -0500</pubDate>
-      <guid>http://localhost:1313/categories/ensayo/</guid>
       <description></description>
     </item>
     <item>

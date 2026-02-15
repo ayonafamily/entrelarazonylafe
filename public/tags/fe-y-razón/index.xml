@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fe Y Razón on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/fe-y-raz%C3%B3n/</link>
+    <description>Recent content in Fe Y Razón on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>https://www.entrelarazonylafe.com/cabecera.webp</url>
+      <link>https://www.entrelarazonylafe.com/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 14 Feb 2026 19:06:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fe-y-raz%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camus El Extranjero</title>
+      <link>http://localhost:1313/posts/camus-el-extranjero/</link>
+      <pubDate>Sat, 14 Feb 2026 19:06:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/camus-el-extranjero/</guid>
+      <description>Breve resumen del contenido y diálogo existencial entre Meursault y la fe.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sat, 14 Feb 2026 07:25:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Breve resumen del contenido</description>
+    </item>
+  </channel>
+</rss>

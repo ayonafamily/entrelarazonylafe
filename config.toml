@@ -6,9 +6,17 @@ theme = "hugo-PaperMod"
 [params]
     description = "Blog de Jorge Ayona"
     author = "Jorge Ayona"
-    # Se ajustó la ruta para que apunte a la raíz donde está el archivo realmente
+    keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["https://www.entrelarazonylafe.com/cabecera.webp"]
 
+
+[params.social]
+    github = "ayonafamily"
+    twitter = "jayona"
+    email = "jorge.ayona.inglis@ucsp.edu.pe"
+    rss = true
+
+# Imagen hero
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
@@ -17,6 +25,8 @@ theme = "hugo-PaperMod"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
+
+#  Seccion de botones
 
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
