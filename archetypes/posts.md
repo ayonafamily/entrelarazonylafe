@@ -3,12 +3,12 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "Jorge Luis Ayona Inglis"
 draft: true
-description: "Breve resumen del contenido"
-tags: ["Espiritualidad", "Reflexión", "Fe y Razón"]
+description: ""
+tags: []
 categories: ["Ensayo"]
 cover:
-  image: ""
+  image: "https://entrelarazonylafe.vercel.app/images/2026/"
   alt: "Imagen ilustrativa del artículo"
-  relative: true
-images: ["/images/default-cover.jpg"]
+  relative: false
+images: ["https://entrelarazonylafe.vercel.app/images/2026/"]
 ---
