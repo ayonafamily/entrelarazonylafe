@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>San Antonio De Padua on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/san-antonio-de-padua/</link>
+    <description>Recent content in San Antonio De Padua on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 09 Feb 2026 12:07:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/san-antonio-de-padua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cariño Animal Caracter Humano</title>
+      <link>http://localhost:1313/posts/carino-animal-caracter-humano/</link>
+      <pubDate>Mon, 09 Feb 2026 12:07:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/carino-animal-caracter-humano/</guid>
+      <description>Un análisis profundo sobre la relación entre el carácter moral y el trato a los animales, desde la Biblia y Santo Tomás hasta el carisma de San Francisco.</description>
+    </item>
+  </channel>
+</rss>
