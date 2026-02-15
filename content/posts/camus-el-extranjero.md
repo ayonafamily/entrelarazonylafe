@@ -7,10 +7,10 @@ description: "Exploración del existencialismo de Albert Camus a través de 'El 
 tags: ["Espiritualidad", "Reflexión", "Fe y Razón", "Existencialismo", "Literatura"]
 categories: ["Ensayo"]
 cover:
-  image: "/images/2026/elproceso.webp"
+  image: "https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"
   alt: "Imagen ilustrativa del artículo"
-  relative: true
-images: ["/images/2026/elproceso.webp"]
+  relative: false
+images: ["https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"]
 ---
 
 
