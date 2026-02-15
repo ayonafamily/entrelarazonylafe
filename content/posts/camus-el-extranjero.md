@@ -7,11 +7,12 @@ description: "Exploración del existencialismo de Albert Camus a través de 'El 
 tags: ["Espiritualidad", "Reflexión", "Fe y Razón", "Existencialismo", "Literatura"]
 categories: ["Ensayo"]
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/camus-extranjero.jpg"
-  alt: "Portada del libro El Extranjero"
+  image: "https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"
+  alt: "Imagen ilustrativa del artículo"
   relative: false
-images: ["https://entrelarazonylafe.vercel.app/images/2026/camus-extranjero.jpg"
+images: ["https://entrelarazonylafe.vercel.app/images/2026/elproceso.webp"]
 ---
+
 
 
 ## Camus, El Extranjero y el diálogo entre existencialismo y cristianismo
