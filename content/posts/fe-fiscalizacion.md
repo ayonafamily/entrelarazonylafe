@@ -8,10 +8,10 @@ summary: "Cuando una institución trabaja con personas en situación de exclusi�
 categories: ["Derecho", "Sociedad"]
 tags: ["Fiscalización", "Derechos Humanos", "Perú", "Libertad Religiosa", "ONGs"]
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/file:///home/jorgelai/entrelarazonylafe/static/images/2026/fe-fiscalizacion.webp"
+  image: "https://entrelarazonylafe.vercel.app/images/2026/fe-fiscalizacion.webp"
   alt: "Imagen ilustrativa del artículo"
   relative: false
-images: ["https://entrelarazonylafe.vercel.app/images/2026/file:///home/jorgelai/entrelarazonylafe/static/images/2026/fe-fiscalizacion.webp"]
+images: ["https://entrelarazonylafe.vercel.app/images/2026/fe-fiscalizacion.webp"]
 ---
 # Fe y Fiscalización
 ### Personas vulnerables, fe y Estado
