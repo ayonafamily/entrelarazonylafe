@@ -297,7 +297,7 @@ especialmente cuando se trata de proteger a los más débiles.
 
 **Negarse a la supervisión estatal no es un acto de fe, sino una desviación eclesiológica.**
 
-###. Conclusión doctrinal y jurídica
+### Conclusión doctrinal y jurídica
 
 Cuando una institución religiosa:
 
