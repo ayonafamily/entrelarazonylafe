@@ -21,153 +21,153 @@ Cuando una institución —religiosa o no— trabaja con niños, adultos mayores
 
 Esto no es una opinión moral. Es un principio jurídico básico.
 
-1. El principio rector: la vulnerabilidad activa la fiscalización estatal
+### El principio rector: la vulnerabilidad activa la fiscalización estatal
 
 En el ordenamiento jurídico peruano, la atención de personas vulnerables activa deberes reforzados del Estado, aun cuando dicha atención sea realizada por entidades privadas o confesionales.
 
 Esto implica que cualquier institución que:
 
-administre hogares de acogida
+- Administre hogares de acogida
 
-brinde terapias psicológicas o espirituales
+- Brinde terapias psicológicas o espirituales
 
-gestione programas sociales
+- Gestione programas sociales
 
-reciba fondos para asistencia humanitaria
+- Reciba fondos para asistencia humanitaria
 
-debe someterse a supervisión estatal en al menos tres niveles:
+Debe someterse a supervisión estatal en al menos tres niveles:
 
-Administrativo (registro, licencias, personal idóneo)
+- Administrativo (registro, licencias, personal idóneo)
 
-Técnico-profesional (metodologías, terapias, protocolos)
+- Técnico-profesional (metodologías, terapias, protocolos)
 
-Económico-financiero (origen, destino y trazabilidad de fondos)
+- Económico-financiero (origen, destino y trazabilidad de fondos)
 
-No existe excepción religiosa válida cuando está en juego la integridad física, psíquica y moral de personas vulnerables.
+**No existe excepción religiosa válida cuando está en juego la integridad física, psíquica y moral de personas vulnerables.**
 
-2. ONGs e iglesias: cuando la ayuda social deja de ser solo “religiosa”
+### ONGs e iglesias: cuando la ayuda social deja de ser solo “religiosa”
 
 Muchas iglesias evangélicas en el Perú operan jurídicamente como asociaciones civiles u ONGs, lo cual les permite realizar obras sociales. Sin embargo, ese estatus trae obligaciones claras:
 
-inscripción y supervisión como persona jurídica
+- Inscripción y supervisión como persona jurídica
 
-rendición de cuentas conforme a la ley
+- Rendición de cuentas conforme a la ley
 
-sometimiento a fiscalización cuando reciben fondos nacionales o extranjeros
+- Sometimiento a fiscalización cuando reciben fondos nacionales o extranjeros
 
-obligación de respetar estándares profesionales en atención psicológica y social
+- Obligación de respetar estándares profesionales en atención psicológica y social
 
 El problema surge cuando estas instituciones:
 
-invocan la fe para evitar controles
+- Invocan la fe para evitar controles
 
-espiritualizan terapias sin respaldo profesional
+- Espiritualizan terapias sin respaldo profesional
 
-mezclan donaciones con fines distintos a los declarados
+- Mezclan donaciones con fines distintos a los declarados
 
-consideran la fiscalización como persecución religiosa
+- Consideran la fiscalización como persecución religiosa
 
 Desde el derecho, esto es inaceptable.
-La libertad religiosa no suspende el principio de legalidad.
+**La libertad religiosa no suspende el principio de legalidad.**
 
-3. Fondos destinados a vulnerables: el principio de finalidad es obligatorio
+### Fondos destinados a vulnerables: el principio de finalidad es obligatorio
 
 Uno de los puntos más graves es la gestión de fondos.
 
 Cuando una donación —nacional o internacional— se realiza para un fin específico (por ejemplo, un hogar de niños o un refugio para mujeres), el derecho exige:
 
-destino exclusivo al fin declarado
+_ Destino exclusivo al fin declarado
 
-imposibilidad de diluir los fondos en “cajas comunes” sin control
+- Imposibilidad de diluir los fondos en “cajas comunes” sin control
 
-registros contables claros
+- registros contables claros
 
-posibilidad de auditoría externa
+- Posibilidad de auditoría externa
 
-La práctica de recibir fondos “para todos los fines” y redistribuirlos discrecionalmente viola el principio de finalidad del gasto, especialmente cuando se trata de personas vulnerables.
+> La práctica de recibir fondos “para todos los fines” y redistribuirlos discrecionalmente viola el principio de finalidad del gasto, especialmente cuando se trata de personas vulnerables.
 
 Aquí no basta con “buena intención” ni con lenguaje espiritual.
-La trazabilidad del dinero es una obligación jurídica y ética.
+**La trazabilidad del dinero es una obligación jurídica y ética.**
 
-4. Terapias, acompañamiento y abuso de poder
+### Terapias, acompañamiento y abuso de poder
 
 Otro punto crítico es el uso de terapias no reguladas o acompañamientos espirituales que reemplazan —o interfieren— con atención profesional.
 
 Cuando una institución ofrece:
 
-consejería para mujeres abusadas
+- Consejería para mujeres abusadas
 
-acompañamiento psicológico a niños
+- Acompañamiento psicológico a niños
 
-procesos de “sanación espiritual”
+- Procesos de “sanación espiritual”
 
-programas de rehabilitación
+- Programas de rehabilitación
 
-debe cumplir estándares mínimos:
+Debe cumplir estándares mínimos:
 
-profesionales acreditados
+- Profesionales acreditados
 
-protocolos claros
+- Protocolos claros
 
-límites entre lo espiritual y lo clínico
+- Límites entre lo espiritual y lo clínico
 
-mecanismos de denuncia y supervisión
+- Mecanismos de denuncia y supervisión
 
 La ausencia de estos controles abre la puerta al abuso de poder, abuso de conciencia y revictimización, incluso sin intención explícita.
 
-5. El contraste institucional: la Iglesia católica y el marco jurídico internacional
+### El contraste institucional: la Iglesia católica y el marco jurídico internacional
 
 En este punto es necesario marcar una diferencia estructural.
 
 La Iglesia católica en el Perú no actúa solo como ONG. Su estatus se rige por un convenio internacional entre la Santa Sede y el Estado Peruano, lo que implica:
 
-reconocimiento jurídico específico
+- Reconocimiento jurídico específico
 
-deberes de cooperación con el Estado
+- Deberes de cooperación con el Estado
 
-responsabilidad institucional objetiva
+- Responsabilidad institucional objetiva
 
-sujeción tanto al derecho canónico como al derecho civil
+- Sujeción tanto al derecho canónico como al derecho civil
 
 Esto explica por qué, en los últimos años, la Iglesia ha implementado:
 
-oficinas de escucha
+- Oficinas de escucha
 
-protocolos de denuncia
+- Protocolos de denuncia
 
-procedimientos administrativos y canónicos
+- Procedimientos administrativos y canónicos
 
 No por mera voluntad moral, sino porque la estructura jurídica y eclesial la obliga.
 
-6. Fragmentación evangélica y riesgo sistémico
+### Fragmentación evangélica y riesgo sistémico
 
 En contraste, la fragmentación del mundo evangélico genera un vacío:
 
-no hay autoridad superior común
+- No hay autoridad superior común
 
-no hay protocolos unificados
+- No hay protocolos unificados
 
-no hay instancias de apelación externa
+- No hay instancias de apelación externa
 
-no hay obligación institucional de rendición de cuentas
+- No hay obligación institucional de rendición de cuentas
 
 Cada iglesia se fiscaliza a sí misma.
-Desde el derecho público, esto es un riesgo sistémico, no un detalle menor.
+**Desde el derecho público, esto es un riesgo sistémico, no un detalle menor.**
 
-7. Conclusión: ayudar al Estado no exime del Estado
+### Conclusión: ayudar al Estado no exime del Estado
 
 Las instituciones religiosas que colaboran en la atención de personas vulnerables cumplen un rol valioso, pero precisamente por eso:
 
-no pueden operar al margen del marco fiscalizador del Estado.
+No pueden operar al margen del marco fiscalizador del Estado.
 
-La fe no reemplaza la ley.
-La caridad no anula la responsabilidad.
-Y la ayuda social sin control puede convertirse —incluso involuntariamente— en abuso.
+- _La fe no reemplaza la ley._
+- La caridad no anula la responsabilidad.
+- Y la ayuda social sin control puede convertirse —incluso involuntariamente— en abuso.
 
-Exigir fiscalización no es persecución religiosa.
-Es defensa de los más débiles, que es, en última instancia, el criterio ético central de cualquier proyecto verdaderamente cristiano.
+**Exigir fiscalización no es persecución religiosa.
+Es defensa de los más débiles, que es, en última instancia, el criterio ético central de cualquier proyecto verdaderamente cristiano.**
 
-8. Marco jurídico peruano aplicable a instituciones que atienden población vulnerable
+### Marco jurídico peruano aplicable a instituciones que atienden población vulnerable
 
 El ordenamiento jurídico peruano es claro: cuando están involucradas personas vulnerables, el Estado no solo puede fiscalizar, sino que está obligado a hacerlo. Este deber no se suspende por el carácter religioso de la institución.
 
@@ -175,7 +175,7 @@ a) Constitución Política del Perú
 
 Artículo 1:
 
-“La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado.”
+> “La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado.”
 
 Este artículo convierte la protección de personas vulnerables en un principio transversal de todo el sistema jurídico.
 
@@ -191,13 +191,13 @@ Las iglesias evangélicas y muchas ONGs religiosas se constituyen como asociacio
 
 Esto implica jurídicamente:
 
-obligación de actuar conforme a sus fines declarados
+- Obligación de actuar conforme a sus fines declarados
 
-responsabilidad de sus directivos
+- Responsabilidad de sus directivos
 
-posibilidad de intervención judicial ante desvío de finalidad
+- Posibilidad de intervención judicial ante desvío de finalidad
 
-deber de rendición de cuentas
+- Deber de rendición de cuentas
 
 El uso de fondos destinados a un fin social específico para otros fines puede configurar responsabilidad civil y administrativa, y en ciertos casos, penal.
 
@@ -205,29 +205,29 @@ c) Ley N.º 30466 – Interés superior del niño y del adolescente
 
 Esta ley establece que:
 
-el interés superior del niño prima sobre cualquier otro interés, incluido el institucional o religioso
+El interés superior del niño prima sobre cualquier otro interés, incluido el institucional o religioso
 
-toda entidad que atienda niños está sujeta a supervisión y control
+Toda entidad que atienda niños está sujeta a supervisión y control
 
-el Estado debe prevenir cualquier forma de abuso, negligencia o explotación, incluso cuando se dé bajo cobertura “caritativa” o “religiosa”
+El Estado debe prevenir cualquier forma de abuso, negligencia o explotación, incluso cuando se dé bajo cobertura “caritativa” o “religiosa”
 
-Ninguna institución religiosa puede invocar autonomía para evadir esta obligación.
+** Ninguna institución religiosa puede invocar autonomía para evadir esta obligación.**
 
 d) Ley N.º 30364 – Violencia contra las mujeres y los integrantes del grupo familiar
 
 Cuando iglesias u ONGs trabajan con:
 
-mujeres abusadas
+- Mujeres abusadas
 
-víctimas de violencia psicológica o espiritual
+- Víctimas de violencia psicológica o espiritual
 
-están obligadas a:
+Están obligadas a:
 
-derivar a instancias profesionales
+- Derivar a instancias profesionales
 
-no sustituir terapias clínicas por acompañamientos exclusivamente espirituales
+- No sustituir terapias clínicas por acompañamientos exclusivamente espirituales
 
-no ejercer presión religiosa ni culpabilización
+- No ejercer presión religiosa ni culpabilización
 
 El incumplimiento puede constituir revictimización, jurídicamente reprochable.
 
@@ -237,9 +237,9 @@ Esta ley es particularmente relevante frente a las llamadas “terapias espiritu
 
 la atención en salud mental debe ser brindada por profesionales acreditados
 
-se prohíben prácticas que vulneren la dignidad o autonomía de la persona
+Se prohíben prácticas que vulneren la dignidad o autonomía de la persona
 
-se reconoce el riesgo del abuso de poder en contextos de dependencia emocional o espiritual
+Se reconoce el riesgo del abuso de poder en contextos de dependencia emocional o espiritual
 
 Cuando una institución religiosa interviene en procesos psicológicos sin control profesional, entra en una zona de ilegalidad potencial, especialmente con población vulnerable.
 
@@ -247,82 +247,85 @@ f) Fiscalización de fondos y cooperación internacional
 
 Cuando una ONG o asociación religiosa recibe fondos del extranjero:
 
-está sujeta a normas de transparencia
+- Está sujeta a normas de transparencia
 
-puede ser supervisada por SUNAT y otras instancias
+- Puede ser supervisada por SUNAT y otras instancias
 
-debe respetar el principio de finalidad del gasto
+- Debe respetar el principio de finalidad del gasto
 
 La ausencia de auditoría, trazabilidad o rendición clara no es una “falla administrativa menor”: es una vulneración del interés público.
 
-9. Fundamento evangélico y doctrina católica: fe y ley no se oponen
+### Fundamento evangélico y doctrina católica: fe y ley no se oponen
 
 Desde el Evangelio, el principio es inequívoco:
 
-“Dad al César lo que es del César y a Dios lo que es de Dios.” (Mt 22,21)
+> “Dad al César lo que es del César y a Dios lo que es de Dios.” (Mt 22,21)
 
 Esta frase no es una concesión pragmática, sino una afirmación teológica profunda:
 
-Dios no compite con el orden civil
+- Dios no compite con el orden civil
 
-la ley justa no se opone a la fe
+- La ley justa no se opone a la fe
 
-el cumplimiento del derecho no es traición a Dios
+- El cumplimiento del derecho no es traición a Dios
 
 La tradición católica lo ha desarrollado con claridad:
 
-San Pablo enseña que la autoridad civil tiene una función legítima en el orden querido por Dios (cf. Rom 13,1–7).
+- San Pablo enseña que la autoridad civil tiene una función legítima en el orden querido por Dios (cf. Rom 13,1–7).
 
-Santo Tomás de Aquino distingue entre:
+- Santo Tomás de Aquino distingue entre:
 
-ley divina
+a. ley divina
 
-ley natural
+b. ley natural
 
-ley humana
-y enseña que la ley civil obliga en conciencia cuando no contradice el orden divino.
+c.ley humana
+
+Y enseña que la ley civil obliga en conciencia cuando no contradice el orden divino.
+
+Esta necesidad de estructura no es ajena a la enseñanza apostólica. En su corrección a la iglesia de Corinto, San Pablo establece un principio administrativo que trasciende lo ritual: «Pero hágase todo decentemente y con orden» (1 Corintios 14:40). Este mandato bíblico desautoriza cualquier intento de amparar el caos administrativo o la falta de transparencia bajo el pretexto de la libertad espiritual. El "orden" al que apela el apóstol implica organización, claridad y sujeción a normas, reforzando la idea de que una institución que sirve a Dios debe ser, por definición, una institución ejemplar en su responsabilidad ante la comunidad y el Estado.
 
 La Iglesia católica sostiene, por tanto, que:
 
-el cristiano debe obedecer el orden civil
+- el cristiano debe obedecer el orden civil
 
-debe someterse a la legalidad vigente
+- debe someterse a la legalidad vigente
 
-debe aceptar la fiscalización legítima
+- debe aceptar la fiscalización legítima
 
 especialmente cuando se trata de proteger a los más débiles.
 
-Negarse a la supervisión estatal no es un acto de fe, sino una desviación eclesiológica.
+**Negarse a la supervisión estatal no es un acto de fe, sino una desviación eclesiológica.**
 
-10. Conclusión doctrinal y jurídica
+###. Conclusión doctrinal y jurídica
 
 Cuando una institución religiosa:
 
-maneja fondos
+- Maneja fondos
 
-administra hogares
+- Administra hogares
 
-acompaña psicológicamente
+- Acompaña psicológicamente
 
-trabaja con niños, mujeres o adultos mayores
+- Trabaja con niños, mujeres o adultos mayores
 
-no puede colocarse por encima del Estado ni fuera del derecho.
+No puede colocarse por encima del Estado ni fuera del derecho.
 
 Cumplir la ley:
 
-no debilita la fe
+- no debilita la fe
 
-no ataca la misión cristiana
+- no ataca la misión cristiana
 
-no contradice el Evangelio
+- no contradice el Evangelio
 
 Por el contrario, la fortalece, porque:
 
-protege a las víctimas
+- protege a las víctimas
 
 limita el abuso de poder
 
-preserva la credibilidad moral
+- preserva la credibilidad moral
 
 La Iglesia católica lo ha entendido así:
 obedecer el orden civil justo es parte de la obediencia a Dios.
@@ -330,3 +333,5 @@ obedecer el orden civil justo es parte de la obediencia a Dios.
 Cualquier proyecto cristiano que rehúya la fiscalización, que espiritualice el abuso o que diluya responsabilidades no está defendiendo la fe, sino protegiendo estructuras.
 
 Y eso, desde el Evangelio, no es aceptable.
+
+
