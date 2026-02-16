@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 14 Feb 2026 19:06:32 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 19:39:34 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fe Fiscalizacion</title>
+      <link>http://localhost:1313/posts/fe-fiscalizacion/</link>
+      <pubDate>Sun, 15 Feb 2026 19:39:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fe-fiscalizacion/</guid>
+      <description>Un análisis jurídico y ético sobre la responsabilidad de las ONGs e iglesias en la atención de poblaciones vulnerables en el Perú. ¿Por qué la libertad religiosa no exhime del control estatal?</description>
+    </item>
     <item>
       <title>Camus - El Extranjero</title>
       <link>http://localhost:1313/posts/camus-el-extranjero/</link>
