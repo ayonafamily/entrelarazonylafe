@@ -4,14 +4,16 @@ date: 2026-02-16T12:23:23-05:00
 author: "Jorge Luis Ayona Inglis"
 draft: false
 description: "Una reflexión crítica sobre la herencia del pietismo en el evangelicalismo latinoamericano: del espejismo del control conductual exterior hacia la recuperación de una fe integral, comunitaria y comprometida con la justicia."
-tags: ["evangelicalismo", "pietismo", "legalismo", "teología", "compromiso social", "gracia", "espiritualidad"]
+summary: "Este ensayo examina cómo el pietismo ha influido en el evangelicalismo latinoamericano, privilegiando el control conductual externo sobre una vivencia comunitaria y social de la fe, y propone una recuperación de una espiritualidad integral arraigada en la gracia y la responsabilidad histórica."
 categories: ["Ensayo"]
+tags: ["Evangelicalismo", "Pietismo", "Legalismo", "Teología", "Compromiso Social", "Gracia", "Espiritualidad"]
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/evangelismo-pietismo.md"
+  image: "https://entrelarazonylafe.vercel.app/images/2026/evangelismo-pietismo.webp"
   alt: "Imagen ilustrativa del artículo"
   relative: false
 images: ["https://entrelarazonylafe.vercel.app/images/2026/evangelismo-pietismo.webp"]
 ---
+
 
 # Evangelicalismo, pietismo y el espejismo del cambio exterior
 
