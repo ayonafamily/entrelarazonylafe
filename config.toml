@@ -34,6 +34,11 @@ theme = "hugo-PaperMod"
         name = "Currículum Vitae"
         url = "https://cv.entrelarazonylafe.com"
 
+     [[params.profileMode.buttons]]
+        name = "Cv Corporativo"
+        url = "https://www.jorgeayona.com"
+
+
 [params.assets]
     favicon = "/favicon.ico"
     favicon16x16 = "/favicon.ico"
