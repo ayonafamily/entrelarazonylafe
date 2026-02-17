@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sociedad on Entre La Razón Y La Fe</title>
-    <link>http://localhost:1313/categories/sociedad/</link>
+    <link>http://localhost:38817/categories/sociedad/</link>
     <description>Recent content in Sociedad on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>http://localhost:38817/cabecera.webp</url>
+      <link>http://localhost:38817/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 17 Feb 2026 06:11:05 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/sociedad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38817/categories/sociedad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fe Coherencia</title>
-      <link>http://localhost:1313/posts/fe-coherencia/</link>
+      <link>http://localhost:38817/posts/fe-coherencia/</link>
       <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
-      <guid>http://localhost:1313/posts/fe-coherencia/</guid>
+      <guid>http://localhost:38817/posts/fe-coherencia/</guid>
       <description>¿Es la fe una garantía de fiabilidad? Un análisis sobre la coherencia entre el discurso religioso, la promesa política y el peso de la palabra en la vida cotidiana.</description>
     </item>
     <item>
       <title>Fe Fiscalizacion</title>
-      <link>http://localhost:1313/posts/fe-fiscalizacion/</link>
+      <link>http://localhost:38817/posts/fe-fiscalizacion/</link>
       <pubDate>Sun, 15 Feb 2026 19:39:34 -0500</pubDate>
-      <guid>http://localhost:1313/posts/fe-fiscalizacion/</guid>
+      <guid>http://localhost:38817/posts/fe-fiscalizacion/</guid>
       <description>Un análisis jurídico y ético sobre la responsabilidad de las ONGs e iglesias en la atención de poblaciones vulnerables en el Perú. ¿Por qué la libertad religiosa no exhime del control estatal?</description>
     </item>
   </channel>

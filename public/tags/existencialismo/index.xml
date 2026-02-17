@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Existencialismo on Entre La Razón Y La Fe</title>
-    <link>http://localhost:1313/tags/existencialismo/</link>
+    <link>http://localhost:38817/tags/existencialismo/</link>
     <description>Recent content in Existencialismo on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>http://localhost:38817/cabecera.webp</url>
+      <link>http://localhost:38817/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 14 Feb 2026 19:06:32 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/existencialismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38817/tags/existencialismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camus - El Extranjero</title>
-      <link>http://localhost:1313/posts/camus-el-extranjero/</link>
+      <link>http://localhost:38817/posts/camus-el-extranjero/</link>
       <pubDate>Sat, 14 Feb 2026 19:06:32 -0500</pubDate>
-      <guid>http://localhost:1313/posts/camus-el-extranjero/</guid>
+      <guid>http://localhost:38817/posts/camus-el-extranjero/</guid>
       <description>Exploración del existencialismo de Albert Camus a través de &amp;#39;El Extranjero&amp;#39;, contrastando la soledad del hombre frente al absurdo con la redención y compañía de la fe cristiana.</description>
     </item>
   </channel>

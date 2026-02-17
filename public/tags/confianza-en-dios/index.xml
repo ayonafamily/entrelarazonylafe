@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Confianza en Dios on Entre La Razón Y La Fe</title>
-    <link>http://localhost:1313/tags/confianza-en-dios/</link>
+    <link>http://localhost:38817/tags/confianza-en-dios/</link>
     <description>Recent content in Confianza en Dios on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>http://localhost:38817/cabecera.webp</url>
+      <link>http://localhost:38817/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 17 Feb 2026 09:03:12 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/confianza-en-dios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38817/tags/confianza-en-dios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carta Desde La Fe</title>
-      <link>http://localhost:1313/posts/carta-desde-la-fe/</link>
+      <link>http://localhost:38817/posts/carta-desde-la-fe/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
-      <guid>http://localhost:1313/posts/carta-desde-la-fe/</guid>
+      <guid>http://localhost:38817/posts/carta-desde-la-fe/</guid>
       <description>Carta testimonial a quien sufre: aprender a permanecer con Dios en la prueba, descubrir la fe verdadera y sentir la presencia de Jesús en el dolor y la oscuridad.</description>
     </item>
   </channel>
