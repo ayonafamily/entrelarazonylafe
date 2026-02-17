@@ -1,0 +1,25 @@
+/* Responsive puro con unidades relativas */
+.profile_inner img {
+    /* El ancho depende del ancho de la pantalla (vw) pero con un límite en rem */
+    width: 40vw !important;
+    max-width: 12rem !important;
+    min-width: 8rem !important;
+
+    /* Mantiene el círculo perfecto sin importar el archivo original */
+    aspect-ratio: 1 / 1 !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+
+    /* Altura automática para no aplastar la imagen */
+    height: auto !important;
+
+    display: block;
+    margin: 2rem auto;
+}
+
+/* Ajuste fino para móviles muy pequeños */
+@media (max-width: 480px) {
+    .profile_inner img {
+        width: 50vw !important;
+    }
+}

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lutero on Entre La Razón Y La Fe</title>
-    <link>http://localhost:38817/tags/lutero/</link>
+    <link>http://localhost:1313/tags/lutero/</link>
     <description>Recent content in Lutero on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:38817/cabecera.webp</url>
-      <link>http://localhost:38817/cabecera.webp</link>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:38817/tags/lutero/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lutero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Del corazón endurecido al corazón de carne</title>
-      <link>http://localhost:38817/posts/corazon-endurecido/</link>
+      <link>http://localhost:1313/posts/corazon-endurecido/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38817/posts/corazon-endurecido/</guid>
+      <guid>http://localhost:1313/posts/corazon-endurecido/</guid>
       <description>Una reflexión sobre la impotencia humana, la promesa de transformación en Ezequiel y el límite de la justificación luterana frente a la gracia que sana y rehace el corazón.</description>
     </item>
   </channel>

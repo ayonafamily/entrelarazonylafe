@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teología on Entre La Razón Y La Fe</title>
-    <link>http://localhost:38817/tags/teolog%C3%ADa/</link>
+    <link>http://localhost:1313/tags/teolog%C3%ADa/</link>
     <description>Recent content in Teología on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:38817/cabecera.webp</url>
-      <link>http://localhost:38817/cabecera.webp</link>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 16 Feb 2026 12:23:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:38817/tags/teolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/teolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evangelismo y Pietismo</title>
-      <link>http://localhost:38817/posts/evangelismo-pietismo/</link>
+      <link>http://localhost:1313/posts/evangelismo-pietismo/</link>
       <pubDate>Mon, 16 Feb 2026 12:23:23 -0500</pubDate>
-      <guid>http://localhost:38817/posts/evangelismo-pietismo/</guid>
+      <guid>http://localhost:1313/posts/evangelismo-pietismo/</guid>
       <description>Una reflexión crítica sobre la herencia del pietismo en el evangelicalismo latinoamericano: del espejismo del control conductual exterior hacia la recuperación de una fe integral, comunitaria y comprometida con la justicia.</description>
     </item>
     <item>
       <title>Del corazón endurecido al corazón de carne</title>
-      <link>http://localhost:38817/posts/corazon-endurecido/</link>
+      <link>http://localhost:1313/posts/corazon-endurecido/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38817/posts/corazon-endurecido/</guid>
+      <guid>http://localhost:1313/posts/corazon-endurecido/</guid>
       <description>Una reflexión sobre la impotencia humana, la promesa de transformación en Ezequiel y el límite de la justificación luterana frente a la gracia que sana y rehace el corazón.</description>
     </item>
     <item>
       <title>Dulzura Al Evangelizar</title>
-      <link>http://localhost:38817/posts/dulzura-evangelizar/</link>
+      <link>http://localhost:1313/posts/dulzura-evangelizar/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
-      <guid>http://localhost:38817/posts/dulzura-evangelizar/</guid>
+      <guid>http://localhost:1313/posts/dulzura-evangelizar/</guid>
       <description>Desde la Escritura, la patrística y el Vaticano II, una defensa de la evangelización con dulzura y respeto, mostrando que la caridad en el anuncio del Evangelio no es relativismo, sino fidelidad a Cristo.</description>
     </item>
     <item>
       <title>Ingeniería Social</title>
-      <link>http://localhost:38817/posts/ingenieria-social/</link>
+      <link>http://localhost:1313/posts/ingenieria-social/</link>
       <pubDate>Fri, 06 Feb 2026 12:00:00 -0500</pubDate>
-      <guid>http://localhost:38817/posts/ingenieria-social/</guid>
+      <guid>http://localhost:1313/posts/ingenieria-social/</guid>
       <description>Un análisis sobre el constructivismo radical y la defensa de la dignidad humana frente a los experimentos sociales.</description>
     </item>
     <item>
       <title>Falsas Imagenes</title>
-      <link>http://localhost:38817/posts/falsas-imagenes/</link>
+      <link>http://localhost:1313/posts/falsas-imagenes/</link>
       <pubDate>Wed, 04 Feb 2026 21:34:47 -0500</pubDate>
-      <guid>http://localhost:38817/posts/falsas-imagenes/</guid>
+      <guid>http://localhost:1313/posts/falsas-imagenes/</guid>
       <description>Las falsas imagenes que tenemos de Dios</description>
     </item>
   </channel>
