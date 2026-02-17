@@ -32,7 +32,14 @@ cover:
 images: "https://entrelarazonylafe.vercel.app/images/2026/job.webp"
 ---
 
-Hoy, mientras rezaba Laudes, me vino a la mente una lectura breve de **1 Tesalonicenses 5,4‑5**. Y con ella, recordé a **Job**. Ese hombre que sufrió sin culpa, que perdió todo, que fue probado no como castigo, sino para mostrar la verdad de su corazón: ¿amaba a Dios por interés o por amor?
+Hoy, mientras rezaba Laudes, me vino a la mente una lectura breve de **1 Tesalonicenses 5,4‑5**. Y con ella, recordé a **Job**. Ese hombre que sufrió sin culpa, que perdió todo, que fue probado no como castigo, sino para mostrar la verdad de su corazón.
+
+El prólogo deja claro —para el lector— algo que Job nunca sabe: su sufrimiento no es castigo. Eso rompe de raíz la teología simplista de causa–efecto (“sufres porque pecaste”).
+El verdadero tema es:
+
+> ¿Se puede amar a Dios sin interés?
+
+Ahí está el centro del drama. El acusador no ataca tanto a Job como a la posibilidad misma del amor gratuito. Y Job, con todo su grito, su queja, su desconcierto, no rompe la relación. Eso es decisivo. A Dios se le ama por sí mismo, más allá de lo que nos da o nos pueda dar.
 
 Al reflexionar sobre mi propia vida, me doy cuenta de algo: muchas veces sentimos que las pruebas, la soledad o las injusticias son consecuencia de algún error nuestro. Pero no siempre es así. No todo sufrimiento tiene explicación moral; a veces, simplemente ocurre. Y lo que Dios busca no es castigarnos, sino mostrarnos, y mostrarse, en medio de todo.
 
