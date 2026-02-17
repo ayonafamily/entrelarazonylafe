@@ -8,6 +8,8 @@ theme = "hugo-PaperMod"
     author = "Jorge Ayona"
     ShowWordCount = true
     ShowRssButtonInSectionTermList = true
+    #comments = true
+    hidePoweredBy = true
     keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["/cabecera.webp"]
 
