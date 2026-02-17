@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Apologética on Entre La Razón Y La Fe</title>
-    <link>http://localhost:46285/tags/apolog%C3%A9tica/</link>
+    <link>http://localhost:1313/tags/apolog%C3%A9tica/</link>
     <description>Recent content in Apologética on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:46285/cabecera.webp</url>
-      <link>http://localhost:46285/cabecera.webp</link>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 12 Feb 2026 20:29:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:46285/tags/apolog%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/apolog%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dulzura Al Evangelizar</title>
-      <link>http://localhost:46285/posts/dulzura-evangelizar/</link>
+      <link>http://localhost:1313/posts/dulzura-evangelizar/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
-      <guid>http://localhost:46285/posts/dulzura-evangelizar/</guid>
+      <guid>http://localhost:1313/posts/dulzura-evangelizar/</guid>
       <description>Desde la Escritura, la patrística y el Vaticano II, una defensa de la evangelización con dulzura y respeto, mostrando que la caridad en el anuncio del Evangelio no es relativismo, sino fidelidad a Cristo.</description>
     </item>
   </channel>
