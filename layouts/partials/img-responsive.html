@@ -1,0 +1,13 @@
+{{ $img := .img }}
+{{ $alt := .alt }}
+{{ $sizes := "(min-width: 768px) 300px, 80vw" }}
+
+<picture>
+  {{/* Versión pequeña para móviles */}}
+  {{ $mobile := $img.Resize "400x" }}
+  <source srcset="{{ $mobile.Permalink }}" media="(max-width: 480px)">
+  
+  {{/* Versión original o reajustada para escritorio */}}
+  {{ $desktop := $img.Resize "800x" }}
+  <img src="{{ $desktop.Permalink }}" alt="{{ $alt }}" loading="lazy" style="width: auto; height: auto; max-width: 100%;">
+</picture>
