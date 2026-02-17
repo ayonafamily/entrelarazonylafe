@@ -18,6 +18,8 @@ tags: []
 # IMPORTANTE:
 # - La imagen debe estar físicamente en: static/images/AAAA/nombre.webp
 # - Aquí se usa ENLACE ABSOLUTO para compatibilidad visual y OG
+# - Nota: La imagen se vera solo cuando esta desplegado en vercel
+
 cover:
   image: "https://entrelarazonylafe.vercel.app/images/AAAA/nombre-imagen.webp"
   alt: ""
