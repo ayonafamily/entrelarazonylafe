@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "Jorge Luis Ayona Inglis"
+ShowReadingTime: true
 draft: true
 
 # Descripción larga del artículo (SEO / metadata)
