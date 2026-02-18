@@ -16,7 +16,7 @@ cover:
   relative: false
 
 images:
-  - "https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"
+  - ["https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"]
 ---
 ## Entre la injusticia y la paz de Dios
 ### Transformar el dolor en esperanza
