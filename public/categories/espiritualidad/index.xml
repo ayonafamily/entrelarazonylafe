@@ -6,13 +6,20 @@
     <description>Recent content in Espiritualidad on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>http://localhost:1313/</url>
+      <link>http://localhost:1313/</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 17 Feb 2026 09:03:12 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 10:01:02 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/espiritualidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entre La Justicia Y La Paz</title>
+      <link>http://localhost:1313/posts/entre-la-justicia-y-la-paz/</link>
+      <pubDate>Wed, 18 Feb 2026 10:01:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/entre-la-justicia-y-la-paz/</guid>
+      <description>Una reflexión profunda sobre cómo transformar la injusticia, la incomprensión y el cansancio personal en un camino de fe, paz y entrega contemplativa a través de la memoria de la fidelidad de Dios.</description>
+    </item>
     <item>
       <title>Carta Desde La Fe</title>
       <link>http://localhost:1313/posts/carta-desde-la-fe/</link>

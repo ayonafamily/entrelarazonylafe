@@ -6,13 +6,29 @@
     <description>Recent content on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>http://localhost:1313/</url>
+      <link>http://localhost:1313/</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 17 Feb 2026 09:03:12 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 10:01:02 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entre La Justicia Y La Paz</title>
+      <link>http://localhost:1313/posts/entre-la-justicia-y-la-paz/</link>
+      <pubDate>Wed, 18 Feb 2026 10:01:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/entre-la-justicia-y-la-paz/</guid>
+      <description>Una reflexión profunda sobre cómo transformar la injusticia, la incomprensión y el cansancio personal en un camino de fe, paz y entrega contemplativa a través de la memoria de la fidelidad de Dios.</description>
+    </item>
+    <item>
+      <title>Liberalismo Contemporaneo</title>
+      <link>http://localhost:1313/posts/liberalismo-contemporanea/</link>
+      <pubDate>Tue, 17 Feb 2026 21:39:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/liberalismo-contemporanea/</guid>
+      <description>&lt;h1 id=&#34;liberalismo-contemporáneo-y-el-eclipse-del-prójimo&#34;&gt;Liberalismo contemporáneo y el eclipse del prójimo&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;(Una lectura crítica desde la ética cristiana)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Las propuestas políticas contemporáneas que se autodefinen como libertarias o conservadoras pro-mercado suelen presentarse como una reacción legítima frente al estatismo, la burocracia asfixiante y la ineficiencia de los aparatos públicos. Esta crítica, en sí misma, no es ajena a la tradición cristiana: la doctrina social de la Iglesia nunca ha sacralizado al Estado. Sin embargo, cuando el rechazo al estatismo se transforma en absolutización del individuo, se cruza una frontera ética decisiva.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Carta Desde La Fe</title>
       <link>http://localhost:1313/posts/carta-desde-la-fe/</link>
