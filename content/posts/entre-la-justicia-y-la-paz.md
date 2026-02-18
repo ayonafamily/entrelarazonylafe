@@ -29,7 +29,8 @@ cover:
 # Imágenes OpenGraph / WhatsApp
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
-images:
+
+  images:
   - "https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"
 ---
 ## Entre la injusticia y la paz de Dios
