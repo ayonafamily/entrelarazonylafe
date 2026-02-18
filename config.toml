@@ -34,10 +34,7 @@ ShareButtons = true
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
 
-[Params.Images]
-    maxSize = 1480
-    setSizes = [ 480, 800, 1200 ]
-    sizes = "sizes=(max-width: 30em) 90vw, (max-width: 60em) 80vw, 1480px"
+
 
 # Seccion de botones
     [[params.profileMode.buttons]]
