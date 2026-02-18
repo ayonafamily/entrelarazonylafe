@@ -2,6 +2,8 @@ baseURL = "https://www.entrelarazonylafe.com/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod"
+keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio de Dios"]
+
 
 [params]
     description = "Blog de Jorge Ayona"
@@ -28,6 +30,11 @@ theme = "hugo-PaperMod"
     imageWidth = 1000
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
+
+[Params.Images]
+    maxSize = 1480
+    setSizes = [ 480, 800, 1200 ]
+    sizes = "sizes=(max-width: 30em) 90vw, (max-width: 60em) 80vw, 1480px"
 
 # Seccion de botones
     [[params.profileMode.buttons]]
