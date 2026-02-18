@@ -10,7 +10,7 @@ cover:
   image: "images/2026/la-peste-camus.webp"
   alt: ""
   relative: false
-images: [""]
+images: ["images/2026/la-peste-camus.webp"]
 ---
 
 Estoy leyendo *La Peste* de Camus. He encontrado en el relato una opinión suya que considero oro puro:
