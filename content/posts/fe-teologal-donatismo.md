@@ -10,7 +10,7 @@ cover:
   image: "/images/2026/sede-lefe.webp"
   alt: "Autoridad y Donatismo"
   relative: false
-images: [""]
+images: ["/images/2026/sede-lefe.webp"]
 ---
 # Autoridad, fe teologal y el error donatista en la controversia sedevacantista
 
