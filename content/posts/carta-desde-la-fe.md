@@ -29,7 +29,7 @@ cover:
 # Imágenes OpenGraph / WhatsApp
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
-images: "https://entrelarazonylafe.vercel.app/images/2026/job.webp"
+images: ["https://entrelarazonylafe.vercel.app/images/2026/job.webp"]
 ---
 
 Hoy, mientras rezaba Laudes, me vino a la mente una lectura breve de **1 Tesalonicenses 5,4‑5**. Y con ella, recordé a **Job**. Ese hombre que sufrió sin culpa, que perdió todo, que fue probado no como castigo, sino para mostrar la verdad de su corazón.
