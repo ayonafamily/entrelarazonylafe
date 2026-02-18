@@ -3,7 +3,7 @@ title: "Entre La Justicia Y La Paz"
 date: 2026-02-18T10:01:02-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 # Descripción larga del artículo (SEO / metadata)
 description: "Una reflexión profunda sobre cómo transformar la injusticia, la incomprensión y el cansancio personal en un camino de fe, paz y entrega contemplativa a través de la memoria de la fidelidad de Dios."
