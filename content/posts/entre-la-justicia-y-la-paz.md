@@ -5,32 +5,17 @@ author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
 draft: false
 
-# Descripción larga del artículo (SEO / metadata)
 description: "Una reflexión profunda sobre cómo transformar la injusticia, la incomprensión y el cansancio personal en un camino de fe, paz y entrega contemplativa a través de la memoria de la fidelidad de Dios."
 
-# Resumen usado en listados y previews (PaperMod)
-summary: "Frente a las heridas de la injusticia y la condescendencia ajena, el autor recurre a la oración y al Salmo 77 para encontrar sentido al sufrimiento. Propone que la experiencia personal del dolor, unida a la Pascua de Cristo, se convierta en un apostolado silencioso que ofrece luz y esperanza a otros, superando la necesidad de validación externa o académica."
-
-# Categorías y etiquetas (listas YAML)
+summary: "Frente a las heridas de la injusticia y la condescendencia ajena, el autor recurre a la oración y al Salmo 77 para encontrar sentido al sufrimiento. Propone que la experiencia personal del dolor, unida a la Pascua de Cristo, se convierta en un apostolado silencioso que ofrece luz y esperanza a otros."
 categories: ["Espiritualidad", "Apostolado", "Vida Interior"]
 tags: ["Fe", "Injusticia", "Paz de Dios", "Salmo 77", "Oración", "Pascua", "Reflexión Personal", "Sanación"]
-
-# Imagen destacada del post (PaperMod)
-# IMPORTANTE:
-# - La imagen debe estar físicamente en: static/images/AAAA/nombre.webp
-# - Aquí se usa ENLACE ABSOLUTO para compatibilidad visual y OG
-# - Nota: La imagen se vera solo cuando esta desplegado en vercel
-
 cover:
   image: "https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"
   alt: "Entre la justicia y la paz"
   relative: false
 
-# Imágenes OpenGraph / WhatsApp
-# - SIEMPRE enlaces absolutos
-# - WhatsApp ignora rutas relativas
-
-  images:
+images:
   - "https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"
 ---
 ## Entre la injusticia y la paz de Dios
