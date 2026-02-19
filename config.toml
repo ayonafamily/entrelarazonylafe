@@ -12,8 +12,15 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
     hidePoweredBy = true
     keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["/cabecera.webp"]
+
+    # Comentarios
     comments = true
+
+    # Navegación
     ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+
+    # Botones de compartir
     ShowShareButtons = true
     ShareButtons = ["linkedin", "twitter", "facebook"]
 
