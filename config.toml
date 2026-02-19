@@ -4,23 +4,18 @@ title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod"
 keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio de Dios"]
 
-
-
 [params]
     description = "Blog de Jorge Ayona"
     author = "Jorge Ayona"
     ShowWordCount = true
     ShowRssButtonInSectionTermList = true
-    #comments = true
     hidePoweredBy = true
     keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["/cabecera.webp"]
     comments = true
     ShowPostNavLinks = true
     ShowShareButtons = true
-    ShareButtons = ["linkedin", "twitter", "facebook"] # To customize which share buttons to be enabled on page
-
-    
+    ShareButtons = ["linkedin", "twitter", "facebook"]
 
 [params.social]
     github = "ayonafamily"
@@ -28,7 +23,6 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
     email = "jorge.ayona.inglis@ucsp.edu.pe"
     rss = true
 
-# Imagen hero
 [params.profileMode]
     enabled = true
     title = "Entre La Razón Y La Fe"
@@ -38,9 +32,6 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
     imageHeight = 350
     imageTitle = "Entre La Razón Y La Fe"
 
-
-
-# Seccion de botones
     [[params.profileMode.buttons]]
         name = "Entrar al Blog"
         url = "/posts"
@@ -49,10 +40,9 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
         name = "Currículum Vitae"
         url = "https://cv.entrelarazonylafe.com"
 
-     [[params.profileMode.buttons]]
+    [[params.profileMode.buttons]]
         name = "Cv Corporativo"
         url = "https://www.jorgeayona.com"
-
 
 [params.assets]
     favicon = "/favicon.ico"
@@ -87,4 +77,3 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
 
 [markup.goldmark.renderer]
     unsafe = true
-
