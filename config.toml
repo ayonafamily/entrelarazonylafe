@@ -3,9 +3,7 @@ languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod"
 keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio de Dios"]
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShareButtons = true
+
 
 
 [params]
