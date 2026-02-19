@@ -24,7 +24,7 @@ TocOpen: true
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/liberalismo-eclipse-projimo-optimizado.webp"
+  image: "https://entrelarazonylafe.vercel.app//images/2026/liberalismo-eclipse-projimo.webp"
   alt: "liberalismo eclipse del projimo"
   relative: false
 
@@ -32,7 +32,7 @@ cover:
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.vercel.app/images/2026/liberalismo-eclipse-projimo-optimizado.webp"
+  - "https://entrelarazonylafe.vercel.app//images/2026/liberalismo-eclipse-projimo.webp"
 ---
 
 # Liberalismo contemporáneo y el eclipse del prójimo
