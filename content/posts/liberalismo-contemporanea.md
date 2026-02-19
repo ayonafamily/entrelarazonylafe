@@ -24,7 +24,7 @@ TocOpen: true
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/iberalismo-eclipse-projimo-optimizado.webp"
+  image: "https://entrelarazonylafe.vercel.app/images/2026/liberalismo-eclipse-projimo-optimizado.webp"
   alt: "liberalismo eclipse del projimo"
   relative: false
 
