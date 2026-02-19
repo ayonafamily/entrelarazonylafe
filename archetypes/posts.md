@@ -14,6 +14,8 @@ summary: ""
 # Categorías y etiquetas (listas YAML)
 categories: []
 tags: []
+showToc: true
+TocOpen: true
 
 # Imagen destacada del post (PaperMod)
 # IMPORTANTE:

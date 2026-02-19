@@ -3,17 +3,17 @@ title: "Liberalismo Contemporaneo"
 date: 2026-02-17T21:39:29-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 # Descripción larga del artículo (SEO / metadata)
-description: ""
+description: "Un análisis desde la ética cristiana sobre cómo el libertarismo de Javier Milei y el conservadurismo de José Antonio Kast impactan en la justicia social y la realidad peruana."
 
 # Resumen usado en listados y previews (PaperMod)
-summary: ""
+summary: "¿Es la libertad económica un fin en sí mismo o una herramienta para el bien común? Un ensayo que confronta las propuestas de Milei y Kast con la Doctrina Social de la Iglesia, aterrizando en la cruda realidad de la informalidad y la precariedad laboral en el Perú."
 
 # Categorías y etiquetas (listas YAML)
-categories: []
-tags: []
+categories: ["Ensayo", "Política", "Ética Cristiana"]
+tags: ["Javier Milei", "José Antonio Kast", "Libertarianismo", "Doctrina Social de la Iglesia", "Perú", "Justicia Social", "Bien Común"]
 
 # Imagen destacada del post (PaperMod)
 # IMPORTANTE:
@@ -22,15 +22,15 @@ tags: []
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.vercel.app/images/2026/nombre-imagen.webp"
-  alt: ""
+  image: "https://entrelarazonylafe.vercel.app/images/iberalismo-eclipse-projimo-optimizado.webp"
+  alt: "liberalismo eclipse del projimo"
   relative: false
 
 # Imágenes OpenGraph / WhatsApp
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.vercel.app/images/2026/nombre-imagen.webp"
+  - "https://entrelarazonylafe.vercel.app/images/2026/liberalismo-eclipse-projimo-optimizado.webp"
 ---
 
 # Liberalismo contemporáneo y el eclipse del prójimo
@@ -60,6 +60,8 @@ la conciencia de que la sociedad, como cuerpo, tiene deberes morales, no solo lo
 
 Desde la doctrina social de la Iglesia, esto constituye una fractura grave: el bien común no puede sostenerse únicamente en la suma de decisiones privadas, por virtuosas que sean.
 
+Esta desconexión ética entre la libertad y el prójimo no se queda en los tratados de teoría política; en la práctica diaria de países como el Perú, se traduce en un abandono sistemático que algunos intentan vender como liberación
+
 ## El punto común: libertad sin prójimo
 
 Aunque distintos en estilo y énfasis, estos proyectos comparten una matriz común:
@@ -72,9 +74,9 @@ La tradición cristiana no pregunta solo qué tan libre es el individuo, sino qu
 
 Un enfoque cristiano integral exige que el bien común y la dignidad humana sean criterios sustantivos en cualquier política pública, económica o social —algo que no se resuelve automáticamente con la reducción del Estado o la defensa de la libertad individual.
 
- La farsa libertaria: cuando la “libertad” sirve solo para los poderosos
+## La ilusión libertaria frente a la precariedad real: cuando la “libertad” sirve solo para los poderosos
 
-En los últimos años, voces como la de **Javier Milei** han ganado fuerza en América Latina con un mensaje aparentemente radical:
+En los últimos años frases como est, han ganado fuerza en América Latina con un mensaje aparentemente radical:
 
 > “Abolamos el Estado. El mercado lo resuelve todo. La libertad individual es sagrada.”
 
@@ -82,13 +84,13 @@ Pero esta ideología —el libertarianismo de derecha— no es una ruptura con e
 
 En el Perú, donde 76% de los trabajadores están en la informalidad, donde los jubilados reciben pensiones que no alcanzan para la canasta básica, y donde un hospital público puede negarte atención por falta de insumos, la propuesta de “eliminar el Estado” no suena a liberación: suena a abandono masivo.
 
-## 1. Libertad para quién, exactamente?
+## Libertad para quién, exactamente?
 
 Los libertarios celebran la “libertad de contrato”. Pero ¿qué libertad tiene un padre de familia que debe aceptar trabajar 12 horas en una app por S/ 35 diarios? ¿Qué libertad tiene una madre que vende Hinode porque no consigue empleo formal? ¿Qué libertad tiene un ingeniero de 50 años al que nadie contrata por “sobrecalificado”?  
 
 Ninguna. Lo que los libertarios llaman “libertad” es, en la práctica, la libertad de los fuertes para dominar a los débiles sin interferencia del Estado. Como señalaba **Noam Chomsky**, el libertarianismo contemporáneo no defiende la libertad del pueblo, sino la libertad del capital para operar sin regulaciones, sin impuestos y sin responsabilidad social.
 
-## 2. El mito del “Estado opresor”
+## El mito del “Estado opresor”
 
 Los seguidores de Milei pintan al Estado como un monstruo que “roba” con impuestos y “asfixia” con regulaciones. Pero en el Perú real, el Estado ya no asfixia al pequeño: lo abandona.
 
@@ -98,7 +100,7 @@ Los seguidores de Milei pintan al Estado como un monstruo que “roba” con imp
 
 El problema no es que el Estado sea “demasiado grande”. Es que está capturado: sirve a los grandes intereses (mineras, bancos, corporaciones digitales), pero desaparece cuando se trata de proteger a los de abajo. Eliminarlo, entonces, no libera al ciudadano. Entrega a millones de personas directamente a la lógica implacable del mercado.
 
-## 3. La contradicción fatal del libertarianismo
+##  La contradicción fatal del libertarianismo
 
 El libertarianismo dice: “Cada quien es dueño de su destino”. Pero en un mundo donde:
 
@@ -110,11 +112,11 @@ El libertarianismo dice: “Cada quien es dueño de su destino”. Pero en un mu
 
 Peor aún: los propios líderes libertarios viven de la maquinaria estatal que critican. Milei viaja en aviones del Estado, se protege con seguridad estatal, y gobierna desde un palacio construido con impuestos. Pero al ciudadano común le dice: “Arréglate solo”.
 
-## 4. La verdadera libertad no es individual: es colectiva
+## La verdadera libertad no es individual: es colectiva
 
 La libertad no es poder elegir entre morir de hambre o endeudarte para comprar un auto y trabajar en una app. La libertad es tener opciones reales:
 
-- Un sistema de salud que no te arruine si te enfermás,  
+- Un sistema de salud que no te arruine si te enfermaás,  
 - Una jubilación que te permita envejecer con dignidad,  
 - Un mercado laboral que valore tu experiencia, no solo tu “energía juvenil”.
 
@@ -126,3 +128,4 @@ Pero una sociedad que absolutiza al individuo termina negando al prójimo.
 Y allí, desde una perspectiva cristiana, no estamos ante un simple desacuerdo político, sino ante una fractura ética profunda.
 
 El prójimo no es un efecto colateral del sistema: **es su criterio de verdad.**
+
