@@ -17,6 +17,12 @@ ShareButtons = true
     hidePoweredBy = true
     keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["/cabecera.webp"]
+    comments = true
+    ShowPostNavLinks = true
+    ShowShareButtons = true
+    ShareButtons = ["linkedin", "twitter", "facebook"] # To customize which share buttons to be enabled on page
+
+    
 
 [params.social]
     github = "ayonafamily"
@@ -83,3 +89,4 @@ ShareButtons = true
 
 [markup.goldmark.renderer]
     unsafe = true
+
