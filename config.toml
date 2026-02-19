@@ -13,6 +13,9 @@ keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio d
     keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
     images = ["/cabecera.webp"]
 
+
+
+
     # Comentarios
     comments = true
 
