@@ -99,4 +99,4 @@ Si estás en un momento de agotamiento y sufrimiento, tu oración muestra que ya
 ## Conclusion
 Mi deseo es que nuestra entrega a Dios, aun en el cansancio y en el dolor, sirva para fortalecer a quienes también luchan, y que cada día podamos recordar que la justicia y la paz verdaderas no siempre se ven de inmediato, pero están aseguradas por el amor y la fidelidad de Dios.
 
-Te reto a convertir tus sufrimientos, experiencias y luchas interiores en algo que pueda ayudar y sostener a otros. Esto es, como dicen los dominicos, **"contemplar y enseñar"**. Y con ello dar un golpe profundo al demonio, porque él quiere que la desesperación silencie; pero tu entrega y mi reflexión se conviertan luz para otros.
+Te reto a convertir tus sufrimientos, experiencias y luchas interiores en algo que pueda ayudar y sostener a otros. Esto es, como dicen los dominicos, **"contemplar y enseñar"**. Y con ello dar un golpe profundo al demonio, porque él quiere que la desesperación silencie; pero tu entrega y  reflexión se conviertan luz para otros.
