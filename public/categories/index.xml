@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Entre La Razón Y La Fe</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.entrelarazonylafe.com/categories/</link>
     <description>Recent content in Categories on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>https://www.entrelarazonylafe.com/cabecera.webp</url>
+      <link>https://www.entrelarazonylafe.com/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 18 Feb 2026 10:01:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.entrelarazonylafe.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apostolado</title>
-      <link>http://localhost:1313/categories/apostolado/</link>
+      <link>https://www.entrelarazonylafe.com/categories/apostolado/</link>
       <pubDate>Wed, 18 Feb 2026 10:01:02 -0500</pubDate>
-      <guid>http://localhost:1313/categories/apostolado/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/apostolado/</guid>
       <description></description>
     </item>
     <item>
       <title>Espiritualidad</title>
-      <link>http://localhost:1313/categories/espiritualidad/</link>
+      <link>https://www.entrelarazonylafe.com/categories/espiritualidad/</link>
       <pubDate>Wed, 18 Feb 2026 10:01:02 -0500</pubDate>
-      <guid>http://localhost:1313/categories/espiritualidad/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/espiritualidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Vida Interior</title>
-      <link>http://localhost:1313/categories/vida-interior/</link>
+      <link>https://www.entrelarazonylafe.com/categories/vida-interior/</link>
       <pubDate>Wed, 18 Feb 2026 10:01:02 -0500</pubDate>
-      <guid>http://localhost:1313/categories/vida-interior/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/vida-interior/</guid>
       <description></description>
     </item>
     <item>
       <title>Biblia</title>
-      <link>http://localhost:1313/categories/biblia/</link>
+      <link>https://www.entrelarazonylafe.com/categories/biblia/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
-      <guid>http://localhost:1313/categories/biblia/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/biblia/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflexiones</title>
-      <link>http://localhost:1313/categories/reflexiones/</link>
+      <link>https://www.entrelarazonylafe.com/categories/reflexiones/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
-      <guid>http://localhost:1313/categories/reflexiones/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/reflexiones/</guid>
       <description></description>
     </item>
     <item>
       <title>Testimonios</title>
-      <link>http://localhost:1313/categories/testimonios/</link>
+      <link>https://www.entrelarazonylafe.com/categories/testimonios/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
-      <guid>http://localhost:1313/categories/testimonios/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/testimonios/</guid>
       <description></description>
     </item>
     <item>
       <title>Discernimiento</title>
-      <link>http://localhost:1313/categories/discernimiento/</link>
+      <link>https://www.entrelarazonylafe.com/categories/discernimiento/</link>
       <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
-      <guid>http://localhost:1313/categories/discernimiento/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/discernimiento/</guid>
       <description></description>
     </item>
     <item>
       <title>Sociedad</title>
-      <link>http://localhost:1313/categories/sociedad/</link>
+      <link>https://www.entrelarazonylafe.com/categories/sociedad/</link>
       <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
-      <guid>http://localhost:1313/categories/sociedad/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/sociedad/</guid>
       <description></description>
     </item>
     <item>
       <title>Ensayo</title>
-      <link>http://localhost:1313/categories/ensayo/</link>
+      <link>https://www.entrelarazonylafe.com/categories/ensayo/</link>
       <pubDate>Mon, 16 Feb 2026 12:23:23 -0500</pubDate>
-      <guid>http://localhost:1313/categories/ensayo/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/ensayo/</guid>
       <description></description>
     </item>
     <item>
       <title>Derecho</title>
-      <link>http://localhost:1313/categories/derecho/</link>
+      <link>https://www.entrelarazonylafe.com/categories/derecho/</link>
       <pubDate>Sun, 15 Feb 2026 19:39:34 -0500</pubDate>
-      <guid>http://localhost:1313/categories/derecho/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/derecho/</guid>
       <description></description>
     </item>
     <item>
       <title>Ensayo Teológico</title>
-      <link>http://localhost:1313/categories/ensayo-teol%C3%B3gico/</link>
+      <link>https://www.entrelarazonylafe.com/categories/ensayo-teol%C3%B3gico/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
-      <guid>http://localhost:1313/categories/ensayo-teol%C3%B3gico/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/ensayo-teol%C3%B3gico/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifiesto</title>
-      <link>http://localhost:1313/categories/manifiesto/</link>
+      <link>https://www.entrelarazonylafe.com/categories/manifiesto/</link>
       <pubDate>Sat, 07 Feb 2026 23:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/manifiesto/</guid>
+      <guid>https://www.entrelarazonylafe.com/categories/manifiesto/</guid>
       <description></description>
     </item>
   </channel>

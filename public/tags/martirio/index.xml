@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Martirio on Entre La Razón Y La Fe</title>
-    <link>http://localhost:1313/tags/martirio/</link>
+    <link>https://www.entrelarazonylafe.com/tags/martirio/</link>
     <description>Recent content in Martirio on Entre La Razón Y La Fe</description>
     <image>
       <title>Entre La Razón Y La Fe</title>
-      <url>http://localhost:1313/cabecera.webp</url>
-      <link>http://localhost:1313/cabecera.webp</link>
+      <url>https://www.entrelarazonylafe.com/cabecera.webp</url>
+      <link>https://www.entrelarazonylafe.com/cabecera.webp</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 10 Feb 2026 23:01:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/martirio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.entrelarazonylafe.com/tags/martirio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuando Dios No Retira El Cuchillo</title>
-      <link>http://localhost:1313/posts/cuando-dios-no-retira-el-cuchillo/</link>
+      <link>https://www.entrelarazonylafe.com/posts/cuando-dios-no-retira-el-cuchillo/</link>
       <pubDate>Tue, 10 Feb 2026 23:01:28 -0500</pubDate>
-      <guid>http://localhost:1313/posts/cuando-dios-no-retira-el-cuchillo/</guid>
+      <guid>https://www.entrelarazonylafe.com/posts/cuando-dios-no-retira-el-cuchillo/</guid>
       <description>Una reflexión sobre el misterio del sufrimiento y el martirio. A diferencia del sacrificio de Isaac, existen momentos donde el cuchillo no se retira; un análisis desde el Libro de la Sabiduría hasta el Calvario y la realidad de los cristianos perseguidos hoy.</description>
     </item>
   </channel>
