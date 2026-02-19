@@ -14,6 +14,8 @@ summary: "¿Es la libertad económica un fin en sí mismo o una herramienta para
 # Categorías y etiquetas (listas YAML)
 categories: ["Ensayo", "Política", "Ética Cristiana"]
 tags: ["Javier Milei", "José Antonio Kast", "Libertarianismo", "Doctrina Social de la Iglesia", "Perú", "Justicia Social", "Bien Común"]
+showToc: true
+TocOpen: true
 
 # Imagen destacada del post (PaperMod)
 # IMPORTANTE:
