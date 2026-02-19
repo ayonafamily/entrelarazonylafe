@@ -15,6 +15,9 @@ cover:
   alt: "Entre la justicia y la paz"
   relative: false
 
+showToc: true
+TocOpen: true
+
 images:
   - ["https://entrelarazonylafe.vercel.app/images/2026/justicia-paz.webp"]
 ---
