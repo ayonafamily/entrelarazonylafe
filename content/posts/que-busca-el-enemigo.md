@@ -14,7 +14,7 @@ TocOpen: true
 
 # Imagen destacada del post (PaperMod)
 # IMPORTANTE:
-# - La imagen debe estar físicamente en: static/images/AAAA/nombre.webp
+# - La imagen debe estarsudo systemctl disable snapd.seeded.service físicamente en: static/images/AAAA/nombre.webp
 # - Aquí se usa ENLACE ABSOLUTO para compatibilidad visual y OG
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
@@ -27,7 +27,7 @@ cover:
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.com.app/images/2026/cuaresma.webp"
+  - "https://entrelarazonylafe.com/images/2026/cuaresma.webp"
 ---
 
 # Cuaresma: Camino de Purificación y Victoria
