@@ -3,7 +3,7 @@ title: "No Toda La Llamada Tradicion Es Catolica"
 date: 2026-02-19T20:47:36-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 # Descripción larga del artículo (SEO / metadata)
 description: "Una reflexión personal y profunda desde la perspectiva de un laico católico sobre la comunión eclesial, la obediencia al Magisterio y los riesgos de la resistencia sistemática frente a la Iglesia visible."
