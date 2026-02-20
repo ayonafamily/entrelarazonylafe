@@ -1,7 +1,7 @@
 ---
 title: "Pasos Hacia Una Mentalidad Prospera"
 date: 2013-01-15
-draft: false
+draft: true
 ---
 
 <span style="color:#000000;"><img class="alignleft size-thumbnail wp-image-200" style="border:4px solid black;" src="http://altonivel.files.wordpress.com/2009/06/jorge_empresa.jpg" alt="Conferencia" width="150" height="120" /></span>El Salmo 1 es la introducción al “himnario” o “salterio”, de Israel. Un gran número de ellos, fue compuesto por el Rey David, una persona de la cual se dice que era “conforme al corazón de Dios” (1Samuel 13:14); que fue levantado del anonimato y del rebaño de las ovejas,

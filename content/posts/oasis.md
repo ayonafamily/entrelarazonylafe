@@ -1,7 +1,7 @@
 ---
 title: "El Oasis"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <img alt="" src="http://upload.wikimedia.org/wikipedia/commons/5/57/Oasis_Huacachina.JPG" width="300" height="200" align="right" />Muchas veces nos quejamos de nuestro entorno; de lo mal que nos tratan las personas, de lo difícil que son las circunstancias en que me tocó vivir, del ambiente en que me muevo: que no me ayuda a buscar a Dios, me "estresa", etc.

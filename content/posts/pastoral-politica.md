@@ -1,7 +1,7 @@
 ---
 title: "Pastoral Política"
 date: 2013-01-15
-draft: false
+draft: true
 ---
 
 <img class="alignleft" src="http://mejorpolitico.files.wordpress.com/2011/02/analfabeto_politico.jpg" alt="" width="265" height="389" />

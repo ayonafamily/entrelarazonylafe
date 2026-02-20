@@ -1,7 +1,7 @@
 ---
 title: "¡Valórese!"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <img class="alignleft" src="http://altonivel.files.wordpress.com/2009/06/a8dd7f070921c76ecbb41287cfeb716c.jpeg" alt="Programa Alto Nivel" width="128" height="128" />Después de algún tiempo vuelvo a escribir. Estos dos últimos años han significado un gran mover en mi vida.

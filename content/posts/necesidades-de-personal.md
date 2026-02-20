@@ -1,7 +1,7 @@
 ---
 title: "Necesidades de Personal"
 date: 2013-01-11
-draft: false
+draft: true
 ---
 
 <h1 class="western" style="margin-left:.19cm;text-indent:.03cm;font-style:normal;text-decoration:none;"><span style="font-family:Times New Roman, serif;"><span style="font-size:small;"><strong>El personal es el problema, el personal es la solución. Especialmente cuando trabajamos en organizaciones basadas en trabajo voluntario. ¿Cómo involucrar personas en nuestra organización o iglesia? Este Post busca darte un programa práctico.</strong></span></span></h1>

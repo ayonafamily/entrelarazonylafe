@@ -1,7 +1,7 @@
 --- 
 title: "Ver las cosas de manera Objetiva."
 date: 2025-02-28
-draft: false
+draft: true
 cover:
     image: "/images/2016/18169-epistemologia.jpg"
     relative: false

@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué no prosperamos a pesar de que diezmamos y ofrendamos?"
 date: 2013-01-09
-draft: false
+draft: true
 ---
 
 Dios hace milagros, pero no es mago. Autores seculares, aún sin conocer personalmente a Jesús como Señor, han descubierto el valor del diezmo y del dar, que realmente resulta. Pero, ¿por qué cristianos dedicados, fieles en sus diezmos y ofrendas no prosperan?  Para muchos el dinero es el factor limitante. Por ganar más de él, descuidan a Dios, la esposa, los hijos.

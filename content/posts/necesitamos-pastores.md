@@ -1,7 +1,7 @@
 ---
 title: "Necesitamos Pastores......."
 date: 2013-01-07
-draft: false
+draft: true
 ---
 
 <p style="font-family:Times New Roman;"><img class="alignleft size-thumbnail wp-image-202" style="border:1px solid black;" src="http://1.bp.blogspot.com/_jRjfBX9S8lE/TAP_JlQ1hjI/AAAAAAAAAnI/un_SxQaiQ9A/s1600/pastores.jpg" alt="" width="207" height="207" /></p>
