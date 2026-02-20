@@ -33,7 +33,7 @@ TocOpen: true
 
 cover:
   image: "https://entrelarazonylafe.com/images/2026/tradicion-sin-comunion.webp"
-  alt: ""
+  alt: "No toda tradicion es catolica"
   relative: false
 
 # Imágenes OpenGraph / WhatsApp
