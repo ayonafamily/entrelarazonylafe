@@ -3,7 +3,7 @@ title: "Que Busca El Enemigo"
 date: 2026-02-20T09:49:27-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 description: "Una reflexión sobre la Cuaresma como tiempo de purificación para despojar al hombre viejo de la fe comercial y entrar en la victoria de la resurrección."
 summary: "La Iglesia nos invita al desierto para probar lo que hay en nuestro corazón. Frente a la tentación de una fe pagana y manipuladora, la Cuaresma nos llama a amar a Dios por quien es, aceptando la cruz para transformarnos en otros Cristos."
