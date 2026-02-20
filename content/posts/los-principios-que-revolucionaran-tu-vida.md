@@ -1,7 +1,7 @@
 ---
 title: "Los Principios que revolucionarán tu vida"
 date: 2014-02-21
-draft: false
+draft: true
 ---
 
 <p align="center"></p>

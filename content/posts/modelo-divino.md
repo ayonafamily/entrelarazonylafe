@@ -1,7 +1,7 @@
 ---
 title: "Modelo Divino"
 date: 2013-01-15
-draft: false
+draft: true
 ---
 
 <img class="alignleft size-thumbnail wp-image-200" style="border:4px solid black;" src="http://altonivel.files.wordpress.com/2009/06/jorge_empresa.jpg" alt="Conferencia Empresa" width="150" height="120" />

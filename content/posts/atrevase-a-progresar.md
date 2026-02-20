@@ -1,7 +1,7 @@
 ---
 title: "Atrévase A Progresar"
 date: 2012-12-12
-draft: false
+draft: true
 ---
 
 <p class="western" style="margin-bottom:.14in;"></p>

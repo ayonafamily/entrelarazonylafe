@@ -1,7 +1,7 @@
 ---
 title: "Visión"
 date: 2013-01-07
-draft: false
+draft: true
 ---
 
 <p style="margin-bottom:0;">Proverbios 29:18 Donde no hay visión el pueblo perece</p>

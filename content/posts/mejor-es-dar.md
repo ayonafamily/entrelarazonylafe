@@ -1,7 +1,7 @@
 ---
 title: "Mejor Es Dar"
 date: 2025-02-28
-draft: false
+draft: trueS
 ---
 
 En los hechos de los apóstoles encontramos unas palabras de Jesús, que no están en los evangelios, pero que si se conservaron por tradición:

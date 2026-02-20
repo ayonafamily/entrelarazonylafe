@@ -1,7 +1,7 @@
 ---
 title: "La Mejor Herencia Que Puede Dejar A Sus Hijos"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <img class="alignleft" style="border:1px solid black;margin-top:1px;margin-bottom:1px;" alt="" src="http://www.embarazada.com/media/upload/images/fotos_nuevo_contenido/bebe_articulos_de_familia/padrehijo.jpg" width="380" height="252" />¿Qué herencia dejará a sus hijos, si los tiene, o piensa dejarles, si aún no los tiene?

@@ -1,7 +1,7 @@
 ---
 title: "¿Manipulación O Misericordia En La Práctica Pastoral?"
 date: 2013-01-14
-draft: false
+draft: true
 ---
 
 [caption id="attachment_540" align="alignleft" width="135" caption="Ps. Karina De Ayona"]<img class="size-full wp-image-540" src="http://altonivelinternational.org/wp-content/uploads/2009/06/pastora-karina-de-ayona.jpg" alt="Ps. Karina De Ayona" width="135" height="160" />[/caption]

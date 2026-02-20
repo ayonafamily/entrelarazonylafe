@@ -1,7 +1,7 @@
 ---
 title: "Para Vivir El Hoy"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <h1><strong><img style="margin:5px;float:left;" alt="" src="http://cdn.seventeen.taconeras.net/files/2009/12/feliz_ano_nuevo.jpg" width="147" height="108" /></strong></h1>

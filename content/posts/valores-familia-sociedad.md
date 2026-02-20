@@ -1,7 +1,7 @@
 ---
 title: "Valores, la Familia y la Sociedad."
 date: 2012-12-24
-draft: false
+draft: true
 ---
 
 En la Vida nos encontramos con muchas personas que en ocaciones usan mas tiempo, trabajando, y poco tiempo para <strong>la comunicacion de la Familia, </strong>y esto permite que a veces no se pueda trasmitir cosas tan importantes como son los VALORES. 

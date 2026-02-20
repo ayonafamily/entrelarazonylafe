@@ -1,7 +1,7 @@
 ---
 title: "Liderazgo Permisivo"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <img class="alignleft size-thumbnail wp-image-130" style="border:4px solid black;" alt="conferencia_para_empresarios_2008" src="http://api.ning.com/files/0SVV0tXLm4aapj6q9q5OJCA5xdEswo2-wI5aMVArsctQYJgxQEeylmpxdfacmU7DqStKUH88FUeQ5yHA1EQr3TxhKRVnaRDu/becerro20de20oro.png" width="250" height="350" />En el Exodo, encontramos con una historia triste: El pueblo que semanas antes había salido de Egipto, viendo milagros portentosos de parte de Dios, estaba adorando un ídolo, un falso dios, desenfrenadamente. Dejaron de lado al Dios verdadero, y su adoración se parecía a la de los egipcios.

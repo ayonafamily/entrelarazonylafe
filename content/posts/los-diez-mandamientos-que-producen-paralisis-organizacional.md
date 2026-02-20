@@ -1,7 +1,7 @@
 ---
 title: Los Diez Mandamientos que producen parálisis organizacional ..
 date: 2012-12-12
-draft: false
+draft: true
 ---
 
 <strong><em>...o Como Estorbar A Los Líderes o Excusas Para No Resolver Problemas.</em></strong>

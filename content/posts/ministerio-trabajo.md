@@ -1,7 +1,7 @@
 ---
 title: "Ministerio & Trabajo"
 date: 2014-02-21
-draft: false
+draft: true
 ---
 
 <a title="Ps. Jorge &amp; Karina Ayona" href="http://img200.imageshack.us/img200/4770/jorgeykari690x730.jpg" target="_blank" rel="noopener"> <img class="alignleft" style="border:2px solid black;" alt="" src="http://img200.imageshack.us/img200/4770/jorgeykari690x730.jpg" width="172" height="172" align="left" border="1" /> </a><em>Hagan lo que hagan, trabajen de buena gana, como para el Señor y

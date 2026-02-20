@@ -1,7 +1,7 @@
 ---
 title: "Pequeños  Pasos"
 date: 2025-02-20
-draft: false
+draft: trueS
 ---
 
 <img class="alignleft" style="border:2px solid black;" alt="Expociencia 2010" src="http://img31.imageshack.us/img31/861/expoferia.jpg" width="275" height="209" /><strong>Nos Pasa A Todos</strong>

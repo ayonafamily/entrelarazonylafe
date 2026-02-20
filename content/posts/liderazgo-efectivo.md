@@ -1,7 +1,7 @@
 ---
 title: "Liderazgo Efectivo"
 date: 2025-02-28
-draft: false
+draft: true
 ---
 
 <p style="margin-bottom:0;"><span style="font-size:small;"><em><span style="color:#000000;"><span style="font-family:Arial, sans-serif;"><span style="text-decoration:none;"><img class="alignleft size-thumbnail wp-image-62" style="border:2px solid black;" src="http://www.readyforventures.com/wp-content/uploads/2011/12/como-ser-un-lider.jpg" alt="Ps.Jorge Ayona" width="150" height="150" /></span></span></span></em></span></p>
