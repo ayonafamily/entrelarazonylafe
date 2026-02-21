@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Eclesiologia on Entre La Razón Y La Fe</title><link>https://www.entrelarazonylafe.com/tags/eclesiologia/</link><description>Recent content in Eclesiologia on Entre La Razón Y La Fe</description><image><title>Entre La Razón Y La Fe</title><url>https://www.entrelarazonylafe.com/cabecera.webp</url><link>https://www.entrelarazonylafe.com/cabecera.webp</link></image><generator>Hugo -- 0.146.0</generator><language>es-es</language><lastBuildDate>Sun, 08 Feb 2026 10:24:46 -0500</lastBuildDate><atom:link href="https://www.entrelarazonylafe.com/tags/eclesiologia/index.xml" rel="self" type="application/rss+xml"/><item><title>Banquete De Los Invisibles</title><link>https://www.entrelarazonylafe.com/posts/banquete-de-los-invisibles/</link><pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate><guid>https://www.entrelarazonylafe.com/posts/banquete-de-los-invisibles/</guid><description>Una reflexión profunda sobre la caridad cristiana frente al rigorismo de las &amp;#39;comunidades espejo&amp;#39;. Entre el juicio del hermano mayor y la esperanza de la Jerusalén celestial, exploramos el misterio del sufrimiento del inocente y el llamado a ser una carta viva de Cristo para los que buscan acogida.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eclesiologia on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/eclesiologia/</link>
+    <description>Recent content in Eclesiologia on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 08 Feb 2026 10:24:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eclesiologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banquete De Los Invisibles</title>
+      <link>http://localhost:1313/posts/banquete-de-los-invisibles/</link>
+      <pubDate>Sun, 08 Feb 2026 10:24:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/banquete-de-los-invisibles/</guid>
+      <description>Una reflexión profunda sobre la caridad cristiana frente al rigorismo de las &amp;#39;comunidades espejo&amp;#39;. Entre el juicio del hermano mayor y la esperanza de la Jerusalén celestial, exploramos el misterio del sufrimiento del inocente y el llamado a ser una carta viva de Cristo para los que buscan acogida.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Política on Entre La Razón Y La Fe</title><link>https://www.entrelarazonylafe.com/categories/pol%C3%ADtica/</link><description>Recent content in Política on Entre La Razón Y La Fe</description><image><title>Entre La Razón Y La Fe</title><url>https://www.entrelarazonylafe.com/cabecera.webp</url><link>https://www.entrelarazonylafe.com/cabecera.webp</link></image><generator>Hugo -- 0.146.0</generator><language>es-es</language><lastBuildDate>Tue, 17 Feb 2026 21:39:29 -0500</lastBuildDate><atom:link href="https://www.entrelarazonylafe.com/categories/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml"/><item><title>Liberalismo Contemporaneo</title><link>https://www.entrelarazonylafe.com/posts/liberalismo-contemporanea/</link><pubDate>Tue, 17 Feb 2026 21:39:29 -0500</pubDate><guid>https://www.entrelarazonylafe.com/posts/liberalismo-contemporanea/</guid><description>Un análisis desde la ética cristiana sobre cómo el libertarismo de Javier Milei y el conservadurismo de José Antonio Kast impactan en la justicia social y la realidad peruana.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Política on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/categories/pol%C3%ADtica/</link>
+    <description>Recent content in Política on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 17 Feb 2026 21:39:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liberalismo Contemporaneo</title>
+      <link>http://localhost:1313/posts/liberalismo-contemporanea/</link>
+      <pubDate>Tue, 17 Feb 2026 21:39:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/liberalismo-contemporanea/</guid>
+      <description>Un análisis desde la ética cristiana sobre cómo el libertarismo de Javier Milei y el conservadurismo de José Antonio Kast impactan en la justicia social y la realidad peruana.</description>
+    </item>
+  </channel>
+</rss>

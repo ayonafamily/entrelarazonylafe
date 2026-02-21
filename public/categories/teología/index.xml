@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teología on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/categories/teolog%C3%ADa/</link>
+    <description>Recent content in Teología on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:24:08 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/teolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corazon Pascual</title>
+      <link>http://localhost:1313/posts/corazon-pascual/</link>
+      <pubDate>Fri, 20 Feb 2026 19:24:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/corazon-pascual/</guid>
+      <description>Descubre el significado del &amp;#39;corazón pascual&amp;#39; a través de la vida y legado del Beato Eduardo Pironio. Un programa de vida para vivir la Cuaresma desde la esperanza y la resurrección.</description>
+    </item>
+  </channel>
+</rss>

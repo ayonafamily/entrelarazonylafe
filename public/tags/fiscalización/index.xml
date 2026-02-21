@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fiscalización on Entre La Razón Y La Fe</title><link>https://www.entrelarazonylafe.com/tags/fiscalizaci%C3%B3n/</link><description>Recent content in Fiscalización on Entre La Razón Y La Fe</description><image><title>Entre La Razón Y La Fe</title><url>https://www.entrelarazonylafe.com/cabecera.webp</url><link>https://www.entrelarazonylafe.com/cabecera.webp</link></image><generator>Hugo -- 0.146.0</generator><language>es-es</language><lastBuildDate>Sun, 15 Feb 2026 19:39:34 -0500</lastBuildDate><atom:link href="https://www.entrelarazonylafe.com/tags/fiscalizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml"/><item><title>Fe Fiscalizacion</title><link>https://www.entrelarazonylafe.com/posts/fe-fiscalizacion/</link><pubDate>Sun, 15 Feb 2026 19:39:34 -0500</pubDate><guid>https://www.entrelarazonylafe.com/posts/fe-fiscalizacion/</guid><description>Un análisis jurídico y ético sobre la responsabilidad de las ONGs e iglesias en la atención de poblaciones vulnerables en el Perú. ¿Por qué la libertad religiosa no exhime del control estatal?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fiscalización on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/fiscalizaci%C3%B3n/</link>
+    <description>Recent content in Fiscalización on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 15 Feb 2026 19:39:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fiscalizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fe Fiscalizacion</title>
+      <link>http://localhost:1313/posts/fe-fiscalizacion/</link>
+      <pubDate>Sun, 15 Feb 2026 19:39:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fe-fiscalizacion/</guid>
+      <description>Un análisis jurídico y ético sobre la responsabilidad de las ONGs e iglesias en la atención de poblaciones vulnerables en el Perú. ¿Por qué la libertad religiosa no exhime del control estatal?</description>
+    </item>
+  </channel>
+</rss>
