@@ -31,15 +31,15 @@ TocOpen: true
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.com/images/2026/nombre-imagen.webp"
-  alt: ""
+  image: "https://entrelarazonylafe.com/images/2026/pensamiento-que-palpa.webp"
+  alt: "Pensamiento que palpa"
   relative: false
 
 # Imágenes OpenGraph / WhatsApp
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.com/images/2026/nombre-imagen.webp"
+  - "https://entrelarazonylafe.com/images/2026/pensamiento-que-palpa.webp"
 ---
 
 # El pensamiento que palpa: Entre el dato biográfico y la Verdad
