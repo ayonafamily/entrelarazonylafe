@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Filosofía Moral on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/categories/filosof%C3%ADa-moral/</link>
+    <description>Recent content in Filosofía Moral on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 22 Feb 2026 09:47:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/filosof%C3%ADa-moral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Del Trato Humano al Bien Común</title>
+      <link>http://localhost:1313/posts/trato-humano-bien-comun/</link>
+      <pubDate>Sun, 22 Feb 2026 09:47:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/trato-humano-bien-comun/</guid>
+      <description>Una reflexión profunda sobre la ética política, la coherencia personal y el bien común. A través de una experiencia personal y el pensamiento de Platón, Aristóteles y la tradición bíblica, se analiza por qué la capacidad técnica no basta si falta la integridad humana en el ejercicio del poder.</description>
+    </item>
+  </channel>
+</rss>

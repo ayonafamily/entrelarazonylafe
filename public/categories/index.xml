@@ -11,20 +11,90 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:24:08 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 10:20:37 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eclesiología</title>
+      <link>http://localhost:1313/categories/eclesiolog%C3%ADa/</link>
+      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
+      <guid>http://localhost:1313/categories/eclesiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Espiritualidad</title>
       <link>http://localhost:1313/categories/espiritualidad/</link>
-      <pubDate>Fri, 20 Feb 2026 19:24:08 -0500</pubDate>
+      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
       <guid>http://localhost:1313/categories/espiritualidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Teología</title>
       <link>http://localhost:1313/categories/teolog%C3%ADa/</link>
-      <pubDate>Fri, 20 Feb 2026 19:24:08 -0500</pubDate>
+      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
       <guid>http://localhost:1313/categories/teolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estudios Bíblicos</title>
+      <link>http://localhost:1313/categories/estudios-b%C3%ADblicos/</link>
+      <pubDate>Mon, 23 Feb 2026 07:45:33 -0500</pubDate>
+      <guid>http://localhost:1313/categories/estudios-b%C3%ADblicos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
+      <pubDate>Sun, 22 Feb 2026 11:50:12 -0500</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teología Existencial</title>
+      <link>http://localhost:1313/categories/teolog%C3%ADa-existencial/</link>
+      <pubDate>Sun, 22 Feb 2026 11:50:12 -0500</pubDate>
+      <guid>http://localhost:1313/categories/teolog%C3%ADa-existencial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía Moral</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa-moral/</link>
+      <pubDate>Sun, 22 Feb 2026 09:47:16 -0500</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa-moral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Política</title>
+      <link>http://localhost:1313/categories/pol%C3%ADtica/</link>
+      <pubDate>Sun, 22 Feb 2026 09:47:16 -0500</pubDate>
+      <guid>http://localhost:1313/categories/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexión Bíblica</title>
+      <link>http://localhost:1313/categories/reflexi%C3%B3n-b%C3%ADblica/</link>
+      <pubDate>Sun, 22 Feb 2026 09:47:16 -0500</pubDate>
+      <guid>http://localhost:1313/categories/reflexi%C3%B3n-b%C3%ADblica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actualidad</title>
+      <link>http://localhost:1313/categories/actualidad/</link>
+      <pubDate>Sat, 21 Feb 2026 09:30:38 -0500</pubDate>
+      <guid>http://localhost:1313/categories/actualidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolítica</title>
+      <link>http://localhost:1313/categories/geopol%C3%ADtica/</link>
+      <pubDate>Sat, 21 Feb 2026 09:30:38 -0500</pubDate>
+      <guid>http://localhost:1313/categories/geopol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexión</title>
+      <link>http://localhost:1313/categories/reflexi%C3%B3n/</link>
+      <pubDate>Sat, 21 Feb 2026 09:30:38 -0500</pubDate>
+      <guid>http://localhost:1313/categories/reflexi%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -32,13 +102,6 @@
       <link>http://localhost:1313/categories/reflexiones-b%C3%ADblicas/</link>
       <pubDate>Fri, 20 Feb 2026 09:49:27 -0500</pubDate>
       <guid>http://localhost:1313/categories/reflexiones-b%C3%ADblicas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclesiología</title>
-      <link>http://localhost:1313/categories/eclesiolog%C3%ADa/</link>
-      <pubDate>Thu, 19 Feb 2026 20:47:36 -0500</pubDate>
-      <guid>http://localhost:1313/categories/eclesiolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -74,13 +137,6 @@
       <link>http://localhost:1313/categories/%C3%A9tica-cristiana/</link>
       <pubDate>Tue, 17 Feb 2026 21:39:29 -0500</pubDate>
       <guid>http://localhost:1313/categories/%C3%A9tica-cristiana/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Política</title>
-      <link>http://localhost:1313/categories/pol%C3%ADtica/</link>
-      <pubDate>Tue, 17 Feb 2026 21:39:29 -0500</pubDate>
-      <guid>http://localhost:1313/categories/pol%C3%ADtica/</guid>
       <description></description>
     </item>
     <item>

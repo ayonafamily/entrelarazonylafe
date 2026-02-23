@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Estabilidad Económica on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/estabilidad-econ%C3%B3mica/</link>
+    <description>Recent content in Estabilidad Económica on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 21 Feb 2026 09:30:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/estabilidad-econ%C3%B3mica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El León de Asia y los Países Bisagra: Un Análisis de los Signos de los Tiempos desde Perú</title>
+      <link>http://localhost:1313/posts/leon-asia/</link>
+      <pubDate>Sat, 21 Feb 2026 09:30:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/leon-asia/</guid>
+      <description>Un análisis reflexivo sobre las tensiones geopolíticas actuales entre el Águila, el Dragón, el Oso y el León de Asia. Una lectura desde la fe y la razón sobre el papel de Perú como país bisagra frente a la incertidumbre global.</description>
+    </item>
+  </channel>
+</rss>

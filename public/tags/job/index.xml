@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 17 Feb 2026 09:03:12 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 11:50:12 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pensamiento Que Palpa</title>
+      <link>http://localhost:1313/posts/pensamiento-que-palpa/</link>
+      <pubDate>Sun, 22 Feb 2026 11:50:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/pensamiento-que-palpa/</guid>
+      <description>Una apología del pensamiento encarnado frente a la crítica de la racionalización. Reflexión teológica sobre el derecho a interrogar a Dios desde el sufrimiento, inspirada en Job, Guardini y la Primera Carta de San Juan.</description>
+    </item>
     <item>
       <title>Carta Desde La Fe</title>
       <link>http://localhost:1313/posts/carta-desde-la-fe/</link>
