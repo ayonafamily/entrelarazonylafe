@@ -33,7 +33,7 @@ TocOpen: true
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.com/images/2026/cuaresma-significado.webp"
+  image: "https://entrelarazonylafe.com/images/2026/significado-cuaresma.webp"
   alt: ""
   relative: false
 
@@ -41,7 +41,7 @@ cover:
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.com/images/2026/cuaresma-significado.webp"
+  - "https://entrelarazonylafe.com/images/2026/significado-cuaresma.webp"
 ---
 
 # El tiempo de los cuarenta en la Sagrada Escritura  
