@@ -1,5 +1,5 @@
 ---
-title: "Corazon Puro ecorazon Idolatria Interior"
+title: "Corazon Puro e Idolatria Interior"
 date: 2026-02-24T10:02:52-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
