@@ -1,5 +1,5 @@
 ---
-title: "Corazon Puro Idolatria Interior"
+title: "Corazon Puro ecorazon Idolatria Interior"
 date: 2026-02-24T10:02:52-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
@@ -106,7 +106,7 @@ En este punto resulta iluminador un ejemplo concreto. Aunque se puedan tener res
 
 El Evangelio ofrece una clave decisiva en el episodio de Caifás:
 
-> «Esto no lo dijo por sí mismo, sino que, como era sumo sacerdote aquel año, profetizó»  
+> no lo dijo por sí mismo, sino que, como era sumo sacerdote aquel año, profetizó»  
 > *(Jn 11,51)*
 
 Caifás dijo la verdad no por su santidad personal, sino por el oficio que ocupaba. Existe un carisma ligado al cargo, no a la virtud del individuo. Del mismo modo, quien actúa en representación del pontífice lo hace en nombre de la Iglesia, no en nombre propio.
