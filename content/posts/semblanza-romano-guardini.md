@@ -1,5 +1,5 @@
 ---
-title: "Semblana Romano Guardini"
+title: "Semblanza de Romano Guardini"
 date: 2026-02-26T11:33:48-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
