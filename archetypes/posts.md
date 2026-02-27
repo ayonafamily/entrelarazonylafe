@@ -14,6 +14,8 @@ summary: ""
 # Categorías y etiquetas (listas YAML)
 categories: []
 tags: []
+
+# Tabla de contenidos
 showToc: true
 TocOpen: true
 

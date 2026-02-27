@@ -2,88 +2,94 @@ baseURL = "https://www.entrelarazonylafe.com/"
 languageCode = "es-es"
 title = "Entre La Razón Y La Fe"
 theme = "hugo-PaperMod"
-keywords = ["fe", "razón", "gratuidad", "sufrimiento", "fidelidad", "silencio de Dios"]
+keywords = [
+    "fe",
+    "razón",
+    "gratuidad",
+    "sufrimiento",
+    "fidelidad",
+    "silencio de Dios",
+]
 
 [params]
-    description = "Blog de Jorge Ayona"
-    author = "Jorge Ayona"
-    ShowWordCount = true
-    ShowRssButtonInSectionTermList = true
-    hidePoweredBy = true
-    keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
-    images = ["/cabecera.webp"]
+description = "Blog de Jorge Ayona"
+author = "Jorge Ayona"
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+hidePoweredBy = true
+keywords = ["teología", "filosofía", "fe", "razón", "catolicismo"]
+images = ["/cabecera.webp"]
+defaultTheme = "dark"
+disableThemeToggle = true
 
+# Comentarios
+comments = true
 
+# Navegación
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
 
-
-    # Comentarios
-    comments = true
-
-    # Navegación
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
-
-    # Botones de compartir
-    ShowShareButtons = true
-    ShareButtons = ["linkedin", "twitter", "facebook"]
+# Botones de compartir
+ShowShareButtons = true
+ShareButtons = ["linkedin", "twitter", "facebook"]
 
 [params.social]
-    github = "ayonafamily"
-    twitter = "jayona"
-    email = "jorge.ayona.inglis@ucsp.edu.pe"
-    rss = true
+github = "ayonafamily"
+twitter = "jayona"
+email = "jorge.ayona.inglis@ucsp.edu.pe"
+rss = true
 
 [params.profileMode]
-    enabled = true
-    title = "Entre La Razón Y La Fe"
-    subtitle = "Blog de Jorge Ayona"
-    imageUrl = "/cabecera.webp"
-    imageWidth = 1000
-    imageHeight = 350
-    imageTitle = "Entre La Razón Y La Fe"
+enabled = true
+title = "Entre La Razón Y La Fe"
+subtitle = "Blog de Jorge Ayona"
+imageUrl = "/cabecera.webp"
+imageWidth = 1000
+imageHeight = 350
+imageTitle = "Entre La Razón Y La Fe"
 
-    [[params.profileMode.buttons]]
-        name = "Entrar al Blog"
-        url = "/posts"
+[[params.profileMode.buttons]]
+name = "Entrar al Blog"
+url = "/posts"
 
-    [[params.profileMode.buttons]]
-        name = "Currículum Vitae"
-        url = "https://cv.entrelarazonylafe.com"
+[[params.profileMode.buttons]]
+name = "Currículum Vitae"
+url = "https://cv.entrelarazonylafe.com"
 
-    [[params.profileMode.buttons]]
-        name = "Cv Corporativo"
-        url = "https://www.jorgeayona.com"
+[[params.profileMode.buttons]]
+name = "Cv Corporativo"
+url = "https://www.jorgeayona.com"
 
 [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon.ico"
-    favicon32x32 = "/favicon.ico"
-    apple_touch_icon = "/favicon.ico"
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon.ico"
+favicon32x32 = "/favicon.ico"
+apple_touch_icon = "/favicon.ico"
 
 [[menu.main]]
-    name = "Acerca de"
-    url = "/acerca-de/"
-    weight = 20
+name = "Acerca de"
+url = "/acerca-de/"
+weight = 20
 
 [[menu.main]]
-    name = "Artículos"
-    url = "/posts/"
-    weight = 10
+name = "Artículos"
+url = "/posts/"
+weight = 10
 
 [[menu.main]]
-    name = "Etiquetas"
-    url = "/tags/"
-    weight = 40
+name = "Etiquetas"
+url = "/tags/"
+weight = 40
 
 [[menu.main]]
-    name = "Archivo"
-    url = "/archives/"
-    weight = 50
+name = "Archivo"
+url = "/archives/"
+weight = 50
 
 [[menu.main]]
-    name = "Manifiesto"
-    url = "/manifiesto/"
-    weight = 30
+name = "Manifiesto"
+url = "/manifiesto/"
+weight = 30
 
 [markup.goldmark.renderer]
-    unsafe = true
+unsafe = true
