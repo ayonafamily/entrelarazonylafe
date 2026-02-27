@@ -1,5 +1,5 @@
 ---
-title: "Restaurando Polis Enferma"
+title: "Restaurando la Polis Enferma"
 date: 2026-02-27T10:54:57-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
