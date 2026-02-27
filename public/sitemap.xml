@@ -3,18 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cr%C3%ADtica-social/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/filosof%C3%ADa-pol%C3%ADtica/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kierkegaard/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/logos/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/per%C3%BA/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/populismo/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/postmodernismo/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/realidad-peruana/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/restaurando-polis-enferma/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sociedad-l%C3%ADquida/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/s%C3%B3crates/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/benedicto-xvi/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/cultura/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%C3%A9tica/</loc>
@@ -35,9 +71,6 @@
     <loc>http://localhost:1313/posts/semblanza-romano-guardini/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
@@ -56,9 +89,6 @@
     <loc>http://localhost:1313/tags/episteme/</loc>
     <lastmod>2026-02-26T08:50:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/per%C3%BA/</loc>
-    <lastmod>2026-02-26T08:50:39-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/polis/</loc>
     <lastmod>2026-02-26T08:50:39-05:00</lastmod>
   </url><url>
@@ -66,9 +96,6 @@
     <lastmod>2026-02-26T08:50:39-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/sociedad/</loc>
-    <lastmod>2026-02-26T08:50:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/s%C3%B3crates/</loc>
     <lastmod>2026-02-26T08:50:39-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/socrates-hoy/</loc>
