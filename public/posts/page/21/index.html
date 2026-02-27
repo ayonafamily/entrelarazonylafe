@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
+<html lang="en" dir="auto" data-theme="dark">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,53 +28,26 @@
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-                color-scheme: dark;
-            }
+</noscript><script defer src="/_vercel/insights/script.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
 
-            .list {
-                background: var(--theme);
-            }
-
-            .toc {
-                background: var(--entry);
-            }
-        }
-
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
-
-    </style>
-</noscript>
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else if (localStorage.getItem("pref-theme") === "light") {
-       document.querySelector("html").dataset.theme = 'light';
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
-        document.querySelector("html").dataset.theme = 'light';
+<style>
+    .dark {
+        --theme: #1b1b18 !important;
+         
+        --entry: #242420 !important;
+         
+        --primary: #e6db74 !important;
+         
+        --content: #e0e0e0 !important;
+         
     }
 
-</script><script defer src="/_vercel/insights/script.js"></script>
-<script defer src="/_vercel/insights/script.js"></script>
-<script defer src="/_vercel/insights/script.js"></script>
-
+    body.dark {
+        background-color: var(--theme) !important;
+    }
+</style>
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -82,26 +55,6 @@
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Entre La Razón Y La Fe (Alt + H)">Entre La Razón Y La Fe</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
@@ -150,6 +103,22 @@
     Lista de reflexiones teológicas y apologéticas
   </div>
 </header>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/images/2025/Anunciacion.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">El Misterio De La Encarnacion
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dios Se Acerca A Nosotros ![Anunciacion](/wp-content/uploads/2025/02/Anunciacion-300x150.jpg){.alignright} La Encarnación de Cristo es el gran misterio del amor divino que nos revela San Juan en su primera carta: «Lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y tocaron nuestras manos acerca del Verbo de la vida...» (1 Jn 1,1). Dios no se quedó en una verdad lejana o abstracta, sino que vino a nosotros, se hizo accesible, cercano, real.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-28 00:00:00 +0000 UTC'>February 28, 2025</span>&nbsp;·&nbsp;<span>666 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to El Misterio De La Encarnacion" href="http://localhost:1313/posts/el-misterio-de-la-encarnacion/"></a>
+</article>
 
 <article class="post-entry"> 
   <header class="entry-header">
@@ -242,28 +211,6 @@ El Señor Jesús se refería a este mismo problema cuando en el “Sermón del M
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">La Mejor Herencia Que Puede Dejar A Sus Hijos
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>¿Qué herencia dejará a sus hijos, si los tiene, o piensa dejarles, si aún no los tiene?
-Naciones y familias viven las consecuencias de una herencia nefasta: Pobreza, miseria, enfermedades hereditarias, divorcio, etc.
-Muchas veces estamos tan ocupados con el negocio, la profesión o el servicio a Dios que descuidamos las generaciones siguientes: Nuestros hijos.
-Ya la Biblia hablaba de que se visitarían los pecados de los padres en los hijos hasta la tercera y cuarta generación.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-02-28 00:00:00 +0000 UTC'>February 28, 2025</span>&nbsp;·&nbsp;<span>463 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to La Mejor Herencia Que Puede Dejar A Sus Hijos" href="http://localhost:1313/posts/lmejor-herencia/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
     <h2 class="entry-hint-parent">LA PARTICIPACIÓN DEL CUERPO Y SANGRE DE CRISTO NOS SANTIFICA
     </h2>
   </header>
@@ -298,25 +245,21 @@ En cuanto a mí ¡Dios me libre gloriarme si nos es en la cruz de nuestro Señor
 </article>
 
 <article class="post-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/images/2014/258bf-bambu.jpg" alt="">
+</figure>
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Liderazgo Efectivo
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">Los Procesos
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Y de los hijos de Isacar, doscientos príncipes, entendidos en los tiempos, y sabios de lo que Israel debía hacer, cuyo dicho seguían todos sus hermanos. 1Crónicas 12:32
-Encontramos en la Biblia un ejemplo de como un grupo especial de hombres tenían una influencia especial frente al resto, porque “conocían los tiempos, y sabían lo que se debía hacer”.
-El Liderazgo es efectivo, cuando conocemos los tiempos. Llamémosle los “signos de los tiempos”, “tendencias del mercado” o expresiones similares, en realidad se están refiriendo a la capacidad de preveer las cosas. La palabra hebrea por “entendidos” tiene la connotación de “entendimiento, discernimiento”. La palabra “tiempos” se refiere a “acontecimientos, ocasiones, eventos”. Hoy en día es necesario que existan personas que en medio de los eventos, entiendan su significado, detecten tendencias, sepan “leer entre líneas”.
+    <p> Dice el refrán: &#34;se quema el pan en la puerta del horno&#34;. Es decir, perdemos cosas por no seguir insistiendo; por darnos por vencidos antes de tiempo.
+Hoy en día, no tenemos en cuenta los procesos. La misma naturaleza nos habla de procesos: la gestación, la siembra y cosecha, el aprendizaje. La naturaleza misma del proceso implica gradualidad, tiempo, esfuerzo.
+Si así es en lo natural, la Sagrada Escritura enseña que también se aplica a lo espiritual:
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-02-28 00:00:00 +0000 UTC'>February 28, 2025</span>&nbsp;·&nbsp;<span>533 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Liderazgo Efectivo" href="http://localhost:1313/posts/liderazgo-efectivo/"></a>
+  <footer class="entry-footer"><span title='2025-02-28 00:00:00 +0000 UTC'>February 28, 2025</span>&nbsp;·&nbsp;<span>702 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Los Procesos" href="http://localhost:1313/posts/procesos/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
@@ -385,19 +328,6 @@ El Liderazgo es efectivo, cuando conocemos los tiempos. Llamémosle los “signo
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>

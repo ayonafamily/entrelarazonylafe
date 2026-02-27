@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
+<html lang="en" dir="auto" data-theme="dark">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,53 +28,26 @@
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-                color-scheme: dark;
-            }
+</noscript><script defer src="/_vercel/insights/script.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
 
-            .list {
-                background: var(--theme);
-            }
-
-            .toc {
-                background: var(--entry);
-            }
-        }
-
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
-
-    </style>
-</noscript>
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else if (localStorage.getItem("pref-theme") === "light") {
-       document.querySelector("html").dataset.theme = 'light';
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
-        document.querySelector("html").dataset.theme = 'light';
+<style>
+    .dark {
+        --theme: #1b1b18 !important;
+         
+        --entry: #242420 !important;
+         
+        --primary: #e6db74 !important;
+         
+        --content: #e0e0e0 !important;
+         
     }
 
-</script><script defer src="/_vercel/insights/script.js"></script>
-<script defer src="/_vercel/insights/script.js"></script>
-<script defer src="/_vercel/insights/script.js"></script>
-
+    body.dark {
+        background-color: var(--theme) !important;
+    }
+</style>
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -82,26 +55,6 @@
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Entre La Razón Y La Fe (Alt + H)">Entre La Razón Y La Fe</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
@@ -153,176 +106,145 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Un Nuevo Nivel
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">Apostasia
     </h2>
   </header>
   <div class="entry-content">
-    <p> &#34;...Bástate mi Gracia, porque mi poder se perfecciona en la debilidad...&#34; 2Corintios 12
-Jesus mismo recurría a las parábolas - ilustraciones tomadas de la vida diaria y de la creación misma - para ilustrar profundas verdades espirituales.
-Es así que una vez escuche la historia de una persona que, conmovida por los esfuerzos de una oruga por salir del capullo, quiso &#34;facilitarle&#34; la tarea, rompiendo el capullo. Lamentablemente, el animalito jamás pudo alzar el vuelo, porque le faltaba la fortaleza y entrenamiento que Dios, en su sabiduría, diseñó que lograra por medio del proceso de que la oruga misma, mediante el dolor y esfuerzo &#34;rompiera el capullo.
-...</p>
+    <p>Les invito a ver este revelador video de David Wilkerson, que ya está con el Señor.
+[youtube http://www.youtube.com/watch?v=KPHHkBtfE_4]
+</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-10 00:00:00 +0000 UTC'>January 10, 2013</span>&nbsp;·&nbsp;<span>454 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Un Nuevo Nivel" href="http://localhost:1313/posts/un-nuevo-nivel/"></a>
+  <footer class="entry-footer"><span title='2012-12-22 00:00:00 +0000 UTC'>December 22, 2012</span>&nbsp;·&nbsp;<span>18 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Apostasia" href="http://localhost:1313/posts/apostasia/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">¿Por qué no prosperamos a pesar de que diezmamos y ofrendamos?
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">El Desierto
     </h2>
   </header>
   <div class="entry-content">
-    <p>Dios hace milagros, pero no es mago. Autores seculares, aún sin conocer personalmente a Jesús como Señor, han descubierto el valor del diezmo y del dar, que realmente resulta. Pero, ¿por qué cristianos dedicados, fieles en sus diezmos y ofrendas no prosperan? Para muchos el dinero es el factor limitante. Por ganar más de él, descuidan a Dios, la esposa, los hijos.
-Vivimos en frustración porque no tenemos suficiente. La razón de esto tenemos que buscarla en el adagio: “Todo hombre está limitado por tres cosas: El conocimiento que posee, la fuerza de su carácter, y los principios sobre los cuales edifica su vida”. Por tanto, nuestra vida financiera gira alrededor de estas cosas: El conocimiento que tenemos en cuanto al dinero, los principios para ganarlo, gastarlo e invertirlo, y el carácter necesario para atraerlo y no repelerlo. Nuestra frustración, pobreza y miseria vienen por descuidar estas 3 cosas.
+    <p>“Todo en la vida se da en niveles y llega en etapas.” El desierto es una etapa necesaria hacia la tierra prometida. ¿Qué es la tierra prometida? Es el lugar donde se cumplen las promesas de Dios, donde alcanzamos el alto nivel que Dios tiene para nuestra vida.
+¿Por qué Dios no introdujo inmediatamente a Israel (¡y por supuesto a nosotros!)en la tierra prometida? La pregunta de por sí es fascinante. En el pentateuco encontré dos razones principales:
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-09 00:00:00 +0000 UTC'>January 9, 2013</span>&nbsp;·&nbsp;<span>691 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to ¿Por qué no prosperamos a pesar de que diezmamos y ofrendamos?" href="http://localhost:1313/posts/no-prosperamos-diezmamos-ofrendamos/"></a>
+  <footer class="entry-footer"><span title='2012-12-22 00:00:00 +0000 UTC'>December 22, 2012</span>&nbsp;·&nbsp;<span>873 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to El Desierto" href="http://localhost:1313/posts/el-desierto/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Bienvenido El Cambio
+    <h2 class="entry-hint-parent">¿Impactar O Impresionar?
     </h2>
   </header>
   <div class="entry-content">
-    <p>“Por tanto os digo que si vuestra justicia no fuera mayor que la de los escribas y fariseos, no entraréis al reino de los cielos…” (Mt.5:20)
-Jesús vino a introducir cambios, de un nuevo orden a otro. Este nuevo orden abarcaba todas las áreas de la vida. El pueblo de Israel no entendió el tiempo en que vivían, ni la urgente necesidad de cambiar instituciones antiguas y respetadas, pero que no reflejaban la realidad mas, y habían perdido su valor para ayudar y guiar a las personas. El resultado final, fue la destruccion del templo y la dispersión del pueblo de Israel por 2000 años.
+    <p>El Exito tiene mucho que ver con nuestra actitud frente a los problemas y las preocupaciones que a menudo estan presentes de una forma u otra.
+Sin embargo una actitud positiva y una esperanza continua ayudan mucho mas que una actitud pesimista.
+No se es optimista porque todo salga bien!!!!! sino porque aunque las cosas salgan mal , se confia en que siempre habra un camino por el cual se podra superar las dificultades.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-09 00:00:00 +0000 UTC'>January 9, 2013</span>&nbsp;·&nbsp;<span>662 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Bienvenido El Cambio" href="http://localhost:1313/posts/bienvenido-el-cambio/"></a>
+  <footer class="entry-footer"><span title='2012-12-21 00:00:00 +0000 UTC'>December 21, 2012</span>&nbsp;·&nbsp;<span>227 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to ¿Impactar O Impresionar?" href="http://localhost:1313/posts/impactar-o-impresionar/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Errores En la Organización
+    <h2 class="entry-hint-parent">Tu Mejor Inversión
     </h2>
   </header>
   <div class="entry-content">
-    <p>“Organización” básicamente es un lugar para cada cosa y cada cosa en su lugar. Esto incluye por supuesto al arreglo físico del espacio de trabajo, pero, más importante quizás, incluye el lugar que cada persona debe de ocupar en la empresa; cuales son los niveles de autoridad y responsabilidad; las funciones, tareas, etc. En las pequeñas empresas, lo que se observa es precisamente una falta de organización apropiada. Cuando la empresa crece, estas carencias se acentúan, poniendo en riesgo el futuro de la misma.
+    <p>Imagina que tu tienes una cuenta en el Banco, y cada mañana al despertar tienes un saldo a tu favor de aproximadamente 86.400 nuevos soles (moneda peruana, o la moneda de tu páis), de intereses. Solo que no te es permitido transferir el saldo de un dia para el dia siguiente. Todas las noches, tu saldo es llevado a cero, aunque tu no hayas logrado gastarlo durante el dia.
+¿Que harias? Te irias a gastar cada centavo? CLARO!!!!!!!!! Todos nosotros somos clientes de ese banco del que estamos hablando. Se llama VIDA y la cuenta de inversion se llama TIEMPO. En el primer segundo de cada dia se acreditan en tu cuenta 86.400 segundos. Los cuales los puedes gastar solo ese dia. Todas las noches ,lo que te sobro es considerado como perdida. No te esta permitido acumular este saldo para el dia siguiente. Todas las mañanas, tu cuenta es reinicializada y todas las noches las sobras del dia se evaporan. No hay vuelta .Tu necesitas gastar viviendo el presente de su deposito diario. Invierte, entonces en lo que sea mejor, amor, salud, felicidad y exito. El reloj esta corriendo. Haz lo mejor de tu dia a dia. Dale VALOR maximo a tu VIDA. En la vida lo importante no es cuanto tiempo tienes, sino lo que haces con EL. Inicia cada año viviendo cada instante . Este año tendras 31.536000 segundos para gastar, invierte tu TIEMPO sabiamente.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-09 00:00:00 +0000 UTC'>January 9, 2013</span>&nbsp;·&nbsp;<span>378 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Errores En la Organización" href="http://localhost:1313/posts/errores-organizacion/"></a>
+  <footer class="entry-footer"><span title='2012-12-18 00:00:00 +0000 UTC'>December 18, 2012</span>&nbsp;·&nbsp;<span>238 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Tu Mejor Inversión" href="http://localhost:1313/posts/tu-mejor-inversion/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Comunicación Verdadera
+    <h2 class="entry-hint-parent">PARA EMPRENDEDORES
     </h2>
   </header>
   <div class="entry-content">
-    <p>La comunicacion es indispensable para procurar y mantener las buenas relaciones en todos los ambitos de nuestra vida, particularmente en la familia,el trabajo y con las personas mas cercanas a nosotros. Aun asi enfrentamos desacuerdos y discusiones sin sentido, provocando en ocasiones una ruptura en las relaciones con los demas .
-Comprender y hacerse comprender es no dar por asumido que se entendio algo, cuando no fue asi. la comprension reciproca es un arte que facilita la convivencia y la armonia en todo lugar.
+    <p>¡Felicitaciones por ser parte del mundo de los negocios!
+Ud.Es de los miles de personas que creen en el futuro de nuestro país; que “hacen que sucedan” lascosas sin esperar que las cosas “sucedan por sí mismas”; que ven “oportunidades” en donde otros ven tan sólo“problemas”. El panorama es sombrío, dicenalgunos, debido a la crisis. El carácter chino para crisisestá constituido por la unión de dos caracteres: “oportunidad” y “amenaza”. De acuerdo a lo que Ud. Crea – y haga – se convertirán para Ud.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-08 00:00:00 +0000 UTC'>January 8, 2013</span>&nbsp;·&nbsp;<span>284 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Comunicación Verdadera" href="http://localhost:1313/posts/comunicacion-veradadera/"></a>
+  <footer class="entry-footer"><span title='2012-12-17 00:00:00 +0000 UTC'>December 17, 2012</span>&nbsp;·&nbsp;<span>147 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to PARA EMPRENDEDORES" href="http://localhost:1313/posts/para-emprendedores/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Necesitamos Pastores.......
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">Salvación ¡Ahora!
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Que Con toda transparencia ,se muestren con sus debilidades y flaquezas, pero también con ese deseo ferviente busquen crecer
-día a día,
-- Puedan condolerse,cuando otros caen ,y que estén dispuestos a perdonar cuando ellos mismos son heridos.
-- Trabajen no por una Denominación, sino por una Nación .
-- Sean compañeros unos con otros... y se levanten unos a otros cuando hayan caído
+    <p>Muchas veces, en cuanto un cristiano da su “testimonio”, se remonta a algo que pasó hace días, meses, o tal vez años. Juan Wesley, dentro de sus disposiciones, mandaba a sus seguidores que “nadie debía dar un testimonio que tenga más de una semana de acontecido.” La teología que hay detrás de esto es muy profunda.
+La Biblia habla de que “Hoy es el día de salvación”, significando que, si bien debemos recordar y tener memoria de los hechos de Dios pasados, y de que tenemos una esperanza para el futuro, la salvación se goza, se vive ahora.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-07 00:00:00 +0000 UTC'>January 7, 2013</span>&nbsp;·&nbsp;<span>231 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Necesitamos Pastores......." href="http://localhost:1313/posts/necesitamos-pastores/"></a>
+  <footer class="entry-footer"><span title='2012-12-17 00:00:00 +0000 UTC'>December 17, 2012</span>&nbsp;·&nbsp;<span>572 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Salvación ¡Ahora!" href="http://localhost:1313/posts/salvacion-ahora/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Visión
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">Vino Nuevo, Odres Nuevos
     </h2>
   </header>
   <div class="entry-content">
-    <p>Proverbios 29:18 Donde no hay visión el pueblo perece
-El tema de la visión no es nuevo. Se aplica a cada organización, empresa o actividad humana. Sea ud. negociante, empresario, pastor o sacerdote, lo presente lo va a ayudar a definir la importancia de la visión.
-La Visión mantiene las fronteras. Tal como Los Diez Mandamientos, nos brindan límites para encauzar nuestra libertad, la visión mantiene nlos límites requeridos para conservarnos en nuestro camino o sendero. Pero para esto, Necesitas un claro entendimiento de la Visión, a dónde te diriges.
+    <p>Todo cambio que anhelemos en nuestro ambiente, requiere un cambio interno en nosotros. Toda revolución en lo externo, para que sea efectiva, debe procurarse primero por dentro.
+Cuando Jesús afirmó lo anterior, se basó en una costumbre seguida en su tiempo para almacenar el vino. Corroboró el hecho de que los seres humanos tenemos la tendencia natural a anhelar cosas mejores, sin estar dispuestos a Desechar lo viejo, para dejar espacio a lo nuevo; Desechar lo viejo, para que no contamine lo nuevo.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-07 00:00:00 +0000 UTC'>January 7, 2013</span>&nbsp;·&nbsp;<span>628 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Visión" href="http://localhost:1313/posts/vision/"></a>
+  <footer class="entry-footer"><span title='2012-12-17 00:00:00 +0000 UTC'>December 17, 2012</span>&nbsp;·&nbsp;<span>687 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Vino Nuevo, Odres Nuevos" href="http://localhost:1313/posts/vino-nuevo-odres-nuevos/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Dilaciones E Indecisiones
+    <h2 class="entry-hint-parent">Autenticidad
     </h2>
   </header>
   <div class="entry-content">
-    <p> “Al que sabe hacer lo bueno, y no lo hace, le es pecado.” Santiago 4:17 Y Josué dijo a los hijos de Israel: ¿Hasta cuándo seréis negligentes para venir a poseer la tierra que os ha dado el SEÑOR el Dios de vuestros padres? Josué 18:3
-Generalmente excusamos nuestra indecisión e inacción, pensando que “no tenemos la información o el tiempo adecuado”. Dando por descontado que efectivamente se necesita la información y el tiempo adecuados para tomar una decisión adecuada, existen individuos que simplemente debido a una profunda inseguridad, negligencia o descuido posponen toda decisión y llenan su vida de incertidumbres e indefiniciones.
+    <p>MIENTRAS MAS CONSTRUYAS TU VIDA EN LA VERDAD, MEJOR SERA TU CAMINO Y MAS GRANDE TU VIDA.
+El valor de la autenticidad le da a la persona autoridad sobre si mismo ante sus gustos, iniciativa para proponerse y alcanzar metas altas, caracter estable y sinceridad a toda prueba, lo que hace tener una coherencia de Vida basada en la verdad y Integridad.
+Para ser Autenticos hace falta algo mas que copiar partes de un modelo, como si quisieramos adueñarnos de una personalidad que no nos pertenece, o peor aun, pasar la vida esperando la gran oportunidad para demostrar lo que somos y lo que podemos lograr.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-06 00:00:00 +0000 UTC'>January 6, 2013</span>&nbsp;·&nbsp;<span>469 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Dilaciones E Indecisiones" href="http://localhost:1313/posts/dilaciones-indecisiones/"></a>
+  <footer class="entry-footer"><span title='2012-12-15 00:00:00 +0000 UTC'>December 15, 2012</span>&nbsp;·&nbsp;<span>344 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Autenticidad" href="http://localhost:1313/posts/autenticidad/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Grandeza Interior
+    <h2 class="entry-hint-parent">La Valentía
     </h2>
   </header>
   <div class="entry-content">
-    <p>Los héroes son hombres que actúan en un momento en que la necesidad es más grande que ellos mismos. Hay cosas en la vida más importantes que la vida misma.
-Todo hombre tiene el deseo, puesto por Dios, en su corazón, de hacer algo con propósito, trascendente, que valga la pena. Es decir, ser un héroe. Un héroe ante su esposa, sus hijos, sus amigos, su nación. Los tiempos de crisis requieren de héroes.
+    <p>La Valentia a veces falla en lo inmediato, pero siempre a la larga genera un resultado positivo.
+.El valor que forja familias, empresas y naciones diferentes.
+Con personas ordinarias haciendo cosas extraordinarias.
+La Valentia es un valor universal que nos enseña a defender aquello que vale la pena, a dominar nuestros miedos y a sobreponernos en la adversidad. Sin la valentia, en los momentos dificiles nuestras vidas podrian irse a la deriva.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-06 00:00:00 +0000 UTC'>January 6, 2013</span>&nbsp;·&nbsp;<span>558 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Grandeza Interior" href="http://localhost:1313/posts/grande-por-dentro/"></a>
+  <footer class="entry-footer"><span title='2012-12-12 00:00:00 +0000 UTC'>December 12, 2012</span>&nbsp;·&nbsp;<span>301 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to La Valentía" href="http://localhost:1313/posts/la-valentia/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Máxima Excelencia Parte 2
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+    <h2 class="entry-hint-parent">Alcanzando Metas
     </h2>
   </header>
   <div class="entry-content">
-    <p> 2. Manejo De La Presión Quien podría dudar que hoy se vive con muchar presión!. Tanto en el orden profesional, moral, social, vivimos en un mundo que nos presiona día a día. Quien aspire a vivir en máxima excelencia deberá aprender a manejar la presión. Existen muchas presiones hoy similares a las que pasaba Daniel: Presión para que adore dioses falsos; de los adversarios; de las ocupaciones que le impedían meditar y orar, etc.
+    <p>Nos Pasa A Todos Es tradición que la noche de Año Nuevo la mayoría de personas se planteen metas tales como bajar de peso, cambiar de trabajo, dejar un mal hábito, etc. Si somos honestos, muchas veces encontramos que nuestras mejores intenciones no producen resultados. Encontramos que el entusiasmo inicial de emprender un nuevo rumbo, se estrella con la realidad. Y es que es difícil prometer, pero no mantener. Al respecto, no importa cuan razonable parezca la decisión que vallamos a tomar, o los beneficios que obtengamos de la misma. Sin el auxilo de virtudes, tales como la disciplina y la constancia, no cumpliremos nuestras metas. Muchos libros de autoayuda abordan este tema, lo que demuestra que hay muchas personas que quieren aprender el secreto de la fijación de objetivos - y de completarlos.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2013-01-06 00:00:00 +0000 UTC'>January 6, 2013</span>&nbsp;·&nbsp;<span>426 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
-  <a class="entry-link" aria-label="post link to Máxima Excelencia Parte 2" href="http://localhost:1313/posts/maxima-excelencia-parte-2/"></a>
+  <footer class="entry-footer"><span title='2012-12-02 00:00:00 +0000 UTC'>December 2, 2012</span>&nbsp;·&nbsp;<span>421 words</span>&nbsp;·&nbsp;<span>Jorge Ayona</span></footer>
+  <a class="entry-link" aria-label="post link to Alcanzando Metas" href="http://localhost:1313/posts/alcanzar-metas/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
@@ -391,19 +313,6 @@ Todo hombre tiene el deseo, puesto por Dios, en su corazón, de hacer algo con p
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>

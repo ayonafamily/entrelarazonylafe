@@ -11,8 +11,71 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 23 Feb 2026 10:20:37 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 11:33:48 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cultura</title>
+      <link>http://localhost:1313/categories/cultura/</link>
+      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
+      <guid>http://localhost:1313/categories/cultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
+      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teología</title>
+      <link>http://localhost:1313/categories/teolog%C3%ADa/</link>
+      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
+      <guid>http://localhost:1313/categories/teolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociedad</title>
+      <link>http://localhost:1313/categories/sociedad/</link>
+      <pubDate>Thu, 26 Feb 2026 08:50:39 -0500</pubDate>
+      <guid>http://localhost:1313/categories/sociedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espiritualidad Cristiana</title>
+      <link>http://localhost:1313/categories/espiritualidad-cristiana/</link>
+      <pubDate>Wed, 25 Feb 2026 10:10:13 -0500</pubDate>
+      <guid>http://localhost:1313/categories/espiritualidad-cristiana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exégesis</title>
+      <link>http://localhost:1313/categories/ex%C3%A9gesis/</link>
+      <pubDate>Wed, 25 Feb 2026 10:10:13 -0500</pubDate>
+      <guid>http://localhost:1313/categories/ex%C3%A9gesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teología Bíblica</title>
+      <link>http://localhost:1313/categories/teolog%C3%ADa-b%C3%ADblica/</link>
+      <pubDate>Wed, 25 Feb 2026 10:10:13 -0500</pubDate>
+      <guid>http://localhost:1313/categories/teolog%C3%ADa-b%C3%ADblica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclesial</title>
+      <link>http://localhost:1313/categories/eclesial/</link>
+      <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
+      <guid>http://localhost:1313/categories/eclesial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espiritualidad</title>
+      <link>http://localhost:1313/categories/espiritualidad/</link>
+      <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
+      <guid>http://localhost:1313/categories/espiritualidad/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Eclesiología</title>
       <link>http://localhost:1313/categories/eclesiolog%C3%ADa/</link>
@@ -21,31 +84,10 @@
       <description></description>
     </item>
     <item>
-      <title>Espiritualidad</title>
-      <link>http://localhost:1313/categories/espiritualidad/</link>
-      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
-      <guid>http://localhost:1313/categories/espiritualidad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teología</title>
-      <link>http://localhost:1313/categories/teolog%C3%ADa/</link>
-      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
-      <guid>http://localhost:1313/categories/teolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Estudios Bíblicos</title>
       <link>http://localhost:1313/categories/estudios-b%C3%ADblicos/</link>
       <pubDate>Mon, 23 Feb 2026 07:45:33 -0500</pubDate>
       <guid>http://localhost:1313/categories/estudios-b%C3%ADblicos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
-      <pubDate>Sun, 22 Feb 2026 11:50:12 -0500</pubDate>
-      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -165,13 +207,6 @@
       <link>http://localhost:1313/categories/discernimiento/</link>
       <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
       <guid>http://localhost:1313/categories/discernimiento/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sociedad</title>
-      <link>http://localhost:1313/categories/sociedad/</link>
-      <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
-      <guid>http://localhost:1313/categories/sociedad/</guid>
       <description></description>
     </item>
     <item>

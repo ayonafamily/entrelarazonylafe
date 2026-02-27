@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pensamiento Cristiano on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/pensamiento-cristiano/</link>
+    <description>Recent content in Pensamiento Cristiano on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 26 Feb 2026 11:33:48 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pensamiento-cristiano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semblanza de Romano Guardini</title>
+      <link>http://localhost:1313/posts/semblanza-romano-guardini/</link>
+      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/semblanza-romano-guardini/</guid>
+      <description>Explora el pensamiento de Romano Guardini: su crítica al academicismo, la &amp;#39;Weltanschauung&amp;#39; cristiana como visión integral y su influencia en el Vaticano II.</description>
+    </item>
+    <item>
+      <title>Sócrates en Lima: dóxa, poder y decadencia</title>
+      <link>http://localhost:1313/posts/socrates-hoy/</link>
+      <pubDate>Thu, 26 Feb 2026 08:50:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/socrates-hoy/</guid>
+      <description>Ensayo teológico-filosófico que traza un paralelo entre la Atenas de Sócrates y la realidad contemporánea del Perú. A partir de la distinción entre dóxa y episteme, y del pensamiento de Romano Guardini, se analiza la crisis de la verdad, el relativismo, la decadencia cultural y sus consecuencias para la polis.</description>
+    </item>
+  </channel>
+</rss>
