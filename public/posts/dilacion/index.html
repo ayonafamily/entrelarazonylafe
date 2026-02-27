@@ -36,20 +36,82 @@ La dilación es una de las más grandes trabas para la eficiencia y eficacia per
 <script defer src="/_vercel/insights/script.js"></script>
 <script defer src="/_vercel/insights/script.js"></script>
 
+<script>
+    (function () {
+        const fecha = new Date();
+        const mes = fecha.getMonth() + 1;
+
+        
+        const esVerano = (mes === 12 || mes <= 3);
+        const root = document.documentElement;
+
+        if (esVerano) {
+            
+            root.style.setProperty('--theme', '#161614', 'important');    
+            root.style.setProperty('--entry', '#1e1e1b', 'important');    
+            root.style.setProperty('--primary', '#ffcc66', 'important');  
+            root.style.setProperty('--secondary', '#d1b894', 'important');
+            root.style.setProperty('--content', '#f2ece4', 'important');  
+        } else {
+            
+            root.style.setProperty('--theme', '#05070a', 'important');    
+            root.style.setProperty('--entry', '#0d1117', 'important');
+            root.style.setProperty('--primary', '#5ccfe6', 'important');  
+            root.style.setProperty('--secondary', '#708090', 'important');
+            root.style.setProperty('--content', '#e6edf3', 'important');
+        }
+    })();
+</script>
+
 <style>
-    .dark {
-        --theme: #1b1b18 !important;
+     
+    body.dark {
+        background-color: var(--theme) !important;
+        color: var(--content) !important;
+    }
+
+    .post-entry {
+        background: var(--entry) !important;
+    }
+
+    .post-title,
+    .post-title a,
+    a {
+        color: var(--primary) !important;
+    }
+
+     
+    .entry-content {
+        color: var(--secondary) !important;
+    }
+</style>
+
+<style>
+     
+    .first-entry img,
+    .post-entry img,
+    .entry-cover img {
+        width: 100% !important;
          
-        --entry: #242420 !important;
+        height: 400px !important;
          
-        --primary: #e6db74 !important;
+        object-fit: cover !important;
          
-        --content: #e0e0e0 !important;
+        object-position: center !important;
+         
+        border-radius: 8px;
          
     }
 
-    body.dark {
-        background-color: var(--theme) !important;
+     
+    @media (max-width: 768px) {
+
+        .first-entry img,
+        .post-entry img,
+        .entry-cover img {
+            height: 250px !important;
+             
+        }
     }
 </style>
 </head>

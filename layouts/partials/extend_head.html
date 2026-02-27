@@ -2,19 +2,81 @@
 <script defer src="/_vercel/insights/script.js"></script>
 <script defer src="/_vercel/insights/script.js"></script>
 
-<style>
-    .dark {
-        --theme: #1b1b18 !important;
-        /* Fondo Verano */
-        --entry: #242420 !important;
-        /* Tarjetas */
-        --primary: #e6db74 !important;
-        /* Títulos */
-        --content: #e0e0e0 !important;
-        /* Texto */
-    }
+<script>
+    (function () {
+        const fecha = new Date();
+        const mes = fecha.getMonth() + 1;
 
+        // Verano Austral: Diciembre (12) a Marzo (3)
+        const esVerano = (mes === 12 || mes <= 3);
+        const root = document.documentElement;
+
+        if (esVerano) {
+            // PALETA VERANO (Contraste Tierra/Oro)
+            root.style.setProperty('--theme', '#161614', 'important');   /* Fondo más profundo y cálido */
+            root.style.setProperty('--entry', '#1e1e1b', 'important');   /* Tarjetas sutilmente más claras */
+            root.style.setProperty('--primary', '#ffcc66', 'important'); /* Oro vibrante para títulos */
+            root.style.setProperty('--secondary', '#d1b894', 'important');
+            root.style.setProperty('--content', '#f2ece4', 'important'); /* Texto crema, no gris */
+        } else {
+            // PALETA INVIERNO (Contraste Glaciar/Azul)
+            root.style.setProperty('--theme', '#05070a', 'important');   /* Negro azulado muy oscuro */
+            root.style.setProperty('--entry', '#0d1117', 'important');
+            root.style.setProperty('--primary', '#5ccfe6', 'important'); /* Cian brillante */
+            root.style.setProperty('--secondary', '#708090', 'important');
+            root.style.setProperty('--content', '#e6edf3', 'important');
+        }
+    })();
+</script>
+
+<style>
+    /* Aplicación forzosa para que PaperMod no los ignore */
     body.dark {
         background-color: var(--theme) !important;
+        color: var(--content) !important;
+    }
+
+    .post-entry {
+        background: var(--entry) !important;
+    }
+
+    .post-title,
+    .post-title a,
+    a {
+        color: var(--primary) !important;
+    }
+
+    /* Esto cambia el color de la descripción corta en el home */
+    .entry-content {
+        color: var(--secondary) !important;
+    }
+</style>
+
+<style>
+    /* SOLUCIÓN HERO RESPONSIVE */
+    .first-entry img,
+    .post-entry img,
+    .entry-cover img {
+        width: 100% !important;
+        /* Ocupa todo el ancho disponible */
+        height: 400px !important;
+        /* Altura fija para mantener consistencia (ajústala a tu gusto) */
+        object-fit: cover !important;
+        /* La magia: la imagen se encuadra sin deformarse */
+        object-position: center !important;
+        /* Centra el interés de la imagen */
+        border-radius: 8px;
+        /* Un toque estético opcional */
+    }
+
+    /* Ajuste para móviles: Para que en pantallas pequeñas no ocupe tanto espacio vertical */
+    @media (max-width: 768px) {
+
+        .first-entry img,
+        .post-entry img,
+        .entry-cover img {
+            height: 250px !important;
+            /* Reducimos la altura en celulares */
+        }
     }
 </style>
