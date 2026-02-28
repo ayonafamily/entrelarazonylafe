@@ -1,5 +1,5 @@
 ---
-title: "Tradición Absolutizacion e Idealogizacion"
+title: "Tradición Absolutizacion e Ideologizacion"
 date: 2026-02-27T14:08:50-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
