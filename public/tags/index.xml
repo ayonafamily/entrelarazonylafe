@@ -11,8 +11,99 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 27 Feb 2026 10:54:57 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:42:27 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autoridad</title>
+      <link>http://localhost:1313/tags/autoridad/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/autoridad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comunión Eclesial</title>
+      <link>http://localhost:1313/tags/comuni%C3%B3n-eclesial/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/comuni%C3%B3n-eclesial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discernimiento</title>
+      <link>http://localhost:1313/tags/discernimiento/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/discernimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclesiología</title>
+      <link>http://localhost:1313/tags/eclesiolog%C3%ADa/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/eclesiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libre Examen</title>
+      <link>http://localhost:1313/tags/libre-examen/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/libre-examen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obediencia</title>
+      <link>http://localhost:1313/tags/obediencia/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/obediencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradicionalismo</title>
+      <link>http://localhost:1313/tags/tradicionalismo/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tradicionalismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaticano II</title>
+      <link>http://localhost:1313/tags/vaticano-ii/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/vaticano-ii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liturgia</title>
+      <link>http://localhost:1313/tags/liturgia/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/liturgia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magisterio</title>
+      <link>http://localhost:1313/tags/magisterio/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/magisterio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misa Tradicional</title>
+      <link>http://localhost:1313/tags/misa-tradicional/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/misa-tradicional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradición</title>
+      <link>http://localhost:1313/tags/tradici%C3%B3n/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tradici%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unidad De La Iglesia</title>
+      <link>http://localhost:1313/tags/unidad-de-la-iglesia/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/unidad-de-la-iglesia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Kierkegaard</title>
       <link>http://localhost:1313/tags/kierkegaard/</link>
@@ -95,13 +186,6 @@
       <link>http://localhost:1313/tags/romano-guardini/</link>
       <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
       <guid>http://localhost:1313/tags/romano-guardini/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vaticano II</title>
-      <link>http://localhost:1313/tags/vaticano-ii/</link>
-      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
-      <guid>http://localhost:1313/tags/vaticano-ii/</guid>
       <description></description>
     </item>
     <item>
@@ -217,24 +301,10 @@
       <description></description>
     </item>
     <item>
-      <title>Magisterio</title>
-      <link>http://localhost:1313/tags/magisterio/</link>
-      <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
-      <guid>http://localhost:1313/tags/magisterio/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Salmos</title>
       <link>http://localhost:1313/tags/salmos/</link>
       <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
       <guid>http://localhost:1313/tags/salmos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tradición</title>
-      <link>http://localhost:1313/tags/tradici%C3%B3n/</link>
-      <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
-      <guid>http://localhost:1313/tags/tradici%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -252,13 +322,6 @@
       <description></description>
     </item>
     <item>
-      <title>Obediencia</title>
-      <link>http://localhost:1313/tags/obediencia/</link>
-      <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
-      <guid>http://localhost:1313/tags/obediencia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>San Ignacio De Loyola</title>
       <link>http://localhost:1313/tags/san-ignacio-de-loyola/</link>
       <pubDate>Mon, 23 Feb 2026 10:20:37 -0500</pubDate>
@@ -270,13 +333,6 @@
       <link>http://localhost:1313/tags/historia-de-la-iglesia/</link>
       <pubDate>Mon, 23 Feb 2026 07:45:33 -0500</pubDate>
       <guid>http://localhost:1313/tags/historia-de-la-iglesia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Liturgia</title>
-      <link>http://localhost:1313/tags/liturgia/</link>
-      <pubDate>Mon, 23 Feb 2026 07:45:33 -0500</pubDate>
-      <guid>http://localhost:1313/tags/liturgia/</guid>
       <description></description>
     </item>
     <item>
@@ -578,13 +634,6 @@
       <link>http://localhost:1313/tags/reflexi%C3%B3n-espiritual/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
       <guid>http://localhost:1313/tags/reflexi%C3%B3n-espiritual/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discernimiento</title>
-      <link>http://localhost:1313/tags/discernimiento/</link>
-      <pubDate>Tue, 17 Feb 2026 06:11:05 -0500</pubDate>
-      <guid>http://localhost:1313/tags/discernimiento/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Iglesia on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/categories/iglesia/</link>
+    <description>Recent content in Iglesia on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 27 Feb 2026 18:42:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/iglesia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del Discernimiento a La Ruptura</title>
+      <link>http://localhost:1313/posts/del-discernimiento-a-la-ruptura/</link>
+      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/del-discernimiento-a-la-ruptura/</guid>
+      <description>Reflexión eclesial sobre la crisis de comunión provocada por el tradicionalismo separatista, el uso del libre examen como criterio último y la confusión entre normas litúrgicas y canónicas. Un texto nacido del dolor y del amor a la Iglesia, que invita a un discernimiento teológico y eclesiológico serio.</description>
+    </item>
+    <item>
+      <title>Tradición Absolutizacion e Idealogizacion</title>
+      <link>http://localhost:1313/posts/tradicio-absolutizacion-idealogizacion/</link>
+      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/tradicio-absolutizacion-idealogizacion/</guid>
+      <description>Ensayo teológico que analiza críticamente la absolutización ideológica de la Misa tradicional, defendiendo una comprensión auténtica de la Tradición, la liturgia y la obediencia eclesial a la luz de Cristo, el Magisterio y el Concilio Vaticano II.</description>
+    </item>
+  </channel>
+</rss>
