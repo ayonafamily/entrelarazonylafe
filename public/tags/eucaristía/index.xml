@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eucaristía on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/eucarist%C3%ADa/</link>
+    <description>Recent content in Eucaristía on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eucarist%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fuente Y Culmen</title>
+      <link>http://localhost:1313/posts/fuente-y-culmen/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fuente-y-culmen/</guid>
+      <description>Ensayo teológico sobre la falsa oposición entre liturgia y caridad a la luz de Dilexit Nos. Se analiza la circularidad entre altar y prójimo, mostrando cómo la liturgia es fuente y culmen de la caridad, y cómo la caridad valida y prolonga la vida litúrgica de la Iglesia.</description>
+    </item>
+  </channel>
+</rss>
