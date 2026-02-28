@@ -24,7 +24,7 @@ TocOpen: true
 # - Nota: La imagen se vera solo cuando esta desplegado en vercel
 
 cover:
-  image: "https://entrelarazonylafe.com/images/2026/nombre-imagen.webp"
+  image: "https://entrelarazonylafe.com/images/2026/fuenteyculmen.webp"
   alt: ""
   relative: false
 
@@ -32,7 +32,7 @@ cover:
 # - SIEMPRE enlaces absolutos
 # - WhatsApp ignora rutas relativas
 images:
-  - "https://entrelarazonylafe.com/images/2026/nombre-imagen.webp"
+  - "https://entrelarazonylafe.com/images/2026/fuenteyculmen.webp"
 ---
 
 lo que trato es que, a traves del analisis de dislexis nos de francisco, ver como se recobra el equilibrio necesario en dislexiste, partiendo de que la liturgia y la caridad no estan enfrentadas.  que el punto no es liturgia vs. caritas, sino que la una es fuente y culmen de la otra. la caridad se expresa y se causa por la liturgia y se extiende y valida en el projimo. Preferir la caridad sobre la liturgia es convertirse en una ong piadosa. preferir la liturgia sin caridad son ritos y formulismos vacios de su sigificado. La sintesis se da en amar a Dios y amar al projimo
@@ -124,4 +124,4 @@ La Caridad extiende la Liturgia: El mundo se convierte en el altar donde ofrecem
 
 El Prójimo valida la Liturgia: La paz que recibimos en el rito se prueba en la paciencia y el servicio real al hermano.
 
-Reflexión Final: Al final, como bien dices, el punto es que no se puede amar a Dios (a quien no vemos) si no amamos al prójimo (a quien vemos). Pero para amar al prójimo de forma sobrenatural, necesitamos adorar a Dios en espíritu y en verdad.s
+Reflexión Final: Al final, como bien dices, el punto es que no se puede amar a Dios (a quien no vemos) si no amamos al prójimo (a quien vemos). Pero para amar al prójimo de forma sobrenatural, necesitamos adorar a Dios en espíritu y en verdad.

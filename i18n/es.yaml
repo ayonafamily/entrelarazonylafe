@@ -1,0 +1,29 @@
+- id: prev_page
+  translation: "Página anterior"
+
+- id: next_page
+  translation: "Página siguiente"
+
+- id: read_time
+  translation: "min de lectura"
+
+- id: words
+  translation: "palabras"
+
+- id: toc
+  translation: "Contenido"
+
+- id: translations
+  translation: "Traducciones"
+
+- id: home
+  translation: "Inicio"
+
+- id: search
+  translation: "Buscar"
+
+- id: tags
+  translation: "Etiquetas"
+
+- id: categories
+  translation: "Categorías"
