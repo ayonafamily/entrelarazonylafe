@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 27 Feb 2026 18:42:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 09:46:01 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dostoievski</title>
+      <link>http://localhost:1313/tags/dostoievski/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/dostoievski/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclesiología</title>
+      <link>http://localhost:1313/tags/eclesiolog%C3%ADa/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/eclesiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fe</title>
+      <link>http://localhost:1313/tags/fe/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iglesia</title>
+      <link>http://localhost:1313/tags/iglesia/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/iglesia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romano Guardini</title>
+      <link>http://localhost:1313/tags/romano-guardini/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/romano-guardini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tolstói</title>
+      <link>http://localhost:1313/tags/tolst%C3%B3i/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tolst%C3%B3i/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Autoridad</title>
       <link>http://localhost:1313/tags/autoridad/</link>
@@ -32,13 +74,6 @@
       <link>http://localhost:1313/tags/discernimiento/</link>
       <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
       <guid>http://localhost:1313/tags/discernimiento/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclesiología</title>
-      <link>http://localhost:1313/tags/eclesiolog%C3%ADa/</link>
-      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
-      <guid>http://localhost:1313/tags/eclesiolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -221,13 +256,6 @@
       <link>http://localhost:1313/tags/pensamiento-cristiano/</link>
       <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
       <guid>http://localhost:1313/tags/pensamiento-cristiano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romano Guardini</title>
-      <link>http://localhost:1313/tags/romano-guardini/</link>
-      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
-      <guid>http://localhost:1313/tags/romano-guardini/</guid>
       <description></description>
     </item>
     <item>
@@ -522,13 +550,6 @@
       <link>http://localhost:1313/tags/desierto/</link>
       <pubDate>Fri, 20 Feb 2026 09:49:27 -0500</pubDate>
       <guid>http://localhost:1313/tags/desierto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fe</title>
-      <link>http://localhost:1313/tags/fe/</link>
-      <pubDate>Fri, 20 Feb 2026 09:49:27 -0500</pubDate>
-      <guid>http://localhost:1313/tags/fe/</guid>
       <description></description>
     </item>
     <item>

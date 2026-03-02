@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tolstói on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/tolst%C3%B3i/</link>
+    <description>Recent content in Tolstói on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 02 Mar 2026 09:46:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tolst%C3%B3i/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tolstoi Dostoyevski</title>
+      <link>http://localhost:1313/posts/tolstoi-dostoyevski/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/tolstoi-dostoyevski/</guid>
+      <description>Una reflexión existencial sobre el escándalo en la Iglesia a través de la tensión entre el purismo moral de Lev Tolstói y la fidelidad encarnada de Fiodor Dostoievski, bajo la luz de Romano Guardini.</description>
+    </item>
+  </channel>
+</rss>

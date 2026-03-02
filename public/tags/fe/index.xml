@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 20 Feb 2026 09:49:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 09:46:01 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/fe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tolstoi Dostoyevski</title>
+      <link>http://localhost:1313/posts/tolstoi-dostoyevski/</link>
+      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/tolstoi-dostoyevski/</guid>
+      <description>Una reflexión existencial sobre el escándalo en la Iglesia a través de la tensión entre el purismo moral de Lev Tolstói y la fidelidad encarnada de Fiodor Dostoievski, bajo la luz de Romano Guardini.</description>
+    </item>
     <item>
       <title>Que Busca El Enemigo</title>
       <link>http://localhost:1313/posts/que-busca-el-enemigo/</link>
