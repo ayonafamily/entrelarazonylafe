@@ -115,7 +115,7 @@ Esta lógica conduce a una consecuencia grave: la autoridad ya no reside en el o
 
 
 ### Obediencia Canónica
-Desde el punto de vista **canónico**, la distinción entre **Magisterio Ordinario** y **Magisterio Extraordinario** no puede utilizarse como fundamento para restringir la obediencia debida al Romano Pontífice únicamente a los actos infalibles, como suele sostener la **:contentReference[oaicite:0]{index=0} (FSSPX)**.
+Desde el punto de vista **canónico**, la distinción entre **Magisterio Ordinario** y **Magisterio Extraordinario** no puede utilizarse como fundamento para restringir la obediencia debida al Romano Pontífice únicamente a los actos infalibles, como suele sostener la **FSSPX**.
 
 En el orden jurídico de la Iglesia, la **obediencia no se funda primariamente en la infalibilidad**, sino en la **potestad de jurisdicción**. El Papa posee, por derecho divino, potestad **suprema, plena, inmediata y universal** sobre toda la Iglesia, no solo cuando define infaliblemente, sino de modo ordinario en el gobierno, la disciplina y la organización eclesial. Esta potestad no es delegada, ni condicionada, ni opcional, y no depende del juicio previo de los súbditos sobre la corrección doctrinal de cada acto.
 
