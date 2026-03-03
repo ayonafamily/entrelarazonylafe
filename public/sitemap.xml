@@ -2,11 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/incoherencias-fsspx/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/autoridad-eclesial/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coherencia-l%C3%B3gica/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/derecho-can%C3%B3nico/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fsspx/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/papa/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
+    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dostoievski/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
@@ -14,7 +47,7 @@
     <loc>http://localhost:1313/tags/eclesiolog%C3%ADa/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/posts/tolstoi-dostoyevski/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fe/</loc>
@@ -32,16 +65,7 @@
     <loc>http://localhost:1313/tags/romano-guardini/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tolst%C3%B3i/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/tolstoi-dostoyevski/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/autoridad/</loc>
@@ -63,9 +87,6 @@
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/obediencia/</loc>
-    <lastmod>2026-02-27T18:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vaticano-ii/</loc>
@@ -132,9 +153,6 @@
     <lastmod>2026-02-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dilexit-nos/</loc>
-    <lastmod>2026-02-27T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
     <lastmod>2026-02-27T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/eucarist%C3%ADa/</loc>
@@ -234,9 +252,6 @@
     <lastmod>2026-02-24T10:02:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/espiritualidad/</loc>
-    <lastmod>2026-02-24T10:02:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fsspx/</loc>
     <lastmod>2026-02-24T10:02:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/idolatr%C3%ADa/</loc>
