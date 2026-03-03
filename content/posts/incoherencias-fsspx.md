@@ -95,7 +95,7 @@ La historia de la Iglesia confirma esta lógica. Crisis como el arrianismo, el C
 
 ## Otras Incoherencias
 
-### La mención al Papa
+### La mención al Papa _Una Cum_
 Desde el punto de vista de la **consistencia lógica**, puede afirmarse que la mención del Papa en el canon de la Misa constituye un reconocimiento explícito y verificable de su autoridad. En la tradición católica, nombrar al Romano Pontífice en la plegaria eucarística no es un gesto decorativo ni meramente simbólico: expresa comunión eclesial real y adhesión efectiva al principio de autoridad que él encarna.
 
 Sin embargo, esta afirmación entra en tensión cuando, al mismo tiempo, se rechaza de manera práctica esa misma autoridad en el momento en que el Papa decide no autorizar la ordenación de obispos. Si se reconoce su autoridad en el acto litúrgico más alto de la Iglesia, pero se la niega cuando se ejerce de forma concreta y vinculante, se incurre en una contradicción difícil de sostener.
