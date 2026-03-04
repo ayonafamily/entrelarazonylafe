@@ -2,43 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/incoherencias-fsspx/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crisis-de-la-iglesia/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/derecho-can%C3%B3nico/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fsspx/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hechos-consumados-desobediencia/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jurisprudencia/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modernismo/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/obediencia/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
+    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/incoherencias-fsspx/</loc>
     <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/autoridad-eclesial/</loc>
     <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/coherencia-l%C3%B3gica/</loc>
     <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/derecho-can%C3%B3nico/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fsspx/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/papa/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
-    <lastmod>2026-03-03T09:45:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
     <lastmod>2026-03-03T09:45:56-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dostoievski/</loc>
@@ -84,9 +99,6 @@
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/libre-examen/</loc>
-    <lastmod>2026-02-27T18:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/obediencia/</loc>
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vaticano-ii/</loc>

@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 03 Mar 2026 09:45:56 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 10:27:23 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crisis De La Iglesia</title>
+      <link>http://localhost:1313/tags/crisis-de-la-iglesia/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/crisis-de-la-iglesia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FSSPX</title>
+      <link>http://localhost:1313/tags/fsspx/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fsspx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jurisprudencia</title>
+      <link>http://localhost:1313/tags/jurisprudencia/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/jurisprudencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modernismo</title>
+      <link>http://localhost:1313/tags/modernismo/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/modernismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obediencia</title>
+      <link>http://localhost:1313/tags/obediencia/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/obediencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradicionalismo</title>
+      <link>http://localhost:1313/tags/tradicionalismo/</link>
+      <pubDate>Wed, 04 Mar 2026 10:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tradicionalismo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Autoridad Eclesial</title>
       <link>http://localhost:1313/tags/autoridad-eclesial/</link>
@@ -28,24 +70,10 @@
       <description></description>
     </item>
     <item>
-      <title>FSSPX</title>
-      <link>http://localhost:1313/tags/fsspx/</link>
-      <pubDate>Tue, 03 Mar 2026 09:45:56 -0500</pubDate>
-      <guid>http://localhost:1313/tags/fsspx/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Papa</title>
       <link>http://localhost:1313/tags/papa/</link>
       <pubDate>Tue, 03 Mar 2026 09:45:56 -0500</pubDate>
       <guid>http://localhost:1313/tags/papa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tradicionalismo</title>
-      <link>http://localhost:1313/tags/tradicionalismo/</link>
-      <pubDate>Tue, 03 Mar 2026 09:45:56 -0500</pubDate>
-      <guid>http://localhost:1313/tags/tradicionalismo/</guid>
       <description></description>
     </item>
     <item>
@@ -116,13 +144,6 @@
       <link>http://localhost:1313/tags/libre-examen/</link>
       <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
       <guid>http://localhost:1313/tags/libre-examen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Obediencia</title>
-      <link>http://localhost:1313/tags/obediencia/</link>
-      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
-      <guid>http://localhost:1313/tags/obediencia/</guid>
       <description></description>
     </item>
     <item>
