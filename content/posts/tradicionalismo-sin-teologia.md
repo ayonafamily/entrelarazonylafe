@@ -3,7 +3,7 @@ title: "Tradicionalismo Sin Teologia"
 date: 2026-03-07T18:51:15-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 # Descripción larga del artículo (SEO / metadata)
 description: "Un análisis crítico sobre el tradicionalismo católico extremo y su deriva hacia el subjetivismo. ¿Es la defensa de la tradición sin el Magisterio vivo una forma de libre examen protestante?"

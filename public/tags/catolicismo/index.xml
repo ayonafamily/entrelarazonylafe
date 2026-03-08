@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Catolicismo on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/catolicismo/</link>
+    <description>Recent content in Catolicismo on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 07 Mar 2026 18:51:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/catolicismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tradicionalismo Sin Teologia</title>
+      <link>http://localhost:1313/posts/tradicionalismo-sin-teologia/</link>
+      <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/tradicionalismo-sin-teologia/</guid>
+      <description>Un análisis crítico sobre el tradicionalismo católico extremo y su deriva hacia el subjetivismo. ¿Es la defensa de la tradición sin el Magisterio vivo una forma de libre examen protestante?</description>
+    </item>
+    <item>
+      <title>El Mito De Procusto Y La Realidad</title>
+      <link>http://localhost:1313/posts/el-mito-de-procusto-y-la-realidad/</link>
+      <pubDate>Fri, 06 Mar 2026 11:23:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/el-mito-de-procusto-y-la-realidad/</guid>
+      <description>Un análisis crítico sobre la eclesiología de la FSSPX a través del mito del lecho de Procusto. Explora la rigidez institucional, el subjetivismo en la Tradición y la riqueza de los 24 ritos de la Iglesia Católica.</description>
+    </item>
+  </channel>
+</rss>

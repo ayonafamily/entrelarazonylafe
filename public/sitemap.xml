@@ -3,24 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/catolicismo/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cr%C3%ADtica/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fsspx/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/magisterio/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tradicionalismo-sin-teologia/</loc>
+    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apolog%C3%A9tica/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infalibilidad/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/premisas-sedevacantismo/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sedevacantismo/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tradicionalismo/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vaticano-ii/</loc>
+    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/el-mito-de-procusto-y-la-realidad/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mito-de-procusto/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nietzsche/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ritos-orientales/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradici%C3%B3n/</loc>
+    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/crisis-de-la-iglesia/</loc>
     <lastmod>2026-03-04T10:27:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/derecho-can%C3%B3nico/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fsspx/</loc>
     <lastmod>2026-03-04T10:27:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hechos-consumados-desobediencia/</loc>
@@ -33,15 +90,6 @@
     <lastmod>2026-03-04T10:27:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/obediencia/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
     <lastmod>2026-03-04T10:27:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/incoherencias-fsspx/</loc>
@@ -66,9 +114,6 @@
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fe/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/iglesia/</loc>
@@ -101,22 +146,13 @@
     <loc>http://localhost:1313/tags/libre-examen/</loc>
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vaticano-ii/</loc>
-    <lastmod>2026-02-27T18:42:27-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/liturgia/</loc>
     <lastmod>2026-02-27T14:08:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/liturgia/</loc>
     <lastmod>2026-02-27T14:08:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/magisterio/</loc>
-    <lastmod>2026-02-27T14:08:50-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/misa-tradicional/</loc>
-    <lastmod>2026-02-27T14:08:50-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradici%C3%B3n/</loc>
     <lastmod>2026-02-27T14:08:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tradicio-absolutizacion-idealogizacion/</loc>
@@ -562,9 +598,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/lutero/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/apolog%C3%A9tica/</loc>
-    <lastmod>2026-02-12T20:29:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/dulzura-evangelizar/</loc>
     <lastmod>2026-02-12T20:29:55-05:00</lastmod>
