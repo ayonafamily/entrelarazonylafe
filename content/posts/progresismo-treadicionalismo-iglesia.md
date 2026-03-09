@@ -1,5 +1,5 @@
 ---
-title: "Progresismo Treadicionalismo Iglesia"
+title: "Progresismo, Tradicionalismo, Iglesia"
 date: 2026-03-09T10:06:37-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
@@ -39,7 +39,7 @@ images:
 
 Y es que, ante algunas observaciones que se me han planteado, debo reconocer que he dedicado bastante espacio al tema de la Fraternidad Sacerdotal San Pío X. La razón es sencilla: durante varios años estuve vinculado a ese ambiente. Mi acercamiento a ellos no nació de un capricho ideológico, sino de una reacción frente a problemas que percibía dentro del ala progresista de la Iglesia.
 
-## Un antecedente personal: mi experiencia con el modernismo
+# Un antecedente personal: mi experiencia con el modernismo
 
 Mi primer contacto con lo que hoy se llamaría modernismo dentro de la Iglesia ocurrió cuando tenía entre 16 y 18 años, a finales de la década de 1970, mientras participaba activamente en una parroquia.
 
@@ -53,7 +53,7 @@ El resultado de ese clima fue significativo. En mi caso, terminé haciéndome ev
 
 Esa experiencia dejó una huella profunda. Con el paso de los años, comprendería mejor que ciertas reacciones posteriores —como mi acercamiento al tradicionalismo— también estaban marcadas por esa memoria de desorden doctrinal y litúrgico vivida en mi juventud.
 
-# Del progresismo al tradicionalismo, y del tradicionalismo a la Iglesia
+## Del progresismo al tradicionalismo, y del tradicionalismo a la Iglesia
 
 Ya de vuelta a la Iglesia Católica, encontré en la parroquía que asistía, un creciente desprecio por lo sagrado, que en muchos casos se manifestaba como irreverencia. Era común encontrar cánticos de origen protestante dentro de la misa e incluso en la adoración eucarística. También observé el surgimiento de camarillas dentro de las parroquias que, en determinados momentos, parecían colocarse por encima de los propios sacerdotes. A esto se sumaba la falta de respeto en la forma de vestir para asistir a la misa: personas que acudían con shorts u otras prendas claramente inadecuadas.
 
