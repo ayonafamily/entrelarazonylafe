@@ -3,7 +3,7 @@ title: "Purificacion y Providencia"
 date: 2026-03-11T11:16:11-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
-draft: true
+draft: false
 
 # Descripción larga del artículo (SEO / metadata)
 description: "Una reflexión sobre la autoridad papal y las tensiones eclesiales contemporáneas. A través de la figura de Caifás y la carta a Éfeso, se analiza cómo las crisis y los comisariados pueden ser procesos de purificación para recuperar el 'primer amor'."
