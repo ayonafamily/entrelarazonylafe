@@ -1,5 +1,5 @@
 ---
-title: "Es_abilidad Sociedad Liquida"
+title: "Estabilidad y Sociedad Liquida"
 date: 2026-03-14T10:20:55-05:00
 author: "Jorge Luis Ayona Inglis"
 ShowReadingTime: true
