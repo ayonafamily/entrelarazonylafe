@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crítica Cultural on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/categories/cr%C3%ADtica-cultural/</link>
+    <description>Recent content in Crítica Cultural on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 15 Mar 2026 17:52:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cr%C3%ADtica-cultural/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cultura Light y la Superficidad Digital</title>
+      <link>http://localhost:1313/posts/cultura-light-superficidad-digital/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cultura-light-superficidad-digital/</guid>
+      <description>Una crítica a la superficialidad digital y la &amp;#39;Cultura Light&amp;#39; analizada desde la perspectiva de Enrique Rojas y la importancia de la lectura profunda frente a la inmediatez de las redes sociales.</description>
+    </item>
+  </channel>
+</rss>

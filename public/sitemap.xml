@@ -3,10 +3,184 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cr%C3%ADtica-cultural/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cultura-digital/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enrique-rojas/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/filosof%C3%ADa/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cultura-light-superficidad-digital/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lectura-profunda/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pensamiento/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resistencia-intelectual/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
+    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/antropolog%C3%ADa-cristiana/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/espiritualidad/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/estabilidad-sociedad-liquida/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fidelidad/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/liturgia-de-las-horas/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mandamientos/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modernidad-l%C3%ADquida/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reflexiones-teol%C3%B3gicas/</loc>
+    <lastmod>2026-03-14T10:20:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bertrand-russell/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/catequesis/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/epistemolog%C3%ADa/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/experiencia-religiosa/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fenomenolog%C3%ADa/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pensamiento-cristiano/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/revelaci%C3%B3n/</loc>
+    <lastmod>2026-03-13T09:39:30-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/discernimiento/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/instituciones/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kierkegaard/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/la-armadura-de-saul/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/testimonio/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vida-de-fe/</loc>
+    <lastmod>2026-03-12T09:06:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/actualidad/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apocalipsis/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/papa-francisco/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primado-de-pedro/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/providencia/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/purificacion-providencia/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/s%C3%ADnodo-alem%C3%A1n/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
+    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/comunidad/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/existencialismo/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hegel/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/instituci%C3%B3n-persona-y-vida-cristiana/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pastoral/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vida-cristiana/</loc>
+    <lastmod>2026-03-11T10:28:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/benedicto-xvi/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fsspx/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hermen%C3%A9utica-de-la-continuidad/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/liturgia/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/progresismo-treadicionalismo-iglesia/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/testimonios/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vaticano-ii/</loc>
+    <lastmod>2026-03-09T10:06:37-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/catolicismo/</loc>
     <lastmod>2026-03-07T18:51:15-05:00</lastmod>
@@ -14,25 +188,7 @@
     <loc>http://localhost:1313/tags/cr%C3%ADtica/</loc>
     <lastmod>2026-03-07T18:51:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fsspx/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/magisterio/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
-    <lastmod>2026-03-07T18:51:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradicionalismo/</loc>
     <lastmod>2026-03-07T18:51:15-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tradicionalismo-sin-teologia/</loc>
@@ -53,13 +209,7 @@
     <loc>http://localhost:1313/categories/tradicionalismo/</loc>
     <lastmod>2026-03-07T17:43:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vaticano-ii/</loc>
-    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/el-mito-de-procusto-y-la-realidad/</loc>
-    <lastmod>2026-03-06T11:23:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
     <lastmod>2026-03-06T11:23:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mito-de-procusto/</loc>
@@ -107,9 +257,6 @@
     <loc>http://localhost:1313/tags/dostoievski/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eclesiolog%C3%ADa/</loc>
-    <lastmod>2026-03-02T09:46:01-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/tolstoi-dostoyevski/</loc>
     <lastmod>2026-03-02T09:46:01-05:00</lastmod>
   </url><url>
@@ -137,9 +284,6 @@
     <loc>http://localhost:1313/posts/del-discernimiento-a-la-ruptura/</loc>
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/discernimiento/</loc>
-    <lastmod>2026-02-27T18:42:27-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/iglesia/</loc>
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
@@ -147,9 +291,6 @@
     <lastmod>2026-02-27T18:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/liturgia/</loc>
-    <lastmod>2026-02-27T14:08:50-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/liturgia/</loc>
     <lastmod>2026-02-27T14:08:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/misa-tradicional/</loc>
@@ -165,9 +306,6 @@
     <lastmod>2026-02-27T10:54:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/filosof%C3%ADa-pol%C3%ADtica/</loc>
-    <lastmod>2026-02-27T10:54:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kierkegaard/</loc>
     <lastmod>2026-02-27T10:54:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/logos/</loc>
@@ -215,9 +353,6 @@
     <loc>http://localhost:1313/tags/sacrosanctum-concilium/</loc>
     <lastmod>2026-02-27T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/benedicto-xvi/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/cultura/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
@@ -225,9 +360,6 @@
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/modernidad/</loc>
-    <lastmod>2026-02-26T11:33:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pensamiento-cristiano/</loc>
     <lastmod>2026-02-26T11:33:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/semblanza-romano-guardini/</loc>
@@ -297,9 +429,6 @@
     <lastmod>2026-02-24T10:02:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/eclesial/</loc>
-    <lastmod>2026-02-24T10:02:52-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/espiritualidad/</loc>
     <lastmod>2026-02-24T10:02:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/idolatr%C3%ADa/</loc>
@@ -374,9 +503,6 @@
     <loc>http://localhost:1313/categories/reflexi%C3%B3n-b%C3%ADblica/</loc>
     <lastmod>2026-02-22T09:47:16-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/actualidad/</loc>
-    <lastmod>2026-02-21T09:30:38-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/leon-asia/</loc>
     <lastmod>2026-02-21T09:30:38-05:00</lastmod>
   </url><url>
@@ -413,9 +539,6 @@
     <loc>http://localhost:1313/tags/pascua/</loc>
     <lastmod>2026-02-20T19:24:08-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vida-cristiana/</loc>
-    <lastmod>2026-02-20T19:24:08-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/conversi%C3%B3n/</loc>
     <lastmod>2026-02-20T09:49:27-05:00</lastmod>
   </url><url>
@@ -438,9 +561,6 @@
     <lastmod>2026-02-20T09:49:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/comuni%C3%B3n/</loc>
-    <lastmod>2026-02-19T20:47:36-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</loc>
     <lastmod>2026-02-19T20:47:36-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/laicado/</loc>
@@ -527,9 +647,6 @@
     <loc>http://localhost:1313/categories/reflexiones/</loc>
     <lastmod>2026-02-17T09:03:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/testimonios/</loc>
-    <lastmod>2026-02-17T09:03:12-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/discernimiento/</loc>
     <lastmod>2026-02-17T06:11:05-05:00</lastmod>
   </url><url>
@@ -584,9 +701,6 @@
     <loc>http://localhost:1313/posts/camus-el-extranjero/</loc>
     <lastmod>2026-02-14T19:06:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/existencialismo/</loc>
-    <lastmod>2026-02-14T19:06:32-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/literatura/</loc>
     <lastmod>2026-02-14T19:06:32-05:00</lastmod>
   </url><url>
@@ -606,9 +720,6 @@
     <lastmod>2026-02-12T20:29:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/evangelizaci%C3%B3n/</loc>
-    <lastmod>2026-02-12T20:29:55-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/testimonio/</loc>
     <lastmod>2026-02-12T20:29:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cuando-dios-no-retira-el-cuchillo/</loc>
@@ -654,9 +765,6 @@
     <lastmod>2026-02-08T10:24:46-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/educaci%C3%B3n/</loc>
-    <lastmod>2026-02-07T23:45:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/filosof%C3%ADa/</loc>
     <lastmod>2026-02-07T23:45:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lectura/</loc>

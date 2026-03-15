@@ -9,22 +9,85 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 07 Mar 2026 18:51:15 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:52:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eclesiología</title>
-      <link>http://localhost:1313/categories/eclesiolog%C3%ADa/</link>
-      <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
-      <guid>http://localhost:1313/categories/eclesiolog%C3%ADa/</guid>
+      <title>Crítica Cultural</title>
+      <link>http://localhost:1313/categories/cr%C3%ADtica-cultural/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/categories/cr%C3%ADtica-cultural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pensamiento</title>
+      <link>http://localhost:1313/categories/pensamiento/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/categories/pensamiento/</guid>
       <description></description>
     </item>
     <item>
       <title>Teología</title>
       <link>http://localhost:1313/categories/teolog%C3%ADa/</link>
-      <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
       <guid>http://localhost:1313/categories/teolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espiritualidad</title>
+      <link>http://localhost:1313/categories/espiritualidad/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/categories/espiritualidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexiones Teológicas</title>
+      <link>http://localhost:1313/categories/reflexiones-teol%C3%B3gicas/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/categories/reflexiones-teol%C3%B3gicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epistemología</title>
+      <link>http://localhost:1313/categories/epistemolog%C3%ADa/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/categories/epistemolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actualidad</title>
+      <link>http://localhost:1313/categories/actualidad/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/categories/actualidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclesiología</title>
+      <link>http://localhost:1313/categories/eclesiolog%C3%ADa/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/categories/eclesiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pastoral</title>
+      <link>http://localhost:1313/categories/pastoral/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/categories/pastoral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testimonios</title>
+      <link>http://localhost:1313/categories/testimonios/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/categories/testimonios/</guid>
       <description></description>
     </item>
     <item>
@@ -32,13 +95,6 @@
       <link>http://localhost:1313/categories/tradicionalismo/</link>
       <pubDate>Sat, 07 Mar 2026 17:43:50 -0500</pubDate>
       <guid>http://localhost:1313/categories/tradicionalismo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
-      <pubDate>Fri, 06 Mar 2026 11:23:28 -0500</pubDate>
-      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -133,13 +189,6 @@
       <description></description>
     </item>
     <item>
-      <title>Espiritualidad</title>
-      <link>http://localhost:1313/categories/espiritualidad/</link>
-      <pubDate>Tue, 24 Feb 2026 10:02:52 -0500</pubDate>
-      <guid>http://localhost:1313/categories/espiritualidad/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Estudios Bíblicos</title>
       <link>http://localhost:1313/categories/estudios-b%C3%ADblicos/</link>
       <pubDate>Mon, 23 Feb 2026 07:45:33 -0500</pubDate>
@@ -172,13 +221,6 @@
       <link>http://localhost:1313/categories/reflexi%C3%B3n-b%C3%ADblica/</link>
       <pubDate>Sun, 22 Feb 2026 09:47:16 -0500</pubDate>
       <guid>http://localhost:1313/categories/reflexi%C3%B3n-b%C3%ADblica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Actualidad</title>
-      <link>http://localhost:1313/categories/actualidad/</link>
-      <pubDate>Sat, 21 Feb 2026 09:30:38 -0500</pubDate>
-      <guid>http://localhost:1313/categories/actualidad/</guid>
       <description></description>
     </item>
     <item>
@@ -249,13 +291,6 @@
       <link>http://localhost:1313/categories/reflexiones/</link>
       <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
       <guid>http://localhost:1313/categories/reflexiones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testimonios</title>
-      <link>http://localhost:1313/categories/testimonios/</link>
-      <pubDate>Tue, 17 Feb 2026 09:03:12 -0500</pubDate>
-      <guid>http://localhost:1313/categories/testimonios/</guid>
       <description></description>
     </item>
     <item>

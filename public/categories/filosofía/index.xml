@@ -9,10 +9,31 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 06 Mar 2026 11:23:28 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:39:30 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/filosof%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del Conocimiento Descripivo al Conocimieno vivido</title>
+      <link>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</guid>
+      <description>Un análisis filosófico sobre la transición del conocimiento descriptivo de Bertrand Russell a la experiencia de fe y la revelación vivida.</description>
+    </item>
+    <item>
+      <title>La Armadura De Saul</title>
+      <link>http://localhost:1313/posts/la-armadura-de-saul/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/la-armadura-de-saul/</guid>
+      <description>Reflexión sobre la tensión entre la libertad individual y las estructuras religiosas a través del episodio bíblico de David y Saúl. Un análisis sobre la diversidad de carismas y la importancia de una relación personal con Dios más allá del formalismo institucional.</description>
+    </item>
+    <item>
+      <title>Institución Persona Y Vida Cristiana</title>
+      <link>http://localhost:1313/posts/instituci%C3%B3n-persona-y-vida-cristiana/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/instituci%C3%B3n-persona-y-vida-cristiana/</guid>
+      <description>Una reflexión existencial sobre la tensión entre las estructuras institucionales eclesiales y la vida concreta de la persona. A través de la óptica de Hegel y Kierkegaard, se analiza el equilibrio entre la organización parroquial y la caridad evangélica.</description>
+    </item>
     <item>
       <title>El Mito De Procusto Y La Realidad</title>
       <link>http://localhost:1313/posts/el-mito-de-procusto-y-la-realidad/</link>

@@ -9,10 +9,17 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 07 Feb 2026 23:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:52:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/filosof%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cultura Light y la Superficidad Digital</title>
+      <link>http://localhost:1313/posts/cultura-light-superficidad-digital/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cultura-light-superficidad-digital/</guid>
+      <description>Una crítica a la superficialidad digital y la &amp;#39;Cultura Light&amp;#39; analizada desde la perspectiva de Enrique Rojas y la importancia de la lectura profunda frente a la inmediatez de las redes sociales.</description>
+    </item>
     <item>
       <title>Manifiesto de la Resistencia Intelectual: Por qué no escribo para todos</title>
       <link>http://localhost:1313/manifiesto/</link>

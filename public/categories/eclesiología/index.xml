@@ -9,10 +9,24 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 07 Mar 2026 18:51:15 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 11:16:11 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/eclesiolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purificacion y Providencia</title>
+      <link>http://localhost:1313/posts/purificacion-providencia/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/purificacion-providencia/</guid>
+      <description>Una reflexión sobre la autoridad papal y las tensiones eclesiales contemporáneas. A través de la figura de Caifás y la carta a Éfeso, se analiza cómo las crisis y los comisariados pueden ser procesos de purificación para recuperar el &amp;#39;primer amor&amp;#39;.</description>
+    </item>
+    <item>
+      <title>Progresismo, Tradicionalismo, Iglesia</title>
+      <link>http://localhost:1313/posts/progresismo-treadicionalismo-iglesia/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/progresismo-treadicionalismo-iglesia/</guid>
+      <description>Un testimonio personal sobre el tránsito entre el progresismo eclesial y el tradicionalismo de la FSSPX, analizando la búsqueda de lo sagrado y el retorno a la comunión con la Iglesia bajo la hermenéutica de la continuidad.</description>
+    </item>
     <item>
       <title>Tradicionalismo Sin Teologia</title>
       <link>http://localhost:1313/posts/tradicionalismo-sin-teologia/</link>

@@ -9,10 +9,31 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 24 Feb 2026 10:02:52 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 10:20:55 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/espiritualidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estabilidad y Sociedad Liquida</title>
+      <link>http://localhost:1313/posts/estabilidad-sociedad-liquida/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/estabilidad-sociedad-liquida/</guid>
+      <description>Una reflexión profunda sobre la fidelidad divina y la estabilidad de los mandamientos frente a la cultura del &amp;#39;amor líquido&amp;#39; y el relativismo moral contemporáneo.</description>
+    </item>
+    <item>
+      <title>La Armadura De Saul</title>
+      <link>http://localhost:1313/posts/la-armadura-de-saul/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/la-armadura-de-saul/</guid>
+      <description>Reflexión sobre la tensión entre la libertad individual y las estructuras religiosas a través del episodio bíblico de David y Saúl. Un análisis sobre la diversidad de carismas y la importancia de una relación personal con Dios más allá del formalismo institucional.</description>
+    </item>
+    <item>
+      <title>Institución Persona Y Vida Cristiana</title>
+      <link>http://localhost:1313/posts/instituci%C3%B3n-persona-y-vida-cristiana/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/instituci%C3%B3n-persona-y-vida-cristiana/</guid>
+      <description>Una reflexión existencial sobre la tensión entre las estructuras institucionales eclesiales y la vida concreta de la persona. A través de la óptica de Hegel y Kierkegaard, se analiza el equilibrio entre la organización parroquial y la caridad evangélica.</description>
+    </item>
     <item>
       <title>Corazon Puro e Idolatria Interior</title>
       <link>http://localhost:1313/posts/corazon-puro-idolatria-interior/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Catequesis on Entre La Razón Y La Fe</title>
+    <link>http://localhost:1313/tags/catequesis/</link>
+    <description>Recent content in Catequesis on Entre La Razón Y La Fe</description>
+    <image>
+      <title>Entre La Razón Y La Fe</title>
+      <url>http://localhost:1313/cabecera.webp</url>
+      <link>http://localhost:1313/cabecera.webp</link>
+    </image>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Mar 2026 09:39:30 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/catequesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del Conocimiento Descripivo al Conocimieno vivido</title>
+      <link>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</guid>
+      <description>Un análisis filosófico sobre la transición del conocimiento descriptivo de Bertrand Russell a la experiencia de fe y la revelación vivida.</description>
+    </item>
+  </channel>
+</rss>

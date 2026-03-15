@@ -9,10 +9,17 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 26 Feb 2026 11:33:48 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:39:30 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/pensamiento-cristiano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del Conocimiento Descripivo al Conocimieno vivido</title>
+      <link>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/del-conocimiento-a-la-revelacion/</guid>
+      <description>Un análisis filosófico sobre la transición del conocimiento descriptivo de Bertrand Russell a la experiencia de fe y la revelación vivida.</description>
+    </item>
     <item>
       <title>Semblanza de Romano Guardini</title>
       <link>http://localhost:1313/posts/semblanza-romano-guardini/</link>

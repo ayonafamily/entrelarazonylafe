@@ -9,10 +9,276 @@
       <url>http://localhost:1313/cabecera.webp</url>
       <link>http://localhost:1313/cabecera.webp</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 07 Mar 2026 18:51:15 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:52:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cultura Digital</title>
+      <link>http://localhost:1313/tags/cultura-digital/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/cultura-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enrique Rojas</title>
+      <link>http://localhost:1313/tags/enrique-rojas/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/enrique-rojas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/tags/filosof%C3%ADa/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lectura Profunda</title>
+      <link>http://localhost:1313/tags/lectura-profunda/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/lectura-profunda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resistencia Intelectual</title>
+      <link>http://localhost:1313/tags/resistencia-intelectual/</link>
+      <pubDate>Sun, 15 Mar 2026 17:52:44 -0500</pubDate>
+      <guid>http://localhost:1313/tags/resistencia-intelectual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Antropología Cristiana</title>
+      <link>http://localhost:1313/tags/antropolog%C3%ADa-cristiana/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/antropolog%C3%ADa-cristiana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fidelidad</title>
+      <link>http://localhost:1313/tags/fidelidad/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fidelidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liturgia De Las Horas</title>
+      <link>http://localhost:1313/tags/liturgia-de-las-horas/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/liturgia-de-las-horas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mandamientos</title>
+      <link>http://localhost:1313/tags/mandamientos/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/mandamientos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modernidad Líquida</title>
+      <link>http://localhost:1313/tags/modernidad-l%C3%ADquida/</link>
+      <pubDate>Sat, 14 Mar 2026 10:20:55 -0500</pubDate>
+      <guid>http://localhost:1313/tags/modernidad-l%C3%ADquida/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bertrand Russell</title>
+      <link>http://localhost:1313/tags/bertrand-russell/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/bertrand-russell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Catequesis</title>
+      <link>http://localhost:1313/tags/catequesis/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/catequesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experiencia Religiosa</title>
+      <link>http://localhost:1313/tags/experiencia-religiosa/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/experiencia-religiosa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fenomenología</title>
+      <link>http://localhost:1313/tags/fenomenolog%C3%ADa/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fenomenolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pensamiento Cristiano</title>
+      <link>http://localhost:1313/tags/pensamiento-cristiano/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/pensamiento-cristiano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Revelación</title>
+      <link>http://localhost:1313/tags/revelaci%C3%B3n/</link>
+      <pubDate>Fri, 13 Mar 2026 09:39:30 -0500</pubDate>
+      <guid>http://localhost:1313/tags/revelaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discernimiento</title>
+      <link>http://localhost:1313/tags/discernimiento/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/discernimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instituciones</title>
+      <link>http://localhost:1313/tags/instituciones/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/instituciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kierkegaard</title>
+      <link>http://localhost:1313/tags/kierkegaard/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/kierkegaard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testimonio</title>
+      <link>http://localhost:1313/tags/testimonio/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/testimonio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vida De Fe</title>
+      <link>http://localhost:1313/tags/vida-de-fe/</link>
+      <pubDate>Thu, 12 Mar 2026 09:06:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/vida-de-fe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apocalipsis</title>
+      <link>http://localhost:1313/tags/apocalipsis/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/apocalipsis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papa Francisco</title>
+      <link>http://localhost:1313/tags/papa-francisco/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/papa-francisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Primado De Pedro</title>
+      <link>http://localhost:1313/tags/primado-de-pedro/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/primado-de-pedro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Providencia</title>
+      <link>http://localhost:1313/tags/providencia/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/providencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sínodo Alemán</title>
+      <link>http://localhost:1313/tags/s%C3%ADnodo-alem%C3%A1n/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/s%C3%ADnodo-alem%C3%A1n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradicionalismo</title>
+      <link>http://localhost:1313/tags/tradicionalismo/</link>
+      <pubDate>Wed, 11 Mar 2026 11:16:11 -0500</pubDate>
+      <guid>http://localhost:1313/tags/tradicionalismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comunidad</title>
+      <link>http://localhost:1313/tags/comunidad/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/comunidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclesiología</title>
+      <link>http://localhost:1313/tags/eclesiolog%C3%ADa/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/eclesiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Existencialismo</title>
+      <link>http://localhost:1313/tags/existencialismo/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/existencialismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hegel</title>
+      <link>http://localhost:1313/tags/hegel/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/hegel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vida Cristiana</title>
+      <link>http://localhost:1313/tags/vida-cristiana/</link>
+      <pubDate>Wed, 11 Mar 2026 10:28:27 -0500</pubDate>
+      <guid>http://localhost:1313/tags/vida-cristiana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benedicto XVI</title>
+      <link>http://localhost:1313/tags/benedicto-xvi/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/benedicto-xvi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FSSPX</title>
+      <link>http://localhost:1313/tags/fsspx/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fsspx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hermenéutica De La Continuidad</title>
+      <link>http://localhost:1313/tags/hermen%C3%A9utica-de-la-continuidad/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/hermen%C3%A9utica-de-la-continuidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iglesia Católica</title>
+      <link>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liturgia</title>
+      <link>http://localhost:1313/tags/liturgia/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/liturgia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaticano II</title>
+      <link>http://localhost:1313/tags/vaticano-ii/</link>
+      <pubDate>Mon, 09 Mar 2026 10:06:37 -0500</pubDate>
+      <guid>http://localhost:1313/tags/vaticano-ii/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Catolicismo</title>
       <link>http://localhost:1313/tags/catolicismo/</link>
@@ -28,24 +294,10 @@
       <description></description>
     </item>
     <item>
-      <title>FSSPX</title>
-      <link>http://localhost:1313/tags/fsspx/</link>
-      <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
-      <guid>http://localhost:1313/tags/fsspx/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Magisterio</title>
       <link>http://localhost:1313/tags/magisterio/</link>
       <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
       <guid>http://localhost:1313/tags/magisterio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tradicionalismo</title>
-      <link>http://localhost:1313/tags/tradicionalismo/</link>
-      <pubDate>Sat, 07 Mar 2026 18:51:15 -0500</pubDate>
-      <guid>http://localhost:1313/tags/tradicionalismo/</guid>
       <description></description>
     </item>
     <item>
@@ -67,13 +319,6 @@
       <link>http://localhost:1313/tags/sedevacantismo/</link>
       <pubDate>Sat, 07 Mar 2026 17:43:50 -0500</pubDate>
       <guid>http://localhost:1313/tags/sedevacantismo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vaticano II</title>
-      <link>http://localhost:1313/tags/vaticano-ii/</link>
-      <pubDate>Sat, 07 Mar 2026 17:43:50 -0500</pubDate>
-      <guid>http://localhost:1313/tags/vaticano-ii/</guid>
       <description></description>
     </item>
     <item>
@@ -161,13 +406,6 @@
       <description></description>
     </item>
     <item>
-      <title>Eclesiología</title>
-      <link>http://localhost:1313/tags/eclesiolog%C3%ADa/</link>
-      <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
-      <guid>http://localhost:1313/tags/eclesiolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Fe</title>
       <link>http://localhost:1313/tags/fe/</link>
       <pubDate>Mon, 02 Mar 2026 09:46:01 -0500</pubDate>
@@ -210,24 +448,10 @@
       <description></description>
     </item>
     <item>
-      <title>Discernimiento</title>
-      <link>http://localhost:1313/tags/discernimiento/</link>
-      <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
-      <guid>http://localhost:1313/tags/discernimiento/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Libre Examen</title>
       <link>http://localhost:1313/tags/libre-examen/</link>
       <pubDate>Fri, 27 Feb 2026 18:42:27 -0500</pubDate>
       <guid>http://localhost:1313/tags/libre-examen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Liturgia</title>
-      <link>http://localhost:1313/tags/liturgia/</link>
-      <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
-      <guid>http://localhost:1313/tags/liturgia/</guid>
       <description></description>
     </item>
     <item>
@@ -242,13 +466,6 @@
       <link>http://localhost:1313/tags/unidad-de-la-iglesia/</link>
       <pubDate>Fri, 27 Feb 2026 14:08:50 -0500</pubDate>
       <guid>http://localhost:1313/tags/unidad-de-la-iglesia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kierkegaard</title>
-      <link>http://localhost:1313/tags/kierkegaard/</link>
-      <pubDate>Fri, 27 Feb 2026 10:54:57 -0500</pubDate>
-      <guid>http://localhost:1313/tags/kierkegaard/</guid>
       <description></description>
     </item>
     <item>
@@ -336,13 +553,6 @@
       <description></description>
     </item>
     <item>
-      <title>Benedicto XVI</title>
-      <link>http://localhost:1313/tags/benedicto-xvi/</link>
-      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
-      <guid>http://localhost:1313/tags/benedicto-xvi/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ética</title>
       <link>http://localhost:1313/tags/%C3%A9tica/</link>
       <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
@@ -354,13 +564,6 @@
       <link>http://localhost:1313/tags/modernidad/</link>
       <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
       <guid>http://localhost:1313/tags/modernidad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pensamiento Cristiano</title>
-      <link>http://localhost:1313/tags/pensamiento-cristiano/</link>
-      <pubDate>Thu, 26 Feb 2026 11:33:48 -0500</pubDate>
-      <guid>http://localhost:1313/tags/pensamiento-cristiano/</guid>
       <description></description>
     </item>
     <item>
@@ -623,13 +826,6 @@
       <description></description>
     </item>
     <item>
-      <title>Vida Cristiana</title>
-      <link>http://localhost:1313/tags/vida-cristiana/</link>
-      <pubDate>Fri, 20 Feb 2026 19:24:08 -0500</pubDate>
-      <guid>http://localhost:1313/tags/vida-cristiana/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Conversión</title>
       <link>http://localhost:1313/tags/conversi%C3%B3n/</link>
       <pubDate>Fri, 20 Feb 2026 09:49:27 -0500</pubDate>
@@ -669,13 +865,6 @@
       <link>http://localhost:1313/tags/comuni%C3%B3n/</link>
       <pubDate>Thu, 19 Feb 2026 20:47:36 -0500</pubDate>
       <guid>http://localhost:1313/tags/comuni%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iglesia Católica</title>
-      <link>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</link>
-      <pubDate>Thu, 19 Feb 2026 20:47:36 -0500</pubDate>
-      <guid>http://localhost:1313/tags/iglesia-cat%C3%B3lica/</guid>
       <description></description>
     </item>
     <item>
@@ -882,13 +1071,6 @@
       <description></description>
     </item>
     <item>
-      <title>Existencialismo</title>
-      <link>http://localhost:1313/tags/existencialismo/</link>
-      <pubDate>Sat, 14 Feb 2026 19:06:32 -0500</pubDate>
-      <guid>http://localhost:1313/tags/existencialismo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Literatura</title>
       <link>http://localhost:1313/tags/literatura/</link>
       <pubDate>Sat, 14 Feb 2026 19:06:32 -0500</pubDate>
@@ -914,13 +1096,6 @@
       <link>http://localhost:1313/tags/evangelizaci%C3%B3n/</link>
       <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
       <guid>http://localhost:1313/tags/evangelizaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testimonio</title>
-      <link>http://localhost:1313/tags/testimonio/</link>
-      <pubDate>Thu, 12 Feb 2026 20:29:55 -0500</pubDate>
-      <guid>http://localhost:1313/tags/testimonio/</guid>
       <description></description>
     </item>
     <item>
@@ -991,13 +1166,6 @@
       <link>http://localhost:1313/tags/educaci%C3%B3n/</link>
       <pubDate>Sat, 07 Feb 2026 23:45:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/educaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/tags/filosof%C3%ADa/</link>
-      <pubDate>Sat, 07 Feb 2026 23:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
