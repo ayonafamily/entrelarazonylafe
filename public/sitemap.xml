@@ -2,11 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/apolog%C3%A9tica/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crisis-de-la-iglesia/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/esperanza-cristiana/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fe-ante-crisis-eclesial/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/historia-de-la-iglesia/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indefectibilidad/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sagrada-escritura/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
+    <lastmod>2026-03-15T21:59:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cr%C3%ADtica-cultural/</loc>
     <lastmod>2026-03-15T17:52:44-05:00</lastmod>
@@ -15,9 +48,6 @@
     <lastmod>2026-03-15T17:52:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/enrique-rojas/</loc>
-    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-15T17:52:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/filosof%C3%ADa/</loc>
@@ -33,12 +63,6 @@
     <lastmod>2026-03-15T17:52:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resistencia-intelectual/</loc>
-    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-15T17:52:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/teolog%C3%ADa/</loc>
     <lastmod>2026-03-15T17:52:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/antropolog%C3%ADa-cristiana/</loc>
@@ -116,9 +140,6 @@
     <loc>http://localhost:1313/tags/apocalipsis/</loc>
     <lastmod>2026-03-11T11:16:11-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/eclesiolog%C3%ADa/</loc>
-    <lastmod>2026-03-11T11:16:11-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/papa-francisco/</loc>
     <lastmod>2026-03-11T11:16:11-05:00</lastmod>
   </url><url>
@@ -194,9 +215,6 @@
     <loc>http://localhost:1313/posts/tradicionalismo-sin-teologia/</loc>
     <lastmod>2026-03-07T18:51:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/apolog%C3%A9tica/</loc>
-    <lastmod>2026-03-07T17:43:50-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/infalibilidad/</loc>
     <lastmod>2026-03-07T17:43:50-05:00</lastmod>
   </url><url>
@@ -223,9 +241,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/tradici%C3%B3n/</loc>
     <lastmod>2026-03-06T11:23:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/crisis-de-la-iglesia/</loc>
-    <lastmod>2026-03-04T10:27:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/derecho-can%C3%B3nico/</loc>
     <lastmod>2026-03-04T10:27:23-05:00</lastmod>
@@ -450,9 +465,6 @@
     <lastmod>2026-02-23T10:20:37-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/estudios-b%C3%ADblicos/</loc>
-    <lastmod>2026-02-23T07:45:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/historia-de-la-iglesia/</loc>
     <lastmod>2026-02-23T07:45:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/patr%C3%ADstica/</loc>
