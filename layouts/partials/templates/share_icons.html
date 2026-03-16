@@ -1,0 +1,12 @@
+{{- $share := .Site.Params.shareIcons }}
+{{- if $share }}
+    {{- range $share }}
+        {{- if eq .name "whatsapp" }}
+            {{- partial "share-whatsapp.html" $.Page }}
+        {{- end }}
+    {{- end }}
+{{- else }}
+    {{- /* Fallback por si no hay lista configurada pero quieres forzar la aparición si el partial existe */}}
+    {{- /* Descomenta la siguiente línea si quieres que aparezca siempre sin configurar la lista */}}
+    {{- /* partial "share-whatsapp.html" $.Page */}}
+{{- end }}

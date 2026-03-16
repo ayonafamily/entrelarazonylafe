@@ -31,7 +31,7 @@ ShowBreadCrumbs = true
 
 # Botones de compartir
 ShowShareButtons = true
-ShareButtons = ["linkedin", "twitter", "facebook"]
+ShareButtons = ["linkedin", "twitter", "facebook","whatsapp"]
 
 [params.social]
 github = "ayonafamily"
